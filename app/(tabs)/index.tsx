@@ -1,5 +1,6 @@
 import { Image } from 'expo-image';
 import { Platform, StyleSheet } from 'react-native';
+import { Ionicons, MaterialIcons, Feather } from '@expo/vector-icons';
 
 import { HelloWave } from '@/components/HelloWave';
 import ParallaxScrollView from '@/components/ParallaxScrollView';
@@ -17,38 +18,52 @@ export default function HomeScreen() {
         />
       }>
       <ThemedView style={styles.titleContainer}>
-        <ThemedText type="title">Welcome!</ThemedText>
-        <HelloWave />
+        <ThemedText type="title">VitaPlus</ThemedText>
+        <Ionicons name="nutrition" size={32} color="#4CAF50" />
       </ThemedView>
       <ThemedView style={styles.stepContainer}>
-        <ThemedText type="subtitle">Step 1: Try it</ThemedText>
+        <ThemedView style={styles.featureRow}>
+          <Ionicons name="search" size={24} color="#2196F3" />
+          <ThemedText type="subtitle">Поиск БАДов</ThemedText>
+        </ThemedView>
         <ThemedText>
-          Edit <ThemedText type="defaultSemiBold">app/(tabs)/index.tsx</ThemedText> to see changes.
-          Press{' '}
-          <ThemedText type="defaultSemiBold">
-            {Platform.select({
-              ios: 'cmd + d',
-              android: 'cmd + m',
-              web: 'F12',
-            })}
-          </ThemedText>{' '}
-          to open developer tools.
+          База данных добавок с детальной информацией
         </ThemedText>
       </ThemedView>
       <ThemedView style={styles.stepContainer}>
-        <ThemedText type="subtitle">Step 2: Explore</ThemedText>
+        <ThemedView style={styles.featureRow}>
+          <MaterialIcons name="camera-alt" size={24} color="#FF9800" />
+          <ThemedText type="subtitle">AI Сканирование</ThemedText>
+        </ThemedView>
         <ThemedText>
-          {`Tap the Explore tab to learn more about what's included in this starter app.`}
+          Анализ этикеток через камеру
         </ThemedText>
       </ThemedView>
       <ThemedView style={styles.stepContainer}>
-        <ThemedText type="subtitle">Step 3: Get a fresh start</ThemedText>
+        <ThemedView style={styles.featureRow}>
+          <Ionicons name="library" size={24} color="#9C27B0" />
+          <ThemedText type="subtitle">Персональный стек</ThemedText>
+        </ThemedView>
         <ThemedText>
-          {`When you're ready, run `}
-          <ThemedText type="defaultSemiBold">npm run reset-project</ThemedText> to get a fresh{' '}
-          <ThemedText type="defaultSemiBold">app</ThemedText> directory. This will move the current{' '}
-          <ThemedText type="defaultSemiBold">app</ThemedText> to{' '}
-          <ThemedText type="defaultSemiBold">app-example</ThemedText>.
+          Управление своими добавками
+        </ThemedText>
+      </ThemedView>
+      <ThemedView style={styles.stepContainer}>
+        <ThemedView style={styles.featureRow}>
+          <Feather name="zap" size={24} color="#F44336" />
+          <ThemedText type="subtitle">AI Анализ</ThemedText>
+        </ThemedView>
+        <ThemedText>
+          Проверка совместимости и рекомендации
+        </ThemedText>
+      </ThemedView>
+      <ThemedView style={styles.stepContainer}>
+        <ThemedView style={styles.featureRow}>
+          <Ionicons name="analytics" size={24} color="#607D8B" />
+          <ThemedText type="subtitle">Инсайты</ThemedText>
+        </ThemedView>
+        <ThemedText>
+          Статистика и аналитика приема
         </ThemedText>
       </ThemedView>
     </ParallaxScrollView>
@@ -64,6 +79,11 @@ const styles = StyleSheet.create({
   stepContainer: {
     gap: 8,
     marginBottom: 8,
+  },
+  featureRow: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 12,
   },
   reactLogo: {
     height: 178,
