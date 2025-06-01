@@ -1,0 +1,87 @@
+ОЧИЩЕННЫЙ СПИСОК РЕАЛЬНЫХ ВЕЩЕСТВ ДЛЯ ВЗАИМОДЕЙСТВИЙ
+============================================================
+
+💊 ЛЕКАРСТВА:
+   1. Hydro
+   2. Mevacor
+   3. Microzide
+   4. Stalevo
+   5. Sterapred
+   6. Sumycin
+   7. Zestril
+
+🧬 ВИТАМИНЫ/МИНЕРАЛЫ/БАДы:
+   1. Calcium carbonate supplements can interfere
+   2. Calcium might interfere
+   3. Copper
+   4. Copper is not known to interact
+   5. Folic
+   6. High dietary intakes of zinc can interfere
+   7. Low potassium intakes impair calcium reabsorption
+   8. Magnesium supplements can interact or interfere
+   9. Very high doses of zinc supplements can interfere
+  10. Vitamin
+
+🏥 БОЛЕЗНИ/СОСТОЯНИЯ:
+   1. Alzheimer
+   2. Crohn
+   3. Even mild anemia of chronic disease is associated
+   4. Menkes disease
+   5. Menkes disease die by age
+   6. Wernicke
+   7. Wilson disease
+
+🍎 ПРОДУКТЫ/ВЕЩЕСТВА:
+   1. Chinese cabbage
+   2. Sunscreens
+
+❓ ПРОЧЕЕ:
+   1. Absorption from supplements is highest
+   2. African
+   3. American
+   4. Among the women
+   5. Bariatric surgery for weight loss is associated
+   6. Because treatment
+   7. Child
+   8. Children
+   9. Chromium supplements might interact or interfere
+  10. Chronic iodine deficiency may be associated
+  11. Chronic treatment
+  12. Combining orlistat
+  13. Compared
+  14. Consuming diets
+  15. Consumption of foods fortified
+  16. Dietetics
+  17. Diminished gastric acid secretion associated
+  18. Drug
+  19. Estrogen study
+  20. Fat malabsorption is associated
+  21. Folate supplements can interact
+  22. Folate supplements could interfere
+  23. Giving iodine supplements to children
+  24. Goitrogens are substances that interfere
+  25. Gynecology states that daily supplementation with
+  26. Health
+  27. Health section above
+  28. Higher potassium intakes have been associated
+  29. In combination
+  30. In comparison
+  31. In postmenopausal women
+  32. Individuals
+  33. Iodine supplements can interact or interfere
+  34. Iodine supplements might interact
+  35. Laboratory
+  36. Ls on the amounts associated
+  37. Manganese is not known to interact or interfere
+  38. Medications
+  39. Molybdenum is not known to interact or interfere
+  40. Osteoporosis is most often associated
+  41. Potassium inadequacy can occur
+  42. Prevention
+  43. Riboflavin is not known to interact
+  44. Supplementation
+  45. These drugs can interfere
+  46. Treatment
+  47. Ukraine
+
+📊 ИТОГО: 73 реальных веществ

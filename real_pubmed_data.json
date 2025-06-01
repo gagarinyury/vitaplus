@@ -1,0 +1,52 @@
+{
+  "Эхинацея": {
+    "general": {
+      "count": 783,
+      "query": "echinacea AND humans[MeSH]"
+    },
+    "interactions": {
+      "count": 122,
+      "query": "echinacea  AND \"drug interactions\" AND humans[MeSH]"
+    }
+  },
+  "Гинкго": {
+    "general": {
+      "count": 2333,
+      "query": "ginkgo biloba AND humans[MeSH]"
+    },
+    "interactions": {
+      "count": 212,
+      "query": "ginkgo biloba  AND \"drug interactions\" AND humans[MeSH]"
+    }
+  },
+  "Зверобой": {
+    "general": {
+      "count": 1273,
+      "query": "\"st john's wort\" AND humans[MeSH]"
+    },
+    "interactions": {
+      "count": 451,
+      "query": "\"st john's wort\"  AND \"drug interactions\" AND humans[MeSH]"
+    }
+  },
+  "Женьшень": {
+    "general": {
+      "count": 4295,
+      "query": "ginseng AND humans[MeSH]"
+    },
+    "interactions": {
+      "count": 249,
+      "query": "ginseng  AND \"drug interactions\" AND humans[MeSH]"
+    }
+  },
+  "Чеснок": {
+    "general": {
+      "count": 3256,
+      "query": "garlic AND humans[MeSH]"
+    },
+    "interactions": {
+      "count": 179,
+      "query": "garlic  AND \"drug interactions\" AND humans[MeSH]"
+    }
+  }
+}

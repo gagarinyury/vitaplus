@@ -1,0 +1,358 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Factsheet xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/factsheet.xsd"><FSID>5088</FSID><LanguageCode>en</LanguageCode><Reviewed>2022-05-11</Reviewed><URL>https://ods.od.nih.gov:443/factsheets/Riboflavin-HealthProfessional/</URL><Title>Riboflavin</Title><ShortTitle /><Content>&lt;h2&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;Riboflavin (also known as vitamin B2) is one of the B vitamins, which are all water soluble. Riboflavin is naturally present in some foods, added to some food products, and available as a dietary supplement. This vitamin is an essential component of two major coenzymes, flavin mononucleotide (FMN; also known as riboflavin-5'-phosphate) and flavin adenine dinucleotide (FAD). These coenzymes play major roles in energy production; cellular function, growth, and development; and metabolism of fats, drugs, and steroids [1-3]. The conversion of the amino acid tryptophan to niacin (sometimes referred to as vitamin B3) requires FAD [3]. Similarly, the conversion of vitamin B6 to the coenzyme pyridoxal 5'-phosphate needs FMN. In addition, riboflavin helps maintain normal levels of homocysteine, an amino acid in the blood [1].&lt;/p&gt;
+
+&lt;p&gt;More than 90% of dietary riboflavin is in the form of FAD or FMN; the remaining 10% is comprised of the free form and glycosides or esters [2, 3]. Most riboflavin is absorbed in the proximal small intestine [4]. The body absorbs little riboflavin from single doses beyond 27 mg and stores only small amounts of riboflavin in the liver, heart, and kidneys. When excess amounts are consumed, they are either not absorbed or the small amount that is absorbed is excreted in urine [3].&lt;/p&gt;
+
+&lt;p&gt;Bacteria in the large intestine produce free riboflavin that can be absorbed by the large intestine in amounts that depend on the diet. More riboflavin is produced after ingestion of vegetable-based than meat-based foods [2].&lt;/p&gt;
+
+&lt;p&gt;Riboflavin is yellow and naturally fluorescent when exposed to ultraviolet light [1]. Moreover, ultraviolet and visible light can rapidly inactivate riboflavin and its derivatives. Because of this sensitivity, lengthy light therapy to treat jaundice in newborns or skin disorders can lead to riboflavin deficiency. The risk of riboflavin loss from exposure to light is the reason why milk is not typically stored in glass containers [3, 5].&lt;/p&gt;
+
+&lt;p&gt;Riboflavin status is not routinely measured in healthy people. A stable and sensitive measure of riboflavin deficiency is the erythrocyte glutathione reductase activity coefficient (EGRAC), which is based on the ratio between this enzyme's in vitro activity in the presence of FAD to that without added FAD [1, 6, 7]. The most appropriate EGRAC thresholds for indicating normal or abnormal riboflavin status are uncertain [6]. An EGRAC of 1.2 or less is usually used to indicate adequate riboflavin status, 1.2&amp;ndash;1.4 to indicate marginal deficiency, and greater than 1.4 to indicate riboflavin deficiency [1, 6]. However, a higher EGRAC does not necessarily correlate with the degree of riboflavin deficiency. Furthermore, the EGRAC cannot be used in people with glucose-6-phosphate dehydrogenase deficiency, which is present in about 10% of African Americans [8].&lt;/p&gt;
+
+&lt;p&gt;Another widely used measure of riboflavin status is fluorometric measurement of urinary excretion over 24 hours (expressed as total amount of riboflavin excreted or in relation to the amount of creatinine excreted) [2]. Because the body can store only small amounts of riboflavin, urinary excretion reflects dietary intake until tissues are saturated [6]. Total riboflavin excretion in healthy, riboflavin-replete adults is at least 120 mcg/day; a rate of less than 40 mcg/day indicates deficiency [1, 6]. This technique is less accurate for reflecting long-term riboflavin status than EGRAC [1, 6]. Also, urinary excretion levels can decrease with age and increase with exposure to stress and certain drugs, and the amount excreted strongly reflects recent intake [1].&lt;/p&gt;
+
+&lt;h2&gt;Recommended Intakes&lt;/h2&gt;
+
+&lt;p&gt;Intake recommendations for riboflavin and other nutrients are provided in the Dietary Reference Intakes (DRIs) developed by the Food and Nutrition Board (FNB) at the Institute of Medicine of the National Academies [3]. DRI is the general term for a set of reference values used for planning and assessing nutrient intakes of healthy people. These values, which vary by age and sex, include the following:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Recommended Dietary Allowance (RDA): Average daily level of intake sufficient to meet the nutrient requirements of nearly all (97%&amp;ndash;98%) healthy individuals; often used to plan nutritionally adequate diets for individuals&lt;/li&gt;
+	&lt;li&gt;Adequate Intake (AI): Intake at this level is assumed to ensure nutritional adequacy; established when evidence is insufficient to develop an RDA&lt;/li&gt;
+	&lt;li&gt;Estimated Average Requirement (EAR): Average daily level of intake estimated to meet the requirements of 50% of healthy individuals; usually used to assess the nutrient intakes of groups of people and to plan nutritionally adequate diets for them; can also be used to assess the nutrient intakes of individuals&lt;/li&gt;
+	&lt;li&gt;Tolerable Upper Intake Level (UL): Maximum daily intake unlikely to cause adverse health effects&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Table 1 lists the current RDAs for riboflavin [3]. For infants from birth to 12 months, the FNB established an AI for riboflavin that is equivalent to the mean intake of riboflavin in healthy, breastfed infants.&lt;/p&gt;
+
+&lt;table border="1"&gt;
+	&lt;caption&gt;Table 1: Recommended Dietary Allowances (RDAs) for Riboflavin [3]&lt;/caption&gt;
+	&lt;thead&gt;
+		&lt;tr&gt;
+			&lt;th scope="col"&gt;Age&lt;/th&gt;
+			&lt;th scope="col"&gt;Male&lt;/th&gt;
+			&lt;th scope="col"&gt;Female&lt;/th&gt;
+			&lt;th scope="col"&gt;Pregnancy&lt;/th&gt;
+			&lt;th scope="col"&gt;Lactation&lt;/th&gt;
+		&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Birth to 6 months*&lt;/td&gt;
+			&lt;td align="right"&gt;0.3 mg&lt;/td&gt;
+			&lt;td align="right"&gt;0.3 mg&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;7&amp;ndash;12 months*&lt;/td&gt;
+			&lt;td align="right"&gt;0.4 mg&lt;/td&gt;
+			&lt;td align="right"&gt;0.4 mg&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;1&amp;ndash;3 years&lt;/td&gt;
+			&lt;td align="right"&gt;0.5 mg&lt;/td&gt;
+			&lt;td align="right"&gt;0.5 mg&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;4&amp;ndash;8 years&lt;/td&gt;
+			&lt;td align="right"&gt;0.6 mg&lt;/td&gt;
+			&lt;td align="right"&gt;0.6 mg&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;9&amp;ndash;13 years&lt;/td&gt;
+			&lt;td align="right"&gt;0.9 mg&lt;/td&gt;
+			&lt;td align="right"&gt;0.9 mg&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;14&amp;ndash;18 years&lt;/td&gt;
+			&lt;td align="right"&gt;1.3 mg&lt;/td&gt;
+			&lt;td align="right"&gt;1.0 mg&lt;/td&gt;
+			&lt;td align="right"&gt;1.4 mg&lt;/td&gt;
+			&lt;td align="right"&gt;1.6 mg&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;19&amp;ndash;50 years&lt;/td&gt;
+			&lt;td align="right"&gt;1.3 mg&lt;/td&gt;
+			&lt;td align="right"&gt;1.1 mg&lt;/td&gt;
+			&lt;td align="right"&gt;1.4 mg&lt;/td&gt;
+			&lt;td align="right"&gt;1.6 mg&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;51+ years&lt;/td&gt;
+			&lt;td align="right"&gt;1.3 mg&lt;/td&gt;
+			&lt;td align="right"&gt;1.1 mg&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;* AI&lt;/p&gt;
+
+&lt;h2&gt;Sources of Riboflavin&lt;/h2&gt;
+
+
+&lt;h3&gt;Food&lt;/h3&gt;
+
+&lt;p&gt;Foods that are particularly rich in riboflavin include eggs, organ meats (kidneys and liver), lean meats, and milk [2, 4]. Some vegetables also contain riboflavin. Grains and cereals are fortified with riboflavin in the United States and many other countries [4]. The largest dietary contributors of total riboflavin intake in U.S. men and women are milk and milk drinks, bread and bread products, mixed foods whose main ingredient is meat, ready-to-eat cereals, and mixed foods whose main ingredient is grain [3]. The riboflavin in most foods is in the form of FAD, although the main form in eggs and milk is free riboflavin [9].&lt;/p&gt;
+
+&lt;p&gt;About 95% of riboflavin in the form of FAD or FMN from food is bioavailable up to a maximum of about 27 mg of riboflavin per meal or dose [3].The bioavailability of free riboflavin is similar to that of FAD and FMN [9, 10]. Because riboflavin is soluble in water, about twice as much riboflavin content is lost in cooking water when foods are boiled as when they are prepared in other ways, such as by steaming or microwaving [11].&lt;/p&gt;
+
+&lt;p&gt;Several food sources of riboflavin are listed in Table 2.&lt;/p&gt;
+
+&lt;table border="1"&gt;
+	&lt;caption&gt;Table 2: Riboflavin Content of Selected Foods [12]&lt;/caption&gt;
+	&lt;thead&gt;
+		&lt;tr&gt;
+			&lt;th scope="col"&gt;Food&lt;/th&gt;
+			&lt;th scope="col"&gt;Milligrams&lt;br&gt;
+			(mg) per&lt;br&gt;
+			serving&lt;/th&gt;
+			&lt;th scope="col"&gt;Percent&lt;br&gt;
+			DV*&lt;/th&gt;
+		&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Beef liver, pan fried, 3 ounces&lt;/td&gt;
+			&lt;td align="right"&gt;2.9&lt;/td&gt;
+			&lt;td align="right"&gt;223&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Breakfast cereals, fortified with 100% of the DV for riboflavin, 1 serving&lt;/td&gt;
+			&lt;td align="right"&gt;1.3&lt;/td&gt;
+			&lt;td align="right"&gt;100&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Oats, instant, fortified, cooked with water, 1 cup&lt;/td&gt;
+			&lt;td align="right"&gt;1.1&lt;/td&gt;
+			&lt;td align="right"&gt;85&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Yogurt, plain, fat free, 1 cup&lt;/td&gt;
+			&lt;td align="right"&gt;0.6&lt;/td&gt;
+			&lt;td align="right"&gt;46&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Milk, 2% fat, 1 cup&lt;/td&gt;
+			&lt;td align="right"&gt;0.5&lt;/td&gt;
+			&lt;td align="right"&gt;38&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Beef, tenderloin steak, boneless, trimmed of fat, grilled, 3 ounces&lt;/td&gt;
+			&lt;td align="right"&gt;0.4&lt;/td&gt;
+			&lt;td align="right"&gt;31&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Clams, mixed species, cooked, moist heat, 3 ounces&lt;/td&gt;
+			&lt;td align="right"&gt;0.4&lt;/td&gt;
+			&lt;td align="right"&gt;31&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Almonds, dry roasted, 1 ounce&lt;/td&gt;
+			&lt;td align="right"&gt;0.3&lt;/td&gt;
+			&lt;td align="right"&gt;23&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Cheese, Swiss, 3 ounces&lt;/td&gt;
+			&lt;td align="right"&gt;0.3&lt;/td&gt;
+			&lt;td align="right"&gt;23&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Mushrooms, portabella, sliced, grilled, &amp;frac12; cup&lt;/td&gt;
+			&lt;td align="right"&gt;0.2&lt;/td&gt;
+			&lt;td align="right"&gt;15&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Rotisserie chicken, breast meat only, 3 ounces&lt;/td&gt;
+			&lt;td align="right"&gt;0.2&lt;/td&gt;
+			&lt;td align="right"&gt;15&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Egg, whole, scrambled, 1 large&lt;/td&gt;
+			&lt;td align="right"&gt;0.2&lt;/td&gt;
+			&lt;td align="right"&gt;15&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Quinoa, cooked, 1 cup&lt;/td&gt;
+			&lt;td align="right"&gt;0.2&lt;/td&gt;
+			&lt;td align="right"&gt;15&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Bagel, plain, enriched, 1 medium (3&amp;frac12;&amp;quot;&amp;ndash;4&amp;quot; diameter)&lt;/td&gt;
+			&lt;td align="right"&gt;0.2&lt;/td&gt;
+			&lt;td align="right"&gt;15&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Salmon, pink, canned, 3 ounces&lt;/td&gt;
+			&lt;td align="right"&gt;0.2&lt;/td&gt;
+			&lt;td align="right"&gt;15&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Spinach, raw, 1 cup&lt;/td&gt;
+			&lt;td align="right"&gt;0.1&lt;/td&gt;
+			&lt;td align="right"&gt;8&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Apple, with skin, 1 large&lt;/td&gt;
+			&lt;td align="right"&gt;0.1&lt;/td&gt;
+			&lt;td align="right"&gt;8&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Kidney beans, canned, 1 cup&lt;/td&gt;
+			&lt;td align="right"&gt;0.1&lt;/td&gt;
+			&lt;td align="right"&gt;8&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Macaroni, elbow shaped, whole wheat, cooked, 1 cup&lt;/td&gt;
+			&lt;td align="right"&gt;0.1&lt;/td&gt;
+			&lt;td align="right"&gt;8&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Bread, whole wheat, 1 slice&lt;/td&gt;
+			&lt;td align="right"&gt;0.1&lt;/td&gt;
+			&lt;td align="right"&gt;8&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Cod, Atlantic, cooked, dry heat, 3 ounces&lt;/td&gt;
+			&lt;td align="right"&gt;0.1&lt;/td&gt;
+			&lt;td align="right"&gt;8&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Sunflower seeds, toasted, 1 ounce&lt;/td&gt;
+			&lt;td align="right"&gt;0.1&lt;/td&gt;
+			&lt;td align="right"&gt;8&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Tomatoes, crushed, canned, &amp;frac12; cup&lt;/td&gt;
+			&lt;td align="right"&gt;0.1&lt;/td&gt;
+			&lt;td align="right"&gt;8&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Rice, white, enriched, long grain, cooked, &amp;frac12; cup&lt;/td&gt;
+			&lt;td align="right"&gt;0.1&lt;/td&gt;
+			&lt;td align="right"&gt;8&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Rice, brown, long grain, cooked, &amp;frac12; cup&lt;/td&gt;
+			&lt;td align="right"&gt;0&lt;/td&gt;
+			&lt;td align="right"&gt;0&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;*DV = Daily Value. The U.S. Food and Drug Administration (FDA) developed DVs to help consumers compare the nutrient contents of foods and dietary supplements within the context of a total diet. The DV for riboflavin is 1.3 mg for adults and children age 4 years and older [13]. FDA does not require food labels to list riboflavin content unless riboflavin has been added to the food. Foods providing 20% or more of the DV are considered to be high sources of a nutrient, but foods providing lower percentages of the DV also contribute to a healthful diet.&lt;/p&gt;
+
+&lt;p&gt;The U.S. Department of Agriculture's (USDA's) &lt;a href="https://fdc.nal.usda.gov/" target="_blank"&gt;FoodData Central&lt;/a&gt;&lt;a href="https://ods.od.nih.gov:443/About/exit_disclaimer.aspx" title="External Website"&gt;&lt;img src="/images/Common/externallink.png"  height="12" width="12"  alt="external link disclaimer" class="externallink" /&gt;&lt;/a&gt; [12] lists the nutrient content of many foods and provides a comprehensive list of foods containing riboflavin arranged by &lt;a href="https://ods.od.nih.gov:443/pubs/usdandb/Riboflavin-Content.pdf"&gt;nutrient content&lt;/a&gt; and &lt;a href="https://ods.od.nih.gov:443/pubs/usdandb/Riboflavin-Food.pdf"&gt;food name&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;Dietary supplements&lt;/h3&gt;
+
+&lt;p&gt;Riboflavin is available in many dietary supplements. Multivitamin/mineral supplements with riboflavin commonly provide 1.3 mg riboflavin (100% of the DV) [14]. Supplements containing riboflavin only or B-complex vitamins (that include riboflavin) are also available. In most supplements, riboflavin is in the free form, but some supplements have riboflavin 5'-phosphate.&lt;/p&gt;
+
+&lt;h2&gt;Riboflavin Intakes and Status&lt;/h2&gt;
+
+&lt;p&gt;Most people in the United States consume the recommended amounts of riboflavin. An analysis of data from the 2003&amp;ndash;2006 National Health and Nutrition Examination Survey (NHANES) showed that less than 6% of the U.S. population has an intake of riboflavin from foods and supplements below the EAR [15]. An analysis of self-reported data from the 1999&amp;ndash;2004 NHANES found that intakes of riboflavin were higher in lacto-ovo vegetarians (2.3 mg/day) than nonvegetarians (2.1 mg/day) [16].&lt;/p&gt;
+
+&lt;p&gt;Among children and teens, the average daily riboflavin intake from foods is 1.8 mg for age 2&amp;ndash;5 years, 1.9 mg for age 6&amp;ndash;11, and 2.1 mg for age 12&amp;ndash;19 [17]. In adults, the average daily riboflavin intake from foods is 2.5 mg in men and 1.8 mg in women. The average daily riboflavin intake from foods and supplements in children and teens is 2.1 mg for age 2&amp;ndash;5 years, 2.2 mg for age 6&amp;ndash;11, and 2.3 mg for age 12&amp;ndash;19. In adults age 20 and older, the average daily riboflavin intake from foods and supplements is 4.5 mg in men and 4.7 mg in women.&lt;/p&gt;
+
+&lt;h2&gt;Riboflavin Deficiency&lt;/h2&gt;
+
+&lt;p&gt;Riboflavin deficiency is extremely rare in the United States. In addition to inadequate intake, causes of riboflavin deficiency can include endocrine abnormalities (such as thyroid hormone insufficiency) and some diseases [1]. The signs and symptoms of riboflavin deficiency (also known as ariboflavinosis) include skin disorders, hyperemia (excess blood) and edema of the mouth and throat, angular stomatitis (lesions at the corners of the mouth), cheilosis (swollen, cracked lips), hair loss, reproductive problems, sore throat, itchy and red eyes, and degeneration of the liver and nervous system [1-3, 8]. People with riboflavin deficiency typically have deficiencies of other nutrients, so some of these signs and symptoms might reflect these other deficiencies. Severe riboflavin deficiency can impair the metabolism of other nutrients, especially other B vitamins, through diminished levels of flavin coenzymes [3]. Anemia and cataracts can develop if riboflavin deficiency is severe and prolonged [1].&lt;/p&gt;
+
+&lt;p&gt;The earlier changes associated with riboflavin deficiency are easily reversed. However, riboflavin supplements rarely reverse later anatomical changes (such as formation of cataracts) [1].&lt;/p&gt;
+
+&lt;h2&gt;Groups at Risk of Riboflavin Inadequacy&lt;/h2&gt;
+
+&lt;p&gt;The following groups are among those most likely to have inadequate riboflavin status.&lt;/p&gt;
+
+&lt;h3&gt;Vegetarian athletes&lt;/h3&gt;
+
+&lt;p&gt;Exercise produces stress in the metabolic pathways that use riboflavin [18]. The Academy of Nutrition and Dietetics, Dietitians of Canada, and the American College of Sports Medicine state that vegetarian athletes are at risk of riboflavin deficiency because of their increased need for this nutrient and because some vegetarians exclude all animal products (including milk, yogurt, cheese, and eggs), which tend to be good sources of riboflavin, from their diets [19]. These associations recommend that vegetarian athletes consult a sports dietitian to avoid this potential problem.&lt;/p&gt;
+
+&lt;h3&gt;Pregnant and lactating women and their infants&lt;/h3&gt;
+
+&lt;p&gt;Pregnant or lactating women who rarely consume meats or dairy products (such as those living in developing countries and some vegetarians in the United States) are at risk of riboflavin deficiency, which can have adverse effects on the health of both mothers and their infants [2]. Riboflavin deficiency during pregnancy, for example, can increase the risk of preeclampsia [20]. The limited evidence on the benefits of riboflavin supplements during pregnancy in both developed and developing countries is mixed [21-23].&lt;/p&gt;
+
+&lt;p&gt;Riboflavin intakes during pregnancy have a positive association with infant birth weight and length [24]. Infants of mothers with riboflavin deficiency or low dietary intakes (less than 1.2 mg/day) during pregnancy have a higher risk of deficiency and of certain birth defects (such as outflow tract defects of the heart) [22, 25]. However, maternal riboflavin intake has no association with the risk of orofacial clefts in infants [26].&lt;/p&gt;
+
+&lt;p&gt;In well-nourished women, riboflavin concentrations in breast milk range from 180 to 800 mcg/L and concentrations of riboflavin in breast milk increase over time [27, 28]. In developing countries, in contrast, riboflavin levels in breast milk range from 160 to 220 mcg/L [27].&lt;/p&gt;
+
+&lt;h3&gt;People who are vegan and/or consume little milk&lt;/h3&gt;
+
+&lt;p&gt;In people who eat meat and dairy products, these foods contribute a substantial proportion of riboflavin in the diet. For this reason, people who live in developing countries and have limited intakes of meat and dairy products have an increased risk of riboflavin deficiency [29, 30]. Vegans and those who consume little milk in developed countries are also at risk of riboflavin inadequacy [31-35].&lt;/p&gt;
+
+&lt;h3&gt;People with riboflavin transporter deficiency&lt;/h3&gt;
+
+&lt;p&gt;Riboflavin transporter deficiency (formerly known as Brown-Vialetto-Van Laere or Fazio-Londe syndrome) is a rare neurological disorder. It can begin between infancy and young adulthood and is associated with hearing loss, bulbar palsy (a motor-neuron disease), respiratory difficulties, and other symptoms [36,37]. The disease is caused by mutations in the &lt;em&gt;SLC52A3&lt;/em&gt; or &lt;em&gt;SLC52A2&lt;/em&gt; genes, which encode riboflavin transporters. As a result, these patients cannot properly absorb and transport riboflavin, so they develop riboflavin deficiency. Although no cure exists for riboflavin transporter deficiency, high-dose riboflavin supplementation can be a life-saving treatment in this population, especially when it is initiated soon after symptom onset.&lt;/p&gt;
+
+&lt;h2&gt;Riboflavin and Health&lt;/h2&gt;
+
+&lt;p&gt;This section focuses on two conditions in which riboflavin might play a role: migraine headaches and cancer.&lt;/p&gt;
+
+&lt;h3&gt;Migraine headaches&lt;/h3&gt;
+
+&lt;p&gt;Migraine headaches typically produce intense pulsing or throbbing pain in one area of the head [38]. These headaches are sometimes preceded or accompanied by aura (transient focal neurological symptoms before or during the headaches). Mitochondrial dysfunction is thought to play a causal role in some types of migraine [39]. Because riboflavin is required for mitochondrial function, researchers are studying the potential use of riboflavin to prevent or treat migraine headaches [40].&lt;/p&gt;
+
+&lt;p&gt;Some, but not all, of the few small studies conducted to date have found evidence of a beneficial effect of riboflavin supplements on migraine headaches in adults and children. In a randomized trial in 55 adults with migraine, 400 mg/day riboflavin reduced the frequency of migraine attacks by two per month compared to placebo [41]. In a retrospective study in 41 children (mean age 13 years) in Italy, 200 or 400 mg/day riboflavin for 3 to 6 months significantly reduced the frequency (from 21.7 &amp;plusmn; 13.7 to 13.2 &amp;plusmn; 11.8 migraine attacks over a 3-month period) and intensity of migraine headaches during treatment [42]. The beneficial effects lasted throughout the 1.5-year follow-up period after treatment ended. However, two small randomized studies in children found that 50 to 200 mg/day riboflavin did not reduce the number of migraine headaches or headache severity compared to placebo [43,44].&lt;/p&gt;
+
+&lt;p&gt;The Quality Standards Subcommittee of the American Academy of Neurology and the American Headache Society concluded that riboflavin is probably effective for preventing migraine headaches and recommended offering it for this purpose [45]. The Canadian Headache Society recommends 400 mg/day riboflavin for migraine headache prevention, noting that although the evidence supporting this recommendation is of low quality, there is some evidence for benefit and side effects (such as discolored urine) are minimal [46].&lt;/p&gt;
+
+&lt;h3&gt;Cancer prevention&lt;/h3&gt;
+
+&lt;p&gt;Experts have theorized that riboflavin might help prevent the DNA damage caused by many carcinogens by acting as a coenzyme with several different cytochrome P450 enzymes [1]. However, data on the relationship between riboflavin and cancer prevention or treatment are limited and study findings are mixed.&lt;/p&gt;
+
+&lt;p&gt;A few large observational studies have produced conflicting results on the relationship between riboflavin intakes and lung cancer risk. A prospective study followed 41,514 current, former, and never smokers in the Melbourne Collaborative Cohort Study for 15 years, on average [47]. The average riboflavin intake among all participants was 2.5 mg/day. The results showed a significant inverse association between dietary riboflavin intake and lung cancer risk in current smokers (fifth versus first quintile) but not former or never smokers. However, another cohort study in 385,747 current, former, and never smokers who were followed for up to 12 years in the European Prospective Investigation into Cancer and Nutrition found no association between riboflavin intakes and colorectal cancer risk in any of the three groups [48]. Moreover, the prospective Canadian National Breast Screening Study showed no association between dietary intakes or serum levels of riboflavin and lung cancer risk in 89,835 women age 40&amp;ndash;59 from the general population over 16.3 years, on average [49].&lt;/p&gt;
+
+&lt;p&gt;Observational studies on the relationship between riboflavin intakes and colorectal cancer risk have not yielded conclusive results either. An analysis of data on 88,045 postmenopausal women in the Women's Health Initiative Observational Study showed that total intakes of riboflavin from both foods and supplements were associated with a lower risk of colorectal cancer [50]. A study that followed 2,349 individuals with cancer and 4,168 individuals without cancer participating in the Netherlands Cohort Study on Diet and Cancer for 13 years found no significant association between riboflavin and proximal colon cancer risk among women [51].&lt;/p&gt;
+
+&lt;p&gt;Future studies, including clinical trials, are needed to clarify the relationship between riboflavin intakes and various types of cancer and determine whether riboflavin supplements might reduce cancer risk.&lt;/p&gt;
+
+&lt;h2&gt;Health Risks from Excessive Riboflavin&lt;/h2&gt;
+
+&lt;p&gt;Intakes of riboflavin from food that are many times the RDA have no observable toxicity, possibly because riboflavin's solubility and capacity to be absorbed in the gastrointestinal tract are limited [1, 3]. Because adverse effects from high riboflavin intakes from foods or supplements (400 mg/day for at least 3 months) have not been reported, the FNB did not establish ULs for riboflavin [3]. The limited data available on riboflavin's adverse effects do not mean, however, that high intakes have no adverse effects, and the FNB urges people to be cautious about consuming excessive amounts of riboflavin [3].&lt;/p&gt;
+
+&lt;h2&gt;Interactions with Medications&lt;/h2&gt;
+
+&lt;p&gt;Riboflavin is not known to have any clinically relevant interactions with medications.&lt;/p&gt;
+
+&lt;h2&gt;Riboflavin and Healthful Diets&lt;/h2&gt;
+
+&lt;p&gt;The federal government's 2020&amp;ndash;2025 &lt;em&gt;Dietary Guidelines for Americans&lt;/em&gt; notes that &amp;quot;Because foods provide an array of nutrients and other components that have benefits for health, nutritional needs should be met primarily through foods. ... In some cases, fortified foods and dietary supplements are useful when it is not possible otherwise to meet needs for one or more nutrients (e.g., during specific life stages such as pregnancy).&amp;quot;&lt;/p&gt;
+
+&lt;p&gt;For more information about building a healthy dietary pattern, refer to the &lt;em&gt;&lt;a href="https://www.dietaryguidelines.gov" target="_blank"&gt;Dietary Guidelines for Americans&lt;/a&gt;&lt;a href="https://ods.od.nih.gov:443/About/exit_disclaimer.aspx" title="External Website"&gt;&lt;img src="/images/Common/externallink.png"  height="12" width="12"  alt="external link disclaimer" class="externallink" /&gt;&lt;/a&gt;&lt;/em&gt; and the U.S. Department of Agriculture's (USDA's)&amp;nbsp;&lt;em&gt;&lt;a href="https://www.choosemyplate.gov/" target="_blank"&gt;MyPlate.&lt;/a&gt;&lt;a href="https://ods.od.nih.gov:443/About/exit_disclaimer.aspx" title="External Website"&gt;&lt;img src="/images/Common/externallink.png"  height="12" width="12"  alt="external link disclaimer" class="externallink" /&gt;&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The &lt;em&gt;Dietary Guidelines for Americans&lt;/em&gt; describes a healthy dietary pattern as one that&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Includes a variety of vegetables; fruits; grains (at least half whole grains); fat-free and low-fat milk, yogurt, and cheese; and oils.
+	&lt;ul&gt;
+		&lt;li&gt;Milk and yogurt are high in riboflavin. Enriched grains are good sources of riboflavin. Quinoa and some fruits and vegetables contain riboflavin.&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;Includes a variety of protein foods such as lean meats; poultry; eggs; seafood; beans, peas, and lentils; nuts and seeds; and soy products.
+	&lt;ul&gt;
+		&lt;li&gt;Beef is rich in riboflavin. Chicken, fish, nuts, and eggs are good sources of riboflavin.&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;Limits foods and beverages higher in added sugars, saturated fat, and sodium.&lt;/li&gt;
+	&lt;li&gt;Limits alcoholic beverages.&lt;/li&gt;
+	&lt;li&gt;Stays within your daily calorie needs.&lt;/li&gt;
+&lt;/ul&gt;
+</Content><References Count="51"><EndNote><RefID>1</RefID><Reference>Rivlin RS. Riboflavin. In: Coates PM, Betz JM, Blackman MR, et al., eds. Encyclopedia of Dietary Supplements. 2nd ed. London and New York: Informa Healthcare; 2010:691-9.</Reference><PMID /></EndNote><EndNote><RefID>2</RefID><Reference>&lt;div&gt;
+	Said HM, Ross AC. Riboflavin. In: Ross AC, Caballero B, Cousins RJ, Tucker KL, Ziegler TR, eds. Modern Nutrition in Health and Disease. 11th ed. Baltimore, MD: Lippincott Williams &amp;amp; Wilkins; 2014:325-30.&lt;/div&gt;
+</Reference><PMID /></EndNote><EndNote><RefID>3</RefID><Reference>Institute of Medicine. Food and Nutrition Board. &lt;a href="http://www.nap.edu/catalog/6015/dietary-reference-intakes-for-thiamin-riboflavin-niacin-vitamin-b6-folate-vitamin-b12-pantothenic-acid-biotin-and-choline"&gt;Dietary Reference Intakes: Thiamin, Riboflavin, Niacin, Vitamin B6, Folate, Vitamin B12, Pantothenic Acid, Biotin, and Choline.&lt;/a&gt; Washington, DC: National Academy Press; 1998.</Reference><PMID /></EndNote><EndNote><RefID>4</RefID><Reference>McCormick DB. Riboflavin. In: Erdman JW, Macdonald IA, Zeisel SH, eds. Present Knowledge in Nutrition. 10th ed. Washington, DC: Wiley-Blackwell; 2012:280-92.</Reference><PMID /></EndNote><EndNote><RefID>5</RefID><Reference>Gaylord AM, Warthesen JJ, Smith DE. Influence of milk fat, milk solids, and light intensity on the light stability of vitamin A and riboflavin in lowfat milk. J Dairy Sci 1986;69:2779-84.</Reference><PMID>3805455</PMID></EndNote><EndNote><RefID>6</RefID><Reference>Gibson RS. Assessment of the Status of Thiamin, Riboflavin, and Niacin. In: Principles of Nutritional Assessment. 2nd ed. New York: Oxford University Press; 2005:545-68.</Reference><PMID /></EndNote><EndNote><RefID>7</RefID><Reference>&lt;div&gt;
+	Hoey L, McNulty H, Strain JJ. Studies of biomarker responses to intervention with riboflavin: a systematic review. Am J Clin Nutr 2009;89:1960S-80S.&lt;/div&gt;
+</Reference><PMID>19403631</PMID></EndNote><EndNote><RefID>8</RefID><Reference>McCormick DB. Vitamin/mineral supplements: of questionable benefit for the general population. Nutr Rev 2010;68:207-13.</Reference><PMID>20416017</PMID></EndNote><EndNote><RefID>9</RefID><Reference>Dainty JR, Bullock NR, Hart DJ, Hewson AT, Turner R, Finglas PM, et al. Quantification of the bioavailability of riboflavin from foods by use of stable-isotope labels and kinetic modeling. Am J Clin Nutr 2007;85:1557-64.</Reference><PMID>17556693</PMID></EndNote><EndNote><RefID>10</RefID><Reference>&lt;div&gt;
+	Gregory JF, 3rd. Accounting for differences in the bioactivity and bioavailability of vitamers. Food Nutr Res 2012;56.&lt;/div&gt;
+</Reference><PMID>22489223</PMID></EndNote><EndNote><RefID>11</RefID><Reference>Agte V, Tarwadi K, Mengale S, Hinge A, Chiplonkar S. Vitamin profile of cooked foods: how healthy is the practice of ready-to-eat foods? Int J Food Sci Nutr 2002;53:197-208.</Reference><PMID>11951583</PMID></EndNote><EndNote><RefID>12</RefID><Reference>U.S. Department of Agriculture, Agricultural Research Service. &lt;a href="https://fdc.nal.usda.gov/"&gt;FoodData Central&lt;/a&gt;, 2019.</Reference><PMID /></EndNote><EndNote><RefID>13</RefID><Reference>U.S. Food and Drug Administration. &lt;a href="https://www.federalregister.gov/documents/2016/05/27/2016-11867/food-labeling-revision-of-the-nutrition-and-supplement-facts-labels"&gt;Food Labeling: Revision of the Nutrition and Supplement Facts Labels.&lt;/a&gt; 2016.</Reference><PMID /></EndNote><EndNote><RefID>14</RefID><Reference>National Institutes of Health. &lt;a href="http://dsld.od.nih.gov"&gt;Dietary Supplement Label Database.&lt;/a&gt; 2014.</Reference><PMID /></EndNote><EndNote><RefID>15</RefID><Reference>Fulgoni VL, 3rd, Keast DR, Bailey RL, Dwyer J. Foods, fortificants, and supplements: where do Americans get their nutrients? J Nutr 2011;141:1847-54.</Reference><PMID>21865568</PMID></EndNote><EndNote><RefID>16</RefID><Reference>Farmer B, Larson BT, Fulgoni VL, 3rd, Rainville AJ, Liepa GU. A vegetarian dietary pattern as a nutrient-dense approach to weight management: an analysis of the National Health and Nutrition Examination Survey 1999-2004. J Am Diet Assoc 2011;111:819-27.</Reference><PMID> 21616194</PMID></EndNote><EndNote><RefID>17</RefID><Reference>U.S. Department of Agriculture, Agricultural Research Service. &lt;a href="http://www.ars.usda.gov/Services/docs.htm?docid=18349"&gt;What We Eat in America, 2009-2010.&lt;/a&gt; 2012.</Reference><PMID /></EndNote><EndNote><RefID>18</RefID><Reference>Manore MM. Effect of physical activity on thiamine, riboflavin, and vitamin B-6 requirements. Am J Clin Nutr 2000;72:598S-606S.</Reference><PMID>10919966</PMID></EndNote><EndNote><RefID>19</RefID><Reference>American Dietetic Association, Dietitians of Canada, American College of Sports Medicine, Rodriguez NR, Di Marco NM, Langley S. American College of Sports Medicine position stand. Nutrition and athletic performance. Med Sci Sports Exerc 2009;41:709-31.</Reference><PMID>19225360</PMID></EndNote><EndNote><RefID>20</RefID><Reference>Wacker J, Fruhauf J, Schulz M, Chiwora FM, Volz J, Becker K. Riboflavin deficiency and preeclampsia. Obstet Gynecol 2000;96:38-44.</Reference><PMID>10862839</PMID></EndNote><EndNote><RefID>21</RefID><Reference>Neugebauer J, Zanre Y, Wacker J. Riboflavin supplementation and preeclampsia. Int J Gynaecol Obstet 2006;93:136-7.</Reference><PMID>1654581</PMID></EndNote><EndNote><RefID>22</RefID><Reference>Smedts HP, Rakhshandehroo M, Verkleij-Hagoort AC, de Vries JH, Ottenkamp J, Steegers EA, et al. Maternal intake of fat, riboflavin and nicotinamide and the risk of having offspring with congenital heart defects. Eur J Nutr 2008;47:357-65.</Reference><PMID>18779918</PMID></EndNote><EndNote><RefID>23</RefID><Reference>Suprapto B, Widardo, Suhanantyo. Effect of low-dosage vitamin A and riboflavin on iron-folate supplementation in anaemic pregnant women. Asia Pac J Clin Nutr 2002;11:263-7.</Reference><PMID>12495257</PMID></EndNote><EndNote><RefID>24</RefID><Reference>Badart-Smook A, van Houwelingen AC, Al MD, Kester AD, Hornstra G. Fetal growth is associated positively with maternal intake of riboflavin and negatively with maternal intake of linoleic acid. J Am Diet Assoc 1997;97:867-70.</Reference><PMID>9259708</PMID></EndNote><EndNote><RefID>25</RefID><Reference>Sanchez DJ, Murphy MM, Bosch-Sabater J, Fernandez-Ballart J. Enzymic evaluation of thiamin, riboflavin and pyridoxine status of parturient mothers and their newborn infants in a Mediterranean area of Spain. Eur J Clin Nutr 1999;53:27-38.</Reference><PMID>10048797</PMID></EndNote><EndNote><RefID>26</RefID><Reference>Vujkovic M, Steegers EA, van Meurs J, Yazdanpanah N, van Rooij IA, Uitterlinden AG, et al. The maternal homocysteine pathway is influenced by riboflavin intake and MTHFR polymorphisms without affecting the risk of orofacial clefts in the offspring. Eur J Clin Nutr 2010;64:266-73.</Reference><PMID>19935819</PMID></EndNote><EndNote><RefID>27</RefID><Reference>Allen LH. B Vitamins in Breast Milk: Relative importance of maternal status and intake, and effects on infant status and function. Adv Nutr 2012;3:362-9.</Reference><PMID>22585913</PMID></EndNote><EndNote><RefID>28</RefID><Reference>Sakurai T, Furukawa M, Asoh M, Kanno T, Kojima T, Yonekubo A. Fat-soluble and water-soluble vitamin contents of breast milk from Japanese women. J Nutr Sci Vitaminol 2005;51:239-47.</Reference><PMID>16261995</PMID></EndNote><EndNote><RefID>29</RefID><Reference>Murphy SP, Allen LH. Nutritional importance of animal source foods. J Nutr 2003;133:3932S-5S.</Reference><PMID>14672292</PMID></EndNote><EndNote><RefID>30</RefID><Reference>Nichols EK, Talley LE, Birungi N, McClelland A, Madraa E, Chandia AB, et al. Suspected outbreak of riboflavin deficiency among populations reliant on food assistance: a case study of drought-stricken Karamoja, Uganda, 2009-2010. PloS One 2013;8:e62976.</Reference><PMID>23658790</PMID></EndNote><EndNote><RefID>31</RefID><Reference>Powers HJ, Hill MH, Mushtaq S, Dainty JR, Majsak-Newman G, Williams EA. Correcting a marginal riboflavin deficiency improves hematologic status in young women in the United Kingdom (RIBOFEM). Am J Clin Nutr 2011;93:1274-84.</Reference><PMID>21525198</PMID></EndNote><EndNote><RefID>32</RefID><Reference>Larsson CL, Johansson GK. Dietary intake and nutritional status of young vegans and omnivores in Sweden. Am J Clin Nutr 2002;76:100-6.</Reference><PMID>12081822</PMID></EndNote><EndNote><RefID>33</RefID><Reference>Waldmann A, Koschizke JW, Leitzmann C, Hahn A. Dietary intakes and lifestyle factors of a vegan population in Germany: results from the German Vegan Study. Eur J Clin Nutr 2003;57:947-55.</Reference><PMID>12879089</PMID></EndNote><EndNote><RefID>34</RefID><Reference>Majchrzak D, Singer I, Manner M, Rust P, Genser D, Wagner KH, et al. B-vitamin status and concentrations of homocysteine in Austrian omnivores, vegetarians and vegans. Ann Nutr Metab 2006;50:485-91.</Reference><PMID>16988496</PMID></EndNote><EndNote><RefID>35</RefID><Reference>Whitfield KC, Karakochuk CD, Liu Y, McCann A, Talukder A, Kroeun H, et al. Poor thiamin and riboflavin status is common among women of childbearing age in rural and urban cambodia. J Nutr 2015;145:628-33.</Reference><PMID>25733481</PMID></EndNote><EndNote><RefID>36</RefID><Reference>Bosch AM, Stroek K, Abeling NG, Waterham HR, Ijlst L, Wanders RJ. The Brown-Vialetto-Van Laere and Fazio Londe syndrome revisited: natural history, genetics, treatment and future perspectives. Orphanet J Rare Dis 2012;7:83.</Reference><PMID>23107375</PMID></EndNote><EndNote><RefID>37</RefID><Reference>Jaeger B, Bosch AM. Clinical presentation and outcome of riboflavin transporter deficiency: mini review after five years of experience. J Inherit Metab Dis. 2016;39(4):559-64. </Reference><PMID>26973221</PMID></EndNote><EndNote><RefID>38</RefID><Reference>National Institute of Neurological Disorders and Stroke. &lt;a href="http://www.ninds.nih.gov/disorders/migraine/migraine.htm"&gt;NINDS Migraine Information Page.&lt;/a&gt; National Institute of Neurological Disorders and Stroke, 2014.</Reference><PMID /></EndNote><EndNote><RefID>39</RefID><Reference>Yorns WR, Jr., Hardison HH. Mitochondrial dysfunction in migraine. Semin Pediatr Neurol 2013;20:188-93.</Reference><PMID>24331360</PMID></EndNote><EndNote><RefID>40</RefID><Reference>Di Lorenzo C, Pierelli F, Coppola G, Grieco GS, Rengo C, Ciccolella M, et al. Mitochondrial DNA haplogroups influence the therapeutic response to riboflavin in migraineurs. Neurology 2009;72:1588-94.</Reference><PMID>19414726</PMID></EndNote><EndNote><RefID>41</RefID><Reference>Schoenen J, Jacquy J, Lenaerts M. Effectiveness of high-dose riboflavin in migraine prophylaxis. A randomized controlled trial. Neurology 1998;50:466-70.</Reference><PMID>9484373</PMID></EndNote><EndNote><RefID>42</RefID><Reference>&lt;div&gt;
+	Condo M, Posar A, Arbizzani A, Parmeggiani A. Riboflavin prophylaxis in pediatric and adolescent migraine. J Headache Pain 2009;10:361-5.&lt;/div&gt;
+</Reference><PMID>19649688</PMID></EndNote><EndNote><RefID>43</RefID><Reference>Bruijn J, Duivenvoorden H, Passchier J, Locher H, Dijkstra N, Arts WF. Medium-dose riboflavin as a prophylactic agent in children with migraine: a preliminary placebo-controlled, randomised, double-blind, cross-over trial. Cephalalgia 2010;30:1426-34.</Reference><PMID>20974610</PMID></EndNote><EndNote><RefID>44</RefID><Reference>MacLennan SC, Wade FM, Forrest KM, Ratanayake PD, Fagan E, Antony J. High-dose riboflavin for migraine prophylaxis in children: a double-blind, randomized, placebo-controlled trial. J Child Neurol 2008;23:1300-4.</Reference><PMID>18984840</PMID></EndNote><EndNote><RefID>45</RefID><Reference>Holland S, Silberstein SD, Freitag F, Dodick DW, Argoff C, Ashman E. Evidence-based guideline update: NSAIDs and other complementary treatments for episodic migraine prevention in adults: report of the Quality Standards Subcommittee of the American Academy of Neurology and the American Headache Society. Neurology 2012;78:1346-53.</Reference><PMID>22529203</PMID></EndNote><EndNote><RefID>46</RefID><Reference>Pringsheim T, Davenport W, Mackie G, Worthington I, Aube M, Christie SN, et al. Canadian Headache Society guideline for migraine prophylaxis. Can J Neurol Sci 2012;39:S1-59.</Reference><PMID>22683887</PMID></EndNote><EndNote><RefID>47</RefID><Reference>Bassett JK, Hodge AM, English DR, Baglietto L, Hopper JL, Giles GG, et al. Dietary intake of B vitamins and methionine and risk of lung cancer. Eur J Clin Nutr 2012;66:182-7.</Reference><PMID>21878960</PMID></EndNote><EndNote><RefID>48</RefID><Reference>Johansson M, Relton C, Ueland PM, Vollset SE, Midttun O, Nygard O, et al. Serum B vitamin levels and risk of lung cancer. JAMA 2010;303:2377-85.</Reference><PMID>20551408</PMID></EndNote><EndNote><RefID>49</RefID><Reference>Kabat GC, Miller AB, Jain M, Rohan TE. Dietary intake of selected B vitamins in relation to risk of major cancers in women. Br J Cancer 2008;99:816-21.</Reference><PMID>18665162</PMID></EndNote><EndNote><RefID>50</RefID><Reference>Zschabitz S, Cheng TY, Neuhouser ML, Zheng Y, Ray RM, Miller JW, et al. B vitamin intakes and incidence of colorectal cancer: results from the Women&amp;#39;s Health Initiative Observational Study cohort. Am J Clin Nutr 2013;97:332-43.</Reference><PMID>23255571</PMID></EndNote><EndNote><RefID>51</RefID><Reference>de Vogel S, Dindore V, van Engeland M, Goldbohm RA, van den Brandt PA, Weijenberg MP. Dietary folate, methionine, riboflavin, and vitamin B-6 and risk of sporadic colorectal cancer. J Nutr 2008;138:2372-8.</Reference><PMID>19022960</PMID></EndNote></References><Disclaimer>This fact sheet by the National Institutes of Health (NIH) Office of Dietary Supplements (ODS) provides information that should not take the place of medical advice. We encourage you to talk to your health care providers (doctor, registered dietitian, pharmacist, etc.) about your interest in, questions about, or use of dietary supplements and what may be best for your overall health. Any mention in this publication of a specific product or service, or recommendation from an organization or professional society, does not represent an endorsement by ODS of that product, service, or expert advice.</Disclaimer><ODSLogo>https://ods.od.nih.gov:443/images/common/NIH-ODSlogo_home.png</ODSLogo></Factsheet>

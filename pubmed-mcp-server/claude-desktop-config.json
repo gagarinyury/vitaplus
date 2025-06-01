@@ -1,0 +1,13 @@
+{
+  "mcp_servers": {
+    "pubmed": {
+      "command": "node",
+      "args": ["/Users/yurygagarin/Code/1/vitaplus/pubmed-mcp-server/dist/index.js"],
+      "env": {
+        "PUBMED_API_KEY": "c3dec23f21707809b6c685a2b708fc75ab08",
+        "PUBMED_RATE_LIMIT_RPM": "600",
+        "LOG_LEVEL": "info"
+      }
+    }
+  }
+}

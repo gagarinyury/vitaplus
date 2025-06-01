@@ -1,0 +1,1527 @@
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>База взаимодействий БАДов VitaPlus</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+        .header h1 {
+            margin: 0;
+            font-size: 2.5em;
+            font-weight: 300;
+        }
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            padding: 30px;
+            background: #f8f9fa;
+        }
+        .stat-card {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            text-align: center;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.08);
+        }
+        .stat-number {
+            font-size: 2.5em;
+            font-weight: bold;
+            color: #667eea;
+            margin-bottom: 5px;
+        }
+        .stat-label {
+            color: #6c757d;
+            font-size: 0.9em;
+        }
+        .search-bar {
+            padding: 20px 30px;
+            background: white;
+            border-bottom: 1px solid #e9ecef;
+        }
+        .search-input {
+            width: 100%;
+            padding: 15px;
+            border: 2px solid #e9ecef;
+            border-radius: 10px;
+            font-size: 16px;
+            transition: border-color 0.3s;
+        }
+        .search-input:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+        .supplements-grid {
+            padding: 30px;
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 20px;
+        }
+        .supplement-card {
+            background: white;
+            border: 1px solid #e9ecef;
+            border-radius: 10px;
+            overflow: hidden;
+            transition: transform 0.3s, box-shadow 0.3s;
+        }
+        .supplement-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+        }
+        .supplement-header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 15px;
+            font-weight: bold;
+            font-size: 1.1em;
+        }
+        .supplement-stats {
+            padding: 15px;
+            background: #f8f9fa;
+            display: flex;
+            justify-content: space-between;
+            font-size: 0.9em;
+        }
+        .interactions-list {
+            max-height: 300px;
+            overflow-y: auto;
+        }
+        .interaction-item {
+            padding: 10px 15px;
+            border-bottom: 1px solid #f1f3f4;
+        }
+        .interaction-item:last-child {
+            border-bottom: none;
+        }
+        .interaction-type {
+            display: inline-block;
+            padding: 3px 8px;
+            border-radius: 12px;
+            font-size: 0.8em;
+            font-weight: bold;
+            margin-right: 8px;
+        }
+        .negative { background: #fee; color: #d32f2f; }
+        .positive { background: #e8f5e8; color: #2e7d32; }
+        .neutral { background: #f3f4f6; color: #6b7280; }
+        .severity {
+            display: inline-block;
+            padding: 3px 8px;
+            border-radius: 12px;
+            font-size: 0.8em;
+            font-weight: bold;
+        }
+        .high { background: #ffebee; color: #c62828; }
+        .medium { background: #fff3e0; color: #ef6c00; }
+        .low { background: #f1f8e9; color: #558b2f; }
+        .interaction-effect {
+            margin-top: 5px;
+            font-size: 0.9em;
+            color: #6c757d;
+        }
+        .hidden { display: none; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🧬 База взаимодействий БАДов</h1>
+            <p>VitaPlus Research Database</p>
+        </div>
+        
+        <div class="stats">
+            <div class="stat-card">
+                <div class="stat-number">1910</div>
+                <div class="stat-label">Всего взаимодействий</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number">25</div>
+                <div class="stat-label">БАДов и витаминов</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number">1059</div>
+                <div class="stat-label">Негативных взаимодействий</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number">55</div>
+                <div class="stat-label">Высокой серьезности</div>
+            </div>
+        </div>
+        
+        <div class="search-bar">
+            <input type="text" class="search-input" placeholder="🔍 Поиск по названию БАДа или взаимодействию..." id="searchInput">
+        </div>
+        
+        <div class="supplements-grid" id="supplementsGrid">
+
+            <div class="supplement-card" data-supplement="biotin">
+                <div class="supplement-header">Biotin</div>
+                <div class="supplement-stats">
+                    <span>Всего: 33</span>
+                    <span>Негативных: 14</span>
+                    <span>Позитивных: 8</span>
+                    <span>Серьезных: 1</span>
+                </div>
+                <div class="interactions-list">
+        
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type neutral">neutral</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">have an adverse effect on biotin levels</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type negative">negative</span>
+                            <span class="severity medium">medium</span>
+                        </div>
+                        <div class="interaction-effect">be that anticonvulsant treatment increases biotin catabolism, which leads to red...</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type neutral">neutral</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">The absorption rate of oral, free biotin is 100%, even when people consume pharm...</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type negative">negative</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">Individuals with biotinidase deficiency Biotinidase deficiency is a rare autosom...</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type negative">negative</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">treatment with oral biotin starting at birth (or before symptoms develop) and co...</div>
+                    </div>
+            <div class="interaction-item">... и еще 28 взаимодействий</div>
+                </div>
+            </div>
+        
+            <div class="supplement-card" data-supplement="calcium">
+                <div class="supplement-header">Calcium</div>
+                <div class="supplement-stats">
+                    <span>Всего: 132</span>
+                    <span>Негативных: 74</span>
+                    <span>Позитивных: 31</span>
+                    <span>Серьезных: 2</span>
+                </div>
+                <div class="interactions-list">
+        
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type neutral">neutral</span>
+                            <span class="severity medium">medium</span>
+                        </div>
+                        <div class="interaction-effect">adversely affect calcium levels</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type negative">negative</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">Dolutegravir Dolutegravir (Dovato, Tivicay) is an HIV integrase inhibitor used i...</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type negative">negative</span>
+                            <span class="severity medium">medium</span>
+                        </div>
+                        <div class="interaction-effect">reduce blood levels of dolutegravir substantially, apparently through chelation ...</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type negative">negative</span>
+                            <span class="severity medium">medium</span>
+                        </div>
+                        <div class="interaction-effect">interfere with the absorption of levothyroxine (Synthroid, Levoxyl, and others),...</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type positive">positive</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">increase this risk [108]</div>
+                    </div>
+            <div class="interaction-item">... и еще 127 взаимодействий</div>
+                </div>
+            </div>
+        
+            <div class="supplement-card" data-supplement="chromium">
+                <div class="supplement-header">Chromium</div>
+                <div class="supplement-stats">
+                    <span>Всего: 70</span>
+                    <span>Негативных: 33</span>
+                    <span>Позитивных: 18</span>
+                    <span>Серьезных: 0</span>
+                </div>
+                <div class="interactions-list">
+        
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type neutral">neutral</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">interact with chromium supplements</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type positive">positive</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">increase insulin sensitivity [58, 75, 76]</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type positive">positive</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">increase the risk of hypoglycemia [77]</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type positive">positive</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">have an additive effect with metformin or other antidiabetes medications and thu...</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type negative">negative</span>
+                            <span class="severity medium">medium</span>
+                        </div>
+                        <div class="interaction-effect">Levothyroxine A small study found that taking chromium picolinate supplements at...</div>
+                    </div>
+            <div class="interaction-item">... и еще 65 взаимодействий</div>
+                </div>
+            </div>
+        
+            <div class="supplement-card" data-supplement="copper">
+                <div class="supplement-header">Copper</div>
+                <div class="supplement-stats">
+                    <span>Всего: 33</span>
+                    <span>Негативных: 10</span>
+                    <span>Позитивных: 7</span>
+                    <span>Серьезных: 0</span>
+                </div>
+                <div class="interactions-list">
+        
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type neutral">neutral</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">To date, no studies have compared the bioavailability of copper from these and o...</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type positive">positive</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">Based on studies in animals and humans, the effects of copper deficiency include...</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type neutral">neutral</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">9% claimed to maintain a gluten-free diet, 15% had copper deficiency (less than ...</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type positive">positive</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">College of Gastroenterology notes that people with celiac disease appear to have...</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type neutral">neutral</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">In these individuals, intestinal absorption of dietary copper drops sharply, lea...</div>
+                    </div>
+            <div class="interaction-item">... и еще 28 взаимодействий</div>
+                </div>
+            </div>
+        
+            <div class="supplement-card" data-supplement="folate">
+                <div class="supplement-header">Folate</div>
+                <div class="supplement-stats">
+                    <span>Всего: 125</span>
+                    <span>Негативных: 72</span>
+                    <span>Позитивных: 25</span>
+                    <span>Серьезных: 3</span>
+                </div>
+                <div class="interactions-list">
+        
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type neutral">neutral</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">interact with several medications</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type negative">negative</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">Methotrexate Methotrexate (Rheumatrex, Trexall), used to treat cancer and autoim...</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type negative">negative</span>
+                            <span class="severity medium">medium</span>
+                        </div>
+                        <div class="interaction-effect">the supplements could interfere with methotrexate’s anticancer effects [166]</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type negative">negative</span>
+                            <span class="severity medium">medium</span>
+                        </div>
+                        <div class="interaction-effect">reduce the gastrointestinal side effects of low-dose methotrexate taken for rheu...</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type negative">negative</span>
+                            <span class="severity medium">medium</span>
+                        </div>
+                        <div class="interaction-effect">reduce serum folate levels [169]</div>
+                    </div>
+            <div class="interaction-item">... и еще 120 взаимодействий</div>
+                </div>
+            </div>
+        
+            <div class="supplement-card" data-supplement="iodine">
+                <div class="supplement-header">Iodine</div>
+                <div class="supplement-stats">
+                    <span>Всего: 78</span>
+                    <span>Негативных: 39</span>
+                    <span>Позитивных: 20</span>
+                    <span>Серьезных: 7</span>
+                </div>
+                <div class="interactions-list">
+        
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type neutral">neutral</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">interact with several types of medications</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type negative">negative</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">Angiotensin-converting enzyme inhibitors Angiotensin-converting enzyme (ACE) inh...</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type negative">negative</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">increase the risk of hyperkalemia (elevated blood levels of potassium) [89]</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type positive">positive</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">increase the risk of hyperkalemia [89]</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type negative">negative</span>
+                            <span class="severity medium">medium</span>
+                        </div>
+                        <div class="interaction-effect">This is despite the fact that urinary iodine levels decreased by more than 50% b...</div>
+                    </div>
+            <div class="interaction-item">... и еще 73 взаимодействий</div>
+                </div>
+            </div>
+        
+            <div class="supplement-card" data-supplement="iron">
+                <div class="supplement-header">Iron</div>
+                <div class="supplement-stats">
+                    <span>Всего: 70</span>
+                    <span>Негативных: 55</span>
+                    <span>Позитивных: 9</span>
+                    <span>Серьезных: 2</span>
+                </div>
+                <div class="interactions-list">
+        
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type neutral">neutral</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">have an adverse effect on iron levels</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type negative">negative</span>
+                            <span class="severity medium">medium</span>
+                        </div>
+                        <div class="interaction-effect">Levodopa Some evidence indicates that in healthy people, iron supplements reduce...</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type negative">negative</span>
+                            <span class="severity medium">medium</span>
+                        </div>
+                        <div class="interaction-effect">reduce the amount of levodopa available to the body and, thus, diminish its clin...</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type negative">negative</span>
+                            <span class="severity medium">medium</span>
+                        </div>
+                        <div class="interaction-effect">reduce the absorption of levothyroxine tablets and advise against administering ...</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type negative">negative</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">Proton pump inhibitors Gastric acid plays an important role in the absorption of...</div>
+                    </div>
+            <div class="interaction-item">... и еще 65 взаимодействий</div>
+                </div>
+            </div>
+        
+            <div class="supplement-card" data-supplement="magnesium">
+                <div class="supplement-header">Magnesium</div>
+                <div class="supplement-stats">
+                    <span>Всего: 71</span>
+                    <span>Негативных: 48</span>
+                    <span>Позитивных: 12</span>
+                    <span>Серьезных: 1</span>
+                </div>
+                <div class="interactions-list">
+        
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type neutral">neutral</span>
+                            <span class="severity medium">medium</span>
+                        </div>
+                        <div class="interaction-effect">interact with magnesium supplements or affect magnesium status</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type negative">negative</span>
+                            <span class="severity medium">medium</span>
+                        </div>
+                        <div class="interaction-effect">decrease the absorption of oral bisphosphonates, such as alendronate (Fosamax), ...</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type positive">positive</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">increase the loss of magnesium in urine and lead to magnesium depletion [63]</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type negative">negative</span>
+                            <span class="severity medium">medium</span>
+                        </div>
+                        <div class="interaction-effect">In contrast, potassium-sparing diuretics, such as amiloride (Midamor) and spiron...</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type negative">negative</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">hypomagnesemia [64]</div>
+                    </div>
+            <div class="interaction-item">... и еще 66 взаимодействий</div>
+                </div>
+            </div>
+        
+            <div class="supplement-card" data-supplement="manganese">
+                <div class="supplement-header">Manganese</div>
+                <div class="supplement-stats">
+                    <span>Всего: 27</span>
+                    <span>Негативных: 15</span>
+                    <span>Позитивных: 2</span>
+                    <span>Серьезных: 2</span>
+                </div>
+                <div class="interactions-list">
+        
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type neutral">neutral</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">No data are available on the relative bioavailability of different forms of supp...</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type negative">negative</span>
+                            <span class="severity medium">medium</span>
+                        </div>
+                        <div class="interaction-effect">bone demineralization and poor growth in children; skin rashes, hair depigmentat...</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type positive">positive</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">of the role of manganese as a cofactor for several enzymes, low intakes might in...</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type negative">negative</span>
+                            <span class="severity medium">medium</span>
+                        </div>
+                        <div class="interaction-effect">impair bone formation and reduce bone mineral density [23], and manganese supple...</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type positive">positive</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">5 mg copper) for 2 years improved spinal bone density compared with placebo in 5...</div>
+                    </div>
+            <div class="interaction-item">... и еще 22 взаимодействий</div>
+                </div>
+            </div>
+        
+            <div class="supplement-card" data-supplement="molybdenum">
+                <div class="supplement-header">Molybdenum</div>
+                <div class="supplement-stats">
+                    <span>Всего: 18</span>
+                    <span>Негативных: 11</span>
+                    <span>Позитивных: 0</span>
+                    <span>Серьезных: 0</span>
+                </div>
+                <div class="interactions-list">
+        
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type neutral">neutral</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">No studies have compared the relative bioavailability of molybdenum from these d...</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type negative">negative</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">Molybdenum Deficiency Molybdenum deficiency has not been reported, except in peo...</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type negative">negative</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">In this rare metabolic disorder, known as molybdenum cofactor deficiency, mutati...</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type neutral">neutral</span>
+                            <span class="severity medium">medium</span>
+                        </div>
+                        <div class="interaction-effect">The affected individuals experienced achy joints, gout-like symptoms, and abnorm...</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type neutral">neutral</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">Interactions with Medications Molybdenum has no known, clinically relevant, inte...</div>
+                    </div>
+            <div class="interaction-item">... и еще 13 взаимодействий</div>
+                </div>
+            </div>
+        
+            <div class="supplement-card" data-supplement="niacin">
+                <div class="supplement-header">Niacin</div>
+                <div class="supplement-stats">
+                    <span>Всего: 81</span>
+                    <span>Негативных: 50</span>
+                    <span>Позитивных: 17</span>
+                    <span>Серьезных: 8</span>
+                </div>
+                <div class="interactions-list">
+        
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type neutral">neutral</span>
+                            <span class="severity medium">medium</span>
+                        </div>
+                        <div class="interaction-effect">adversely affect niacin levels</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type negative">negative</span>
+                            <span class="severity medium">medium</span>
+                        </div>
+                        <div class="interaction-effect">interfere with niacin&#x27;s conversion to NAD [43]</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type negative">negative</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">occur in patients with tuberculosis treated with isoniazid, it can be prevented ...</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type positive">positive</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">5 g/day or more are most likely to increase blood glucose levels in individuals ...</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type neutral">neutral</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">The absorption of niacin from inositol hexanicotinate varies widely but on avera...</div>
+                    </div>
+            <div class="interaction-item">... и еще 76 взаимодействий</div>
+                </div>
+            </div>
+        
+            <div class="supplement-card" data-supplement="pantothenic acid">
+                <div class="supplement-header">Pantothenic Acid</div>
+                <div class="supplement-stats">
+                    <span>Всего: 31</span>
+                    <span>Негативных: 20</span>
+                    <span>Позитивных: 4</span>
+                    <span>Серьезных: 0</span>
+                </div>
+                <div class="interactions-list">
+        
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type neutral">neutral</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">No studies have compared the relative bioavailability of pantothenic acid from t...</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type negative">negative</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">The only individuals known to have developed pantothenic acid deficiency were fe...</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type negative">negative</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">On the basis of the experiences of prisoners of war in World War II and studies ...</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type negative">negative</span>
+                            <span class="severity medium">medium</span>
+                        </div>
+                        <div class="interaction-effect">A large number of PANK2 mutations reduce the activity of pantothenate kinase 2, ...</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type negative">negative</span>
+                            <span class="severity medium">medium</span>
+                        </div>
+                        <div class="interaction-effect">reduce symptoms in some patients with atypical PKAN [18]</div>
+                    </div>
+            <div class="interaction-item">... и еще 26 взаимодействий</div>
+                </div>
+            </div>
+        
+            <div class="supplement-card" data-supplement="phosphorus">
+                <div class="supplement-header">Phosphorus</div>
+                <div class="supplement-stats">
+                    <span>Всего: 42</span>
+                    <span>Негативных: 13</span>
+                    <span>Позитивных: 17</span>
+                    <span>Серьезных: 3</span>
+                </div>
+                <div class="interactions-list">
+        
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type neutral">neutral</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">have an adverse effect on phosphate levels</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type negative">negative</span>
+                            <span class="severity medium">medium</span>
+                        </div>
+                        <div class="interaction-effect">Antacids containing calcium carbonate (Rolaids, Tums, Maalox) also decrease inst...</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type positive">positive</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">increase serum phosphate levels [71]</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type neutral">neutral</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">The bioavailability of phosphate salts is approximately 70% [15, 24]</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type neutral">neutral</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">The bioavailability of other forms of phosphorus in supplements has not been det...</div>
+                    </div>
+            <div class="interaction-item">... и еще 37 взаимодействий</div>
+                </div>
+            </div>
+        
+            <div class="supplement-card" data-supplement="potassium">
+                <div class="supplement-header">Potassium</div>
+                <div class="supplement-stats">
+                    <span>Всего: 85</span>
+                    <span>Негативных: 42</span>
+                    <span>Позитивных: 28</span>
+                    <span>Серьезных: 2</span>
+                </div>
+                <div class="interactions-list">
+        
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type positive">positive</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">does not significantly increase total potassium intakes among U</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type positive">positive</span>
+                            <span class="severity medium">medium</span>
+                        </div>
+                        <div class="interaction-effect">increase blood pressure, kidney stone risk, bone turnover, urinary calcium excre...</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type neutral">neutral</span>
+                            <span class="severity medium">medium</span>
+                        </div>
+                        <div class="interaction-effect">of the use of diuretics and other medications [29, 30], but it is rare among hea...</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type positive">positive</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">also increase the risk of cardiac arrhythmias by decreasing intracellular potass...</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type negative">negative</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">occur with intakes that are below the AI but above the amount required to preven...</div>
+                    </div>
+            <div class="interaction-item">... и еще 80 взаимодействий</div>
+                </div>
+            </div>
+        
+            <div class="supplement-card" data-supplement="riboflavin">
+                <div class="supplement-header">Riboflavin</div>
+                <div class="supplement-stats">
+                    <span>Всего: 30</span>
+                    <span>Негативных: 16</span>
+                    <span>Позитивных: 4</span>
+                    <span>Серьезных: 0</span>
+                </div>
+                <div class="interactions-list">
+        
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type negative">negative</span>
+                            <span class="severity medium">medium</span>
+                        </div>
+                        <div class="interaction-effect">decrease with age and increase with exposure to stress and certain drugs, and th...</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type neutral">neutral</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">The bioavailability of free riboflavin is similar to that of FAD and FMN [9, 10]</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type positive">positive</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">of their increased need for this nutrient and because some vegetarians exclude a...</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type positive">positive</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">increase the risk of preeclampsia [20]</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type positive">positive</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">In well-nourished women, riboflavin concentrations in breast milk range from 180...</div>
+                    </div>
+            <div class="interaction-item">... и еще 25 взаимодействий</div>
+                </div>
+            </div>
+        
+            <div class="supplement-card" data-supplement="selenium">
+                <div class="supplement-header">Selenium</div>
+                <div class="supplement-stats">
+                    <span>Всего: 80</span>
+                    <span>Негативных: 40</span>
+                    <span>Позитивных: 15</span>
+                    <span>Серьезных: 2</span>
+                </div>
+                <div class="interactions-list">
+        
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type neutral">neutral</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">have an adverse effect on selenium levels</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type negative">negative</span>
+                            <span class="severity medium">medium</span>
+                        </div>
+                        <div class="interaction-effect">reduce selenium levels in hair and serum but whether these reductions have a cli...</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type negative">negative</span>
+                            <span class="severity high">high</span>
+                        </div>
+                        <div class="interaction-effect">reduce cisplatin’s toxicity [120], but the authors of a Cochrane Review conclude...</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type positive">positive</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">does not increase selenoprotein P concentration and glutathione peroxidase activ...</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type neutral">neutral</span>
+                            <span class="severity medium">medium</span>
+                        </div>
+                        <div class="interaction-effect">The selenium content of soil affects the amount of selenium in the plants that a...</div>
+                    </div>
+            <div class="interaction-item">... и еще 75 взаимодействий</div>
+                </div>
+            </div>
+        
+            <div class="supplement-card" data-supplement="thiamin">
+                <div class="supplement-header">Thiamin</div>
+                <div class="supplement-stats">
+                    <span>Всего: 33</span>
+                    <span>Негативных: 18</span>
+                    <span>Позитивных: 4</span>
+                    <span>Серьезных: 2</span>
+                </div>
+                <div class="interactions-list">
+        
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type neutral">neutral</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">have an adverse effect on thiamin levels</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type negative">negative</span>
+                            <span class="severity medium">medium</span>
+                        </div>
+                        <div class="interaction-effect">Research has linked the use of furosemide to decreases in thiamin concentrations...</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type negative">negative</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">Whether thiamin supplements are effective for preventing thiamin deficiency in p...</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type negative">negative</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">the drug might increase thiamin metabolism and block the formation of TDP, the a...</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type neutral">neutral</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">Thiamin Deficiency In addition to insufficient intakes of thiamin from the diet,...</div>
+                    </div>
+            <div class="interaction-item">... и еще 28 взаимодействий</div>
+                </div>
+            </div>
+        
+            <div class="supplement-card" data-supplement="vitamin a and carotenoids">
+                <div class="supplement-header">Vitamin A and Carotenoids</div>
+                <div class="supplement-stats">
+                    <span>Всего: 54</span>
+                    <span>Негативных: 29</span>
+                    <span>Позитивных: 11</span>
+                    <span>Серьезных: 2</span>
+                </div>
+                <div class="interactions-list">
+        
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type neutral">neutral</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">interact with certain medications</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type neutral">neutral</span>
+                            <span class="severity medium">medium</span>
+                        </div>
+                        <div class="interaction-effect">adversely affect vitamin A levels</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type negative">negative</span>
+                            <span class="severity medium">medium</span>
+                        </div>
+                        <div class="interaction-effect">decrease the absorption of vitamin A, other fat-soluble vitamins, and beta-carot...</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type positive">positive</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">increase the risk of hypervitaminosis A when taken in combination with vitamin A...</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type neutral">neutral</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">The absorption of preformed vitamin A esters from dietary supplements is 70%–90%...</div>
+                    </div>
+            <div class="interaction-item">... и еще 49 взаимодействий</div>
+                </div>
+            </div>
+        
+            <div class="supplement-card" data-supplement="vitamin b12">
+                <div class="supplement-header">Vitamin B12</div>
+                <div class="supplement-stats">
+                    <span>Всего: 82</span>
+                    <span>Негативных: 46</span>
+                    <span>Позитивных: 9</span>
+                    <span>Серьезных: 2</span>
+                </div>
+                <div class="interactions-list">
+        
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type neutral">neutral</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">interact with certain medications</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type neutral">neutral</span>
+                            <span class="severity medium">medium</span>
+                        </div>
+                        <div class="interaction-effect">adversely affect vitamin B12 levels</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type negative">negative</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">Gastric acid inhibitors Gastric acid inhibitors include proton pump inhibitors, ...</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type negative">negative</span>
+                            <span class="severity medium">medium</span>
+                        </div>
+                        <div class="interaction-effect">interfere with vitamin B12 absorption from food by slowing the release of gastri...</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type negative">negative</span>
+                            <span class="severity medium">medium</span>
+                        </div>
+                        <div class="interaction-effect">reduce the absorption of vitamin B12 and significantly reduce serum vitamin B12 ...</div>
+                    </div>
+            <div class="interaction-item">... и еще 77 взаимодействий</div>
+                </div>
+            </div>
+        
+            <div class="supplement-card" data-supplement="vitamin b6">
+                <div class="supplement-header">Vitamin B6</div>
+                <div class="supplement-stats">
+                    <span>Всего: 68</span>
+                    <span>Негативных: 43</span>
+                    <span>Позитивных: 10</span>
+                    <span>Серьезных: 0</span>
+                </div>
+                <div class="interactions-list">
+        
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type neutral">neutral</span>
+                            <span class="severity medium">medium</span>
+                        </div>
+                        <div class="interaction-effect">adversely affect vitamin B6 levels</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type positive">positive</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">In combination with pyridoxal phosphate, cycloserine increases urinary excretion...</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type negative">negative</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">help prevent these adverse effects</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type positive">positive</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">Antiepileptic medications Some antiepileptic drugs, including valproic acid (Dep...</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type negative">negative</span>
+                            <span class="severity medium">medium</span>
+                        </div>
+                        <div class="interaction-effect">increase the risk of epileptic seizures and systemic vascular events, including ...</div>
+                    </div>
+            <div class="interaction-item">... и еще 63 взаимодействий</div>
+                </div>
+            </div>
+        
+            <div class="supplement-card" data-supplement="vitamin c">
+                <div class="supplement-header">Vitamin C</div>
+                <div class="supplement-stats">
+                    <span>Всего: 127</span>
+                    <span>Негативных: 69</span>
+                    <span>Позитивных: 21</span>
+                    <span>Серьезных: 2</span>
+                </div>
+                <div class="interactions-list">
+        
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type neutral">neutral</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">interact with chemotherapy and/or radiation [53]</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type negative">negative</span>
+                            <span class="severity medium">medium</span>
+                        </div>
+                        <div class="interaction-effect">Cardiovascular disease Evidence from many epidemiological studies suggests that ...</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type negative">negative</span>
+                            <span class="severity medium">medium</span>
+                        </div>
+                        <div class="interaction-effect">In addition to its antioxidant properties, vitamin C has been shown to reduce mo...</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type positive">positive</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">A much smaller study indicated that postmenopausal women with diabetes who took ...</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type negative">negative</span>
+                            <span class="severity medium">medium</span>
+                        </div>
+                        <div class="interaction-effect">5 years was not associated with a significant decrease in total cardiovascular d...</div>
+                    </div>
+            <div class="interaction-item">... и еще 122 взаимодействий</div>
+                </div>
+            </div>
+        
+            <div class="supplement-card" data-supplement="vitamin d">
+                <div class="supplement-header">Vitamin D</div>
+                <div class="supplement-stats">
+                    <span>Всего: 236</span>
+                    <span>Негативных: 127</span>
+                    <span>Позитивных: 64</span>
+                    <span>Серьезных: 2</span>
+                </div>
+                <div class="interactions-list">
+        
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type neutral">neutral</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">interact with several types of medications</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type negative">negative</span>
+                            <span class="severity medium">medium</span>
+                        </div>
+                        <div class="interaction-effect">reduce the absorption of vitamin D from food and supplements, leading to lower 2...</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type negative">negative</span>
+                            <span class="severity medium">medium</span>
+                        </div>
+                        <div class="interaction-effect">Statins Statin medications reduce cholesterol synthesis</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type negative">negative</span>
+                            <span class="severity medium">medium</span>
+                        </div>
+                        <div class="interaction-effect">endogenous vitamin D is derived from cholesterol, statins may also reduce vitami...</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type negative">negative</span>
+                            <span class="severity medium">medium</span>
+                        </div>
+                        <div class="interaction-effect">these statins and vitamin D appear to compete for the same metabolizing enzyme [...</div>
+                    </div>
+            <div class="interaction-item">... и еще 231 взаимодействий</div>
+                </div>
+            </div>
+        
+            <div class="supplement-card" data-supplement="vitamin e">
+                <div class="supplement-header">Vitamin E</div>
+                <div class="supplement-stats">
+                    <span>Всего: 121</span>
+                    <span>Негативных: 74</span>
+                    <span>Позитивных: 31</span>
+                    <span>Серьезных: 6</span>
+                </div>
+                <div class="interactions-list">
+        
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type neutral">neutral</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">interact with several types of medications</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type negative">negative</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">inhibit platelet aggregation and antagonize vitamin K-dependent clotting factors</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type positive">positive</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">increase the risk of bleeding, especially in conjunction with low vitamin K inta...</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type negative">negative</span>
+                            <span class="severity medium">medium</span>
+                        </div>
+                        <div class="interaction-effect">they might reduce the effectiveness of these therapies by inhibiting cellular ox...</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type neutral">neutral</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">the digestive tract requires fat to absorb vitamin E, people with fat-malabsorpt...</div>
+                    </div>
+            <div class="interaction-item">... и еще 116 взаимодействий</div>
+                </div>
+            </div>
+        
+            <div class="supplement-card" data-supplement="vitamin k">
+                <div class="supplement-header">Vitamin K</div>
+                <div class="supplement-stats">
+                    <span>Всего: 63</span>
+                    <span>Негативных: 34</span>
+                    <span>Позитивных: 7</span>
+                    <span>Серьезных: 5</span>
+                </div>
+                <div class="interactions-list">
+        
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type negative">negative</span>
+                            <span class="severity medium">medium</span>
+                        </div>
+                        <div class="interaction-effect">it might help reduce abnormal calcification [9]</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type neutral">neutral</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">Little is known about the absorption and transport of vitamin K produced by gut ...</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type neutral">neutral</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">Data on the bioavailability of different forms of vitamin K from food are very l...</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type neutral">neutral</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">The absorption rate of phylloquinone in its free form is approximately 80%, but ...</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type positive">positive</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">Consuming vegetables at the same time as some fat improves phylloquinone absorpt...</div>
+                    </div>
+            <div class="interaction-item">... и еще 58 взаимодействий</div>
+                </div>
+            </div>
+        
+            <div class="supplement-card" data-supplement="zinc">
+                <div class="supplement-header">Zinc</div>
+                <div class="supplement-stats">
+                    <span>Всего: 120</span>
+                    <span>Негативных: 67</span>
+                    <span>Позитивных: 18</span>
+                    <span>Серьезных: 1</span>
+                </div>
+                <div class="interactions-list">
+        
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type neutral">neutral</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">interact with certain medications</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type neutral">neutral</span>
+                            <span class="severity medium">medium</span>
+                        </div>
+                        <div class="interaction-effect">adversely affect zinc levels</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type negative">negative</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">interact with zinc in the gastrointestinal tract, which could inhibit the absorp...</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type neutral">neutral</span>
+                            <span class="severity low">low</span>
+                        </div>
+                        <div class="interaction-effect">Taking the antibiotic at least 2 hours before or 4–6 hours after the zinc supple...</div>
+                    </div>
+            
+                    <div class="interaction-item">
+                        <div>
+                            <span class="interaction-type negative">negative</span>
+                            <span class="severity medium">medium</span>
+                        </div>
+                        <div class="interaction-effect">reduce the absorption and action of penicillamine, a drug used to treat rheumato...</div>
+                    </div>
+            <div class="interaction-item">... и еще 115 взаимодействий</div>
+                </div>
+            </div>
+        
+        </div>
+    </div>
+    
+    <script>
+        // Поиск
+        document.getElementById('searchInput').addEventListener('input', function(e) {
+            const query = e.target.value.toLowerCase();
+            const cards = document.querySelectorAll('.supplement-card');
+            
+            cards.forEach(card => {
+                const supplementName = card.dataset.supplement;
+                const text = card.textContent.toLowerCase();
+                
+                if (supplementName.includes(query) || text.includes(query)) {
+                    card.classList.remove('hidden');
+                } else {
+                    card.classList.add('hidden');
+                }
+            });
+        });
+    </script>
+</body>
+</html>
+    

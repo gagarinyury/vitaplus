@@ -1,0 +1,453 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Factsheet xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/factsheet.xsd"><FSID>5125</FSID><LanguageCode>en</LanguageCode><Reviewed>2021-03-29</Reviewed><URL>https://ods.od.nih.gov:443/factsheets/Manganese-HealthProfessional/</URL><Title>Manganese</Title><ShortTitle /><Content>&lt;h2&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;Manganese is an essential trace element that is naturally present in many foods and available as a dietary supplement. Manganese is a cofactor for many enzymes, including manganese superoxide dismutase, arginase, and pyruvate carboxylase [1, 2]. Through the action of these enzymes, manganese is involved in amino acid, cholesterol, glucose, and carbohydrate metabolism; reactive oxygen species scavenging; bone formation; reproduction; and immune response [3-7]. Manganese also plays a role in blood clotting and hemostasis in conjunction with vitamin K [5].&lt;/p&gt;
+
+&lt;p&gt;Manganese is absorbed in the small intestine through an active transport system and, possibly, through diffusion when intakes are high [2]. After absorption, some manganese remains free, but most is bound to transferrin, albumin, and plasma alpha-2-macroglobulin. Manganese is taken up by the liver and other tissues, but the mechanism of this process is not well understood [1, 2].&lt;/p&gt;
+
+&lt;p&gt;The human body contains about 10 to 20 mg manganese, of which 25% to 40% is in bone [1, 2]. The liver, pancreas, kidney, and brain also contain manganese. The body maintains stable tissue manganese concentrations through regulatory control of manganese absorption and excretion [5]. More than 90% of absorbed manganese is excreted via bile into the feces, and a small amount is reabsorbed [1, 2, 4, 5]. Very little is excreted in urine.&lt;/p&gt;
+
+&lt;p&gt;Manganese status is difficult to assess and not routinely measured in clinical practice. Normal whole blood concentrations of manganese range from 4 to 15 mcg/L [1], but they are highly variable and their utility as a status indicator is unclear [4]. Some studies that measured serum or plasma manganese concentrations in apparently healthy adults have shown mean serum concentrations of 1.04 mcg/L and mean plasma concentrations of 1.28 mcg/L [4, 8]. Large variations in manganese intakes appear to affect these concentrations somewhat [9]. However, these concentrations often do not correlate well with typical manganese intakes, so whether they are useful indicators of manganese status is not clear [4].&lt;/p&gt;
+
+&lt;p&gt;Although urinary manganese concentrations decrease with severe deficiency, it is not clear whether they are useful indicators of manganese status when intakes are within the normal range [4].&lt;/p&gt;
+
+&lt;h2&gt;Recommended Intakes&lt;/h2&gt;
+
+&lt;p&gt;Intake recommendations for manganese and other nutrients are provided in the Dietary Reference Intakes (DRIs) developed by an expert committee of the Food and Nutrition Board (FNB) at the National Academies of Sciences, Engineering, and Medicine [4]. DRI is the general term for a set of reference values used for planning and assessing nutrient intakes of healthy people. These values, which vary by age and sex, include:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Recommended Dietary Allowance (RDA): Average daily level of intake sufficient to meet the nutrient requirements of nearly all (97%&amp;ndash;98%) healthy individuals; often used to plan nutritionally adequate diets for individuals&lt;/li&gt;
+	&lt;li&gt;Adequate Intake (AI): Intake at this level is assumed to ensure nutritional adequacy; established when evidence is insufficient to develop an RDA&lt;/li&gt;
+	&lt;li&gt;Estimated Average Requirement (EAR): Average daily level of intake estimated to meet the requirements of 50% of healthy individuals; usually used to assess the nutrient intakes of groups of people and to plan nutritionally adequate diets for them; can also be used to assess the nutrient intakes of individuals&lt;/li&gt;
+	&lt;li&gt;Tolerable Upper Intake Level (UL): Maximum daily intake unlikely to cause adverse health effects&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In its 2001 evaluation, the FNB found the existing data insufficient to derive an EAR for manganese. The FNB therefore established AIs for all ages based on usual manganese intakes in healthy populations [4]. Table 1 lists the current AIs for manganese.&lt;/p&gt;
+
+&lt;table border="1"&gt;
+	&lt;caption&gt;Table 1: Adequate Intakes (AIs) for Manganese [4]&lt;/caption&gt;
+	&lt;thead&gt;
+		&lt;tr&gt;
+			&lt;th scope="col"&gt;Age&lt;/th&gt;
+			&lt;th scope="col"&gt;Male&lt;/th&gt;
+			&lt;th scope="col"&gt;Female&lt;/th&gt;
+			&lt;th scope="col"&gt;Pregnancy&lt;/th&gt;
+			&lt;th scope="col"&gt;Lactation&lt;/th&gt;
+		&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Birth to 6 months*&lt;/td&gt;
+			&lt;td align="right"&gt;0.003 mg&lt;/td&gt;
+			&lt;td align="right"&gt;0.003 mg&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;7&amp;ndash;12 months&lt;/td&gt;
+			&lt;td align="right"&gt;0.6 mg&lt;/td&gt;
+			&lt;td align="right"&gt;0.6 mg&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;1&amp;ndash;3 years&lt;/td&gt;
+			&lt;td align="right"&gt;1.2 mg&lt;/td&gt;
+			&lt;td align="right"&gt;1.2 mg&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;4&amp;ndash;8 years&lt;/td&gt;
+			&lt;td align="right"&gt;1.5 mg&lt;/td&gt;
+			&lt;td align="right"&gt;1.5 mg&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;9&amp;ndash;13 years&lt;/td&gt;
+			&lt;td align="right"&gt;1.9 mg&lt;/td&gt;
+			&lt;td align="right"&gt;1.6 mg&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;14&amp;ndash;18 years&lt;/td&gt;
+			&lt;td align="right"&gt;2.2 mg&lt;/td&gt;
+			&lt;td align="right"&gt;1.6 mg&lt;/td&gt;
+			&lt;td align="right"&gt;2.0 mg&lt;/td&gt;
+			&lt;td align="right"&gt;2.6 mg&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;19&amp;ndash;50 years&lt;/td&gt;
+			&lt;td align="right"&gt;2.3 mg&lt;/td&gt;
+			&lt;td align="right"&gt;1.8 mg&lt;/td&gt;
+			&lt;td align="right"&gt;2.0 mg&lt;/td&gt;
+			&lt;td align="right"&gt;2.6 mg&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;51+ years&lt;/td&gt;
+			&lt;td align="right"&gt;2.3 mg&lt;/td&gt;
+			&lt;td align="right"&gt;1.8 mg&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p style="padding-top: 10px;"&gt;*For infants from birth to age 6 months, the AI is based on mean manganese intakes of infants fed primarily human milk.&lt;/p&gt;
+
+&lt;h2&gt;Sources of Manganese&lt;/h2&gt;
+
+&lt;h3&gt;Food&lt;/h3&gt;
+
+&lt;p&gt;Manganese is present in a wide variety of foods, including whole grains, clams, oysters, mussels, nuts, soybeans and other legumes, rice, leafy vegetables, coffee, tea, and many spices such as black pepper [1, 2, 5, 10, 11]. Drinking water also contains small amounts of manganese at concentrations of 1 to 100 mcg/L [5]. The top sources of manganese in the diets of U.S. adults are grain products, tea, and vegetables [4].&lt;/p&gt;
+
+&lt;p&gt;Manganese concentrations are 3 to 10 mcg/L in breast milk and 30 to 100 mcg/L in cow&amp;rsquo;s milk&amp;ndash;based infant formulas [5, 12]. Soy-based infant formulas have higher manganese concentrations, 200 to 300 mcg/L, than milk-based formulas [12]. Limited research suggests that the absorption rate of manganese from human milk (8.2%) is much higher than that from soy formula (0.7%) and cow&amp;rsquo;s milk formula (3.1%) [13].&lt;/p&gt;
+
+&lt;p&gt;Humans absorb only about 1% to 5% of dietary manganese [2, 5, 7]. Infants and children tend to absorb greater amounts of manganese than adults [7]. In addition, manganese absorption efficiency increases with low manganese intakes and decreases with higher intakes [1, 2], but little is known about the mechanisms that control absorption [1].&lt;/p&gt;
+
+&lt;p&gt;Dietary iron intakes and iron status (measured by serum ferritin concentration) appear to be inversely associated with manganese absorption [14, 15]. The mechanism for this effect is unknown, but the shared transporter of iron and manganese in the intestine might play a role [2]. In addition, men appear to absorb dietary manganese less efficiently than women, possibly because men usually have higher iron status [7, 16]. Infants absorb higher proportions of manganese than adults; limited research shows that formula-fed infants retain about 20% of the manganese they consume [5].&lt;/p&gt;
+
+&lt;p&gt;Selected food sources of manganese are listed in Table 2.&lt;/p&gt;
+
+&lt;table border="1"&gt;
+	&lt;caption&gt;Table 2: Manganese Content of Selected Foods [10, 11]&lt;/caption&gt;
+	&lt;thead&gt;
+		&lt;tr&gt;
+			&lt;th scope="col"&gt;Food&lt;/th&gt;
+			&lt;th scope="col"&gt;Milligrams&lt;br&gt;
+			(mg) per&lt;br&gt;
+			serving&lt;/th&gt;
+			&lt;th scope="col"&gt;Percent&lt;br&gt;
+			DV*&lt;/th&gt;
+		&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Mussels, blue, cooked, 3 ounces&lt;/td&gt;
+			&lt;td align="right"&gt;5.8&lt;/td&gt;
+			&lt;td align="right"&gt;252&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Hazelnuts, dry roasted, 1 ounce&lt;/td&gt;
+			&lt;td align="right"&gt;1.6&lt;/td&gt;
+			&lt;td align="right"&gt;70&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Pecans, dry roasted, 1 ounce&lt;/td&gt;
+			&lt;td align="right"&gt;1.1&lt;/td&gt;
+			&lt;td align="right"&gt;48&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Brown rice, medium grain, cooked, &amp;frac12; cup&lt;/td&gt;
+			&lt;td align="right"&gt;1.1&lt;/td&gt;
+			&lt;td align="right"&gt;48&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Oysters, Pacific, cooked, 3 ounces&lt;/td&gt;
+			&lt;td align="right"&gt;1.0&lt;/td&gt;
+			&lt;td align="right"&gt;43&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Clams, cooked, 3 ounces 0.9&lt;/td&gt;
+			&lt;td align="right"&gt;0.9&lt;/td&gt;
+			&lt;td align="right"&gt;39&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Chickpeas, cooked, &amp;frac12; cup&lt;/td&gt;
+			&lt;td align="right"&gt;0.9&lt;/td&gt;
+			&lt;td align="right"&gt;39&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Spinach, boiled, &amp;frac12; cup&lt;/td&gt;
+			&lt;td align="right"&gt;0.8&lt;/td&gt;
+			&lt;td align="right"&gt;35&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Pineapple, raw, chunks, &amp;frac12; cup&lt;/td&gt;
+			&lt;td align="right"&gt;0.8&lt;/td&gt;
+			&lt;td align="right"&gt;35&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Soybeans, boiled, &amp;frac12; cup&lt;/td&gt;
+			&lt;td align="right"&gt;0.7&lt;/td&gt;
+			&lt;td align="right"&gt;30&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Bread, whole wheat, 1 slice&lt;/td&gt;
+			&lt;td align="right"&gt;0.7&lt;/td&gt;
+			&lt;td align="right"&gt;30&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Oatmeal, cooked, &amp;frac12; cup&lt;/td&gt;
+			&lt;td align="right"&gt;0.7&lt;/td&gt;
+			&lt;td align="right"&gt;30&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Peanuts, oil-roasted, 1 ounce&lt;/td&gt;
+			&lt;td align="right"&gt;0.5&lt;/td&gt;
+			&lt;td align="right"&gt;22&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Tea, black, brewed, 1 cup&lt;/td&gt;
+			&lt;td align="right"&gt;0.5&lt;/td&gt;
+			&lt;td align="right"&gt;22&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Lentils, cooked, &amp;frac12; cup&lt;/td&gt;
+			&lt;td align="right"&gt;0.5&lt;/td&gt;
+			&lt;td align="right"&gt;22&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Potato, flesh and skin, baked, 1 medium&lt;/td&gt;
+			&lt;td align="right"&gt;0.3&lt;/td&gt;
+			&lt;td align="right"&gt;13&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;White rice, long grain, cooked, &amp;frac12; cup&lt;/td&gt;
+			&lt;td align="right"&gt;0.3&lt;/td&gt;
+			&lt;td align="right"&gt;13&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Kidney beans, canned, drained, rinsed, &amp;frac12; cup&lt;/td&gt;
+			&lt;td align="right"&gt;0.3&lt;/td&gt;
+			&lt;td align="right"&gt;13&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Squash, acorn, cooked, cubed, &amp;frac12; cup&lt;/td&gt;
+			&lt;td align="right"&gt;0.3&lt;/td&gt;
+			&lt;td align="right"&gt;13&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Blueberries, raw, &amp;frac12; cup&lt;/td&gt;
+			&lt;td align="right"&gt;0.3&lt;/td&gt;
+			&lt;td align="right"&gt;13&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Sesame seeds, dried, 1 tablespoon&lt;/td&gt;
+			&lt;td align="right"&gt;0.2&lt;/td&gt;
+			&lt;td align="right"&gt;9&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Kale, raw, 1 cup&lt;/td&gt;
+			&lt;td align="right"&gt;0.2&lt;/td&gt;
+			&lt;td align="right"&gt;9&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Black pepper, 1 gram (about &amp;frac12; tsp)&lt;/td&gt;
+			&lt;td align="right"&gt;0.2&lt;/td&gt;
+			&lt;td align="right"&gt;9&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Asparagus, boiled, &amp;frac12; cup&lt;/td&gt;
+			&lt;td align="right"&gt;0.1&lt;/td&gt;
+			&lt;td align="right"&gt;4&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Apple, raw, with skin, 1 medium&lt;/td&gt;
+			&lt;td align="right"&gt;0.1&lt;/td&gt;
+			&lt;td align="right"&gt;4&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Lettuce, romaine, raw, shredded, 1 cup&lt;/td&gt;
+			&lt;td align="right"&gt;0.1&lt;/td&gt;
+			&lt;td align="right"&gt;4&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Coffee, brewed, 1 cup&lt;/td&gt;
+			&lt;td align="right"&gt;0.1&lt;/td&gt;
+			&lt;td align="right"&gt;4&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Shrimp, cooked, 3 ounces&lt;/td&gt;
+			&lt;td align="right"&gt;0.0&lt;/td&gt;
+			&lt;td align="right"&gt;0&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Tuna, white, canned in water, drained, 3 ounces&lt;/td&gt;
+			&lt;td align="right"&gt;0.0&lt;/td&gt;
+			&lt;td align="right"&gt;0&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Chicken, breast, roasted, 3 ounces&lt;/td&gt;
+			&lt;td align="right"&gt;0.0&lt;/td&gt;
+			&lt;td align="right"&gt;0&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Ground beef, cooked, 3 ounces&lt;/td&gt;
+			&lt;td align="right"&gt;0.0&lt;/td&gt;
+			&lt;td align="right"&gt;0&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Egg, whole, hard-boiled, 1 large&lt;/td&gt;
+			&lt;td align="right"&gt;0.0&lt;/td&gt;
+			&lt;td align="right"&gt;0&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Milk, 1%, 1 cup&lt;/td&gt;
+			&lt;td align="right"&gt;0.0&lt;/td&gt;
+			&lt;td align="right"&gt;0&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Yogurt, low-fat, plain, 1 cup&lt;/td&gt;
+			&lt;td align="right"&gt;0.0&lt;/td&gt;
+			&lt;td align="right"&gt;0&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+
+&lt;p style="padding-top: 10px;"&gt;*DV = Daily Value. The U.S. Food and Drug Administration (FDA) developed DVs to help consumers compare the nutrient contents of foods and dietary supplements within the context of a total diet. The DV for manganese is 2.3 mg for adults and children age 4 years and older [17]. FDA does not require food labels to list manganese content unless manganese has been added to the food. Foods providing 20% or more of the DV are considered to be high sources of a nutrient, but foods providing lower percentages of the DV also contribute to a healthful diet.&lt;br&gt;
+&lt;br&gt;
+The U.S. Department of Agriculture&amp;rsquo;s (USDA's)&amp;nbsp;&lt;a href="https://fdc.nal.usda.gov/" target="_blank"&gt;FoodData Central&lt;/a&gt;&lt;a href="https://ods.od.nih.gov:443/About/exit_disclaimer.aspx" title="External Website"&gt;&lt;img src="/images/Common/externallink.png"  height="12" width="12"  alt="external link disclaimer" class="externallink" /&gt;&lt;/a&gt; website [11] lists the nutrient content of many foods and provides a comprehensive list of foods containing manganese ordered by &lt;a href="https://www.nal.usda.gov/sites/www.nal.usda.gov/files/manganese.pdf" target="_blank"&gt;nutrient content&lt;/a&gt;&lt;a href="https://ods.od.nih.gov:443/About/exit_disclaimer.aspx" title="External Website"&gt;&lt;img src="/images/Common/externallink.png"  height="12" width="12"  alt="external link disclaimer" class="externallink" /&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;Dietary supplements&lt;/h3&gt;
+
+&lt;p&gt;In dietary supplements, manganese is present in many different forms, including amino acid chelates (e.g., manganese bisglycinate chelate, manganese glycinate chelate, and manganese aspartate) [18]. Other forms include manganese gluconate, manganese picolinate, manganese sulfate, manganese citrate, and manganese chloride. No data are available on the relative bioavailability of different forms of supplemental manganese. The Supplement Facts label on a dietary supplement product declares the amount of elemental manganese in the product, not the weight of the entire manganese-containing compound.&lt;/p&gt;
+
+&lt;p&gt;Not all multivitamin/mineral supplements contain manganese, but those that do typically provide 1.0 to 4.5 mg manganese [18]. Supplements containing only manganese, or manganese with a few other nutrients, are also available, and most contain 5 to 20 mg manganese. Many dietary supplements that contain manganese are listed in the &lt;a href="http://dsld.od.nih.gov" target="_blank"&gt;Dietary Supplement Label Database&lt;/a&gt; from the National Institutes of Health [18]. This database contains label information from tens of thousands of dietary supplement products on the market.&lt;/p&gt;
+
+&lt;h2&gt;Manganese Intakes and Status&lt;/h2&gt;
+
+&lt;p&gt;Data on manganese intakes are very limited, but they suggest that most people obtain adequate amounts of manganese. The National Health and Nutrition Examination Survey, which provides dietary intake data for most nutrients, does not include manganese [19].&lt;/p&gt;
+
+&lt;p&gt;The Total Diet Study (TDS) is an FDA program that monitors the nutrient content of typical foods consumed by the U.S population [20]. The most recent report that used TDS data to estimate dietary manganese intakes, published in 1991, used TDS data from 1982 to 1989 [21]. According to this publication, dietary manganese intakes were 1.1 mg/day for infants age 6 to 11 months, 1.48 mg/day for children age 2 years, 1.78 to 2.76 mg/day for boys and girls age 14 to 16 years, 2.14 to 2.23 mg/day for women, and 2.64 to 2.81 mg/day for men [21]. These values met or exceeded the manganese AI for all age groups. More recent data from a population study of 719 adults age 18 to 87 years in northern Italy show a median dietary manganese intake of 2.34 mg/day [22].&lt;/p&gt;
+
+&lt;p&gt;Data on manganese intakes from dietary supplements are not currently available.&lt;/p&gt;
+
+&lt;h2&gt;Manganese Deficiency&lt;/h2&gt;
+
+&lt;p&gt;Manganese deficiency is very rare in humans, and signs and symptoms of deficiency have not been firmly established [1, 2]. The very limited evidence in humans suggests that manganese deficiency might cause bone demineralization and poor growth in children; skin rashes, hair depigmentation, decreased serum cholesterol, and increased alkaline phosphatase activity in men; and altered mood and increased premenstrual pain in women [2, 4]. Manganese deficiency might also alter lipid and carbohydrate metabolism and cause abnormal glucose tolerance [3].&lt;/p&gt;
+
+&lt;h2&gt;Groups at Risk of Manganese Inadequacy&lt;/h2&gt;
+
+&lt;p&gt;No known groups of people are likely to have inadequate manganese intakes.&lt;/p&gt;
+
+&lt;h2&gt;Manganese and Health&lt;/h2&gt;
+
+&lt;p&gt;Because of the role of manganese as a cofactor for several enzymes, low intakes might increase the risk of illness. This section focuses on two health areas in which manganese might be involved: bone health and diabetes.&lt;/p&gt;
+
+&lt;h3&gt;Bone health&lt;/h3&gt;
+
+&lt;p&gt;Manganese is a cofactor for several enzymes involved in bone formation [6]. In animals, manganese deficiency can impair bone formation and reduce bone mineral density [23], and manganese supplementation can increase both bone mineral density and bone formation [24].&lt;/p&gt;
+
+&lt;p&gt;Scientists have examined whether associations exist between circulating manganese levels, bone mineral density, and osteoporosis in humans, but the evidence is very limited and inconsistent. In one study, 10 women with osteoporosis (mean age, 69.3 years) had lower serum manganese levels (20 mcg/L) than 20 women (mean age, 64.5 years) who did not have osteoporosis (40 mcg/L) [25]. In another study in 40 postmenopausal women, serum manganese levels were positively associated with bone mineral density and negatively associated with bone fracture rates [26]. Conversely, a study in 77 postmenopausal women with osteoporosis (median age 61 years) and 61 postmenopausal women without osteoporosis (median age 60 years) found no differences in red blood cell manganese levels (14.76 mcg/L for women with osteoporosis vs. 15.54 mcg/L for women without osteoporosis) or plasma manganese levels (5.34 mcg/L for women with osteoporosis vs. 5.09 mcg/L for women without osteoporosis) [27]. In addition, no associations between plasma manganese levels and bone mineral density were observed in a study of 90 men age 50 to 80 years [28].&lt;/p&gt;
+
+&lt;p&gt;No clinical trials have evaluated the effects of manganese supplementation alone on bone health. In one small clinical trial, supplementation with calcium (1,000 mg) plus trace minerals (5 mg manganese, 15 mg zinc, and 2.5 mg copper) for 2 years improved spinal bone density compared with placebo in 59 healthy postmenopausal women (mean age 66 years) [29]. However, it is not possible to determine to what extent, if any, the manganese alone affected bone density.&lt;/p&gt;
+
+&lt;p&gt;More research is needed to determine whether manganese supplementation affects bone health in humans.&lt;/p&gt;
+
+&lt;h3&gt;Diabetes&lt;/h3&gt;
+
+&lt;p&gt;As a cofactor for several enzymes, manganese is involved in glucose, carbohydrate, and lipid metabolism, and manganese deficiency might affect carbohydrate metabolism and cause abnormalities in glucose tolerance [3]. Therefore, scientists have examined whether manganese status affects the risk of diabetes.&lt;/p&gt;
+
+&lt;p&gt;Several studies have found associations between both increased [30, 31] and decreased [32-34] blood levels of manganese and the prevalence of type 2 diabetes [35]. For example, in a case-control study in China of 122 adults with newly diagnosed type 2 diabetes and 429 adults without diabetes (age range for all participants was 40&amp;ndash;92 years), those in the highest tertile of plasma manganese (&amp;gt;2.42 mcg/L) were 7.88 times more likely to have diabetes than those in the lowest tertile (&amp;lt;1.67 mcg/L) [30]. Conversely, in a case-control study in Sardinia of 192 adults with type 1 diabetes (mean age 48.8 years), 68 adults with type 2 diabetes (mean age 68.4 years), and 59 adults without diabetes (mean age 57.2 years), median blood concentrations of manganese were lower in those with either type 1 (8.62 mcg/L) or type 2 diabetes (10.7 mcg/L) than in those who did not have diabetes (14.2 mcg/L) [33].&lt;/p&gt;
+
+&lt;p&gt;A large case-control study in China suggested a U-shaped association between plasma manganese levels and type 2 diabetes [35]. This study included 1,614 adults with type 2 diabetes (mean age 52.5 years) and 1,614 adults without diabetes (mean age 54.7 years). Compared with the middle tertile of plasma manganese concentration (4.21&amp;ndash;6.84 mcg/L), those in the lowest tertile (&amp;le;4.21 mcg/L) were 1.89 times more likely, and those in the highest tertile (&amp;ge;6.84 mcg/L) were 1.56 times more likely, to have type 2 diabetes. Other studies have found no associations between blood manganese levels and diabetes prevalence [36, 37].&lt;/p&gt;
+
+&lt;p&gt;Research in animals suggests that manganese supplementation might improve glucose tolerance, reduce oxidative stress, and improve endothelial dysfunction in diabetes [3], but clinical trials in humans are lacking. More research is needed to determine whether manganese plays any role in the development of diabetes.&lt;/p&gt;
+
+&lt;h2&gt;Health Risks from Excessive Manganese&lt;/h2&gt;
+
+&lt;p&gt;No evidence shows manganese toxicity from high dietary manganese intakes [38]. However, manganese toxicity has occurred in people working in such occupations as welding and mining who were exposed to high amounts of manganese from chronic inhalation of manganese dust [1, 39]. People who consume water containing high levels of manganese (in some cases as high as 28 mg/L) have also developed manganese toxicity [4, 40].&lt;/p&gt;
+
+&lt;p&gt;Manganese toxicity mainly affects the central nervous system and can cause tremors, muscle spasms, tinnitus, hearing loss, and the feeling of being unsteady on one&amp;rsquo;s feet [1, 2]. Additional symptoms include mania, insomnia, depression, delusions, anorexia, headaches, irritability, lower extremity weakness, changes in mood and short-term memory, altered reaction times, and reduced hand-eye coordination [1, 39]. These signs and symptoms can progress to neuromotor impairments similar to those associated with Parkinson&amp;rsquo;s disease, including changes in gait and balance, tremor, and rigidity [1, 4].&lt;/p&gt;
+
+&lt;p&gt;Iron deficiency increases manganese absorption and can therefore exacerbate symptoms of manganese toxicity [2]. People with chronic liver disease have impaired manganese elimination in bile and are more susceptible to manganese neurotoxicity and other adverse effects of excess manganese intakes [4].&lt;/p&gt;
+
+&lt;p&gt;The FNB established manganese ULs for healthy individuals based on levels associated with whole-blood manganese concentrations above the normal range of 4 to 15 mcg/L and risk of neurotoxicity [4]. The ULs do not apply to individuals who are taking supplemental manganese under medical supervision.&lt;/p&gt;
+
+&lt;table border="1"&gt;
+	&lt;caption&gt;Table 3: Tolerable Upper Intake Levels (ULs) for Manganese [4]&lt;/caption&gt;
+	&lt;thead&gt;
+		&lt;tr&gt;
+			&lt;th scope="col"&gt;Age&lt;/th&gt;
+			&lt;th scope="col"&gt;Male&lt;/th&gt;
+			&lt;th scope="col"&gt;Female&lt;/th&gt;
+			&lt;th scope="col"&gt;Pregnancy&lt;/th&gt;
+			&lt;th scope="col"&gt;Lactation&lt;/th&gt;
+		&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Birth to 6 months&lt;/td&gt;
+			&lt;td align="right"&gt;None established*&lt;/td&gt;
+			&lt;td align="right"&gt;None established*&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;7&amp;ndash;12 months&lt;/td&gt;
+			&lt;td align="right"&gt;None established*&lt;/td&gt;
+			&lt;td align="right"&gt;None established*&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;1&amp;ndash;3 years&lt;/td&gt;
+			&lt;td align="right"&gt;2 mg&lt;/td&gt;
+			&lt;td align="right"&gt;2 mg&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;4&amp;ndash;8 years&lt;/td&gt;
+			&lt;td align="right"&gt;3 mg&lt;/td&gt;
+			&lt;td align="right"&gt;3 mg&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;9&amp;ndash;13 years&lt;/td&gt;
+			&lt;td align="right"&gt;6 mg&lt;/td&gt;
+			&lt;td align="right"&gt;6 mg&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;14&amp;ndash;18 years&lt;/td&gt;
+			&lt;td align="right"&gt;9 mg&lt;/td&gt;
+			&lt;td align="right"&gt;9 mg&lt;/td&gt;
+			&lt;td align="right"&gt;9 mg&lt;/td&gt;
+			&lt;td align="right"&gt;9 mg&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;19+ years&lt;/td&gt;
+			&lt;td align="right"&gt;11 mg&lt;/td&gt;
+			&lt;td align="right"&gt;11 mg&lt;/td&gt;
+			&lt;td align="right"&gt;11 mg&lt;/td&gt;
+			&lt;td align="right"&gt;11 mg&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;*Breast milk, formula, and food should be the only sources of manganese for infants.&lt;/p&gt;
+
+&lt;h2&gt;Interactions with Medications&lt;/h2&gt;
+
+&lt;p&gt;Manganese is not known to have any clinically relevant interactions with medications.&lt;/p&gt;
+
+&lt;h2&gt;Manganese and Healthful Diets&lt;/h2&gt;
+
+&lt;p&gt;The federal government's 2020&amp;ndash;2025 &lt;em&gt;Dietary Guidelines for Americans&lt;/em&gt; notes that &amp;quot;Because foods provide an array of nutrients and other components that have benefits for health, nutritional needs should be met primarily through foods. ... In some cases, fortified foods and dietary supplements are useful when it is not possible otherwise to meet needs for one or more nutrients (e.g., during specific life stages such as pregnancy).&amp;quot;&lt;/p&gt;
+
+&lt;p&gt;For more information about building a healthy dietary pattern, refer to the &lt;em&gt;&lt;a href="https://www.dietaryguidelines.gov" target="_blank"&gt;Dietary Guidelines for Americans&lt;/a&gt;&lt;a href="https://ods.od.nih.gov:443/About/exit_disclaimer.aspx" title="External Website"&gt;&lt;img src="/images/Common/externallink.png"  height="12" width="12"  alt="external link disclaimer" class="externallink" /&gt;&lt;/a&gt;&lt;/em&gt; and the USDA's &lt;em&gt;&lt;a href="https://www.choosemyplate.gov/" target="_blank"&gt;MyPlate.&lt;/a&gt;&lt;a href="https://ods.od.nih.gov:443/About/exit_disclaimer.aspx" title="External Website"&gt;&lt;img src="/images/Common/externallink.png"  height="12" width="12"  alt="external link disclaimer" class="externallink" /&gt;&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The &lt;em&gt;Dietary Guidelines for Americans&lt;/em&gt; describes a healthy dietary pattern as one that&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Includes a variety of vegetables; fruits; grains (at least half whole grains); fat-free and low-fat milk, yogurt, and cheese; and oils.
+	&lt;ul&gt;
+		&lt;li&gt;Whole grains are rich sources of manganese. Some vegetables and fruits also contain manganese.&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;Includes a variety of protein foods such as lean meats; poultry; eggs; seafood; beans, peas, and lentils; nuts and seeds; and soy products.
+	&lt;ul&gt;
+		&lt;li&gt;Nuts, legumes, and mollusks contain manganese.&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;Limits foods and beverages higher in added sugars, saturated fat, and sodium.&lt;/li&gt;
+	&lt;li&gt;Limits alcoholic beverages.&lt;/li&gt;
+	&lt;li&gt;Stays within your daily calorie needs.&lt;/li&gt;
+&lt;/ul&gt;
+</Content><References Count="40"><EndNote><RefID>1</RefID><Reference>Buchman AR. Manganese. In: A. Catharine Ross BC, Robert J. Cousins, Katherine L. Tucker, Thomas R. Ziegler ed. Modern Nutrition in Health and Disease. 11th ed. Baltimore, MD: Lippincott Williams &amp; Wilkins; 2014:238-44.</Reference><PMID /></EndNote><EndNote><RefID>2</RefID><Reference>Nielsen FH. Manganese, Molybdenum, Boron, Chromium, and Other Trace Elements. In: John W. Erdman Jr. IAM, Steven H. Zeisel, ed. Present Knowledge in Nutrition. 10th ed: Wiley-Blackwell; 2012:586-607.</Reference><PMID /></EndNote><EndNote><RefID>3</RefID><Reference>Li L, Yang X. The Essential Element Manganese, Oxidative Stress, and Metabolic Diseases: Links and Interactions. Oxid Med Cell Longev 2018: 7580707.</Reference><PMID>29849912</PMID></EndNote><EndNote><RefID>4</RefID><Reference>Institute of Medicine. Food and Nutrition Board. Dietary Reference Intakes for Vitamin A, Vitamin K, Arsenic, Boron, Chromium, Copper, Iodine, Iron, Manganese, Molybdenum, Nickel, Silicon, Vanadium, and Zinc Washington, DC: National Academy Press; 2001.</Reference><PMID /></EndNote><EndNote><RefID>5</RefID><Reference>Aschner JL, Aschner M. Nutritional aspects of manganese homeostasis. Mol Aspects Med 2005;26:353-62.</Reference><PMID>16099026</PMID></EndNote><EndNote><RefID>6</RefID><Reference>Palacios C. The role of nutrients in bone health, from A to Z. Crit Rev Food Sci Nutr 2006;46:621-8.</Reference><PMID>17092827</PMID></EndNote><EndNote><RefID>7</RefID><Reference>Chen P, Bornhorst J, Aschner M. Manganese metabolism in humans. Front Biosci (Landmark Ed) 2018;23:1655-79.</Reference><PMID>29293455</PMID></EndNote><EndNote><RefID>8</RefID><Reference>Greger JL, Davis CD, Suttie JW, Lyle BJ. Intake, serum concentrations, and urinary excretion of manganese by adult males. Am J Clin Nutr 1990;51:457-61.</Reference><PMID>2309652</PMID></EndNote><EndNote><RefID>9</RefID><Reference>Davis CD, Greger JL. Longitudinal changes of manganese-dependent superoxide dismutase and other indexes of manganese and iron status in women. Am J Clin Nutr 1992;55:747-52.</Reference><PMID>1550052</PMID></EndNote><EndNote><RefID>10</RefID><Reference>Ansari TM, Ikram N, Najam-ul-Haq M, Fayyaz I, Fayyaz Q, Ghafoor I, et al. Essential Trace Metal (Zinc, Manganese, Copper and Iron) Levels in Plants of Medicinal Importance. J Biol Sci 2004;4(2):95-9.</Reference><PMID /></EndNote><EndNote><RefID>11</RefID><Reference>U.S. Department of Agriculture, Agricultural Research Service. &lt;a href="https://fdc.nal.usda.gov/"&gt;FoodData Central&lt;/a&gt;, 2019.</Reference><PMID /></EndNote><EndNote><RefID>12</RefID><Reference>Lonnerdal B. Nutritional aspects of soy formula. Acta Paediatr Suppl 1994;402:105-8.</Reference><PMID>7841612</PMID></EndNote><EndNote><RefID>13</RefID><Reference>Davidsson L, Cederblad A, Lonnerdal B, Sandstrom B. Manganese absorption from human milk, cow's milk, and infant formulas in humans. Am J Dis Child 1989;143:823-7.</Reference><PMID>2741855</PMID></EndNote><EndNote><RefID>14</RefID><Reference>Finley JW. Manganese absorption and retention by young women is associated with serum ferritin concentration. Am J Clin Nutr 1999;70:37-43.</Reference><PMID>10393136</PMID></EndNote><EndNote><RefID>15</RefID><Reference>Finley JW, Davis CD. Manganese deficiency and toxicity: are high or low dietary amounts of manganese cause for concern? BioFactors (Oxford, England) 1999;10:15-24.</Reference><PMID>10475586</PMID></EndNote><EndNote><RefID>16</RefID><Reference>Finley JW, Johnson PE, Johnson LK. Sex affects manganese absorption and retention by humans from a diet adequate in manganese. Am J Clin Nutr 1994;60:949-55.</Reference><PMID>7985639</PMID></EndNote><EndNote><RefID>17</RefID><Reference>U. S. Food and Drug Administration. &lt;a href="https://www.federalregister.gov/documents/2016/05/27/2016-11867/food-labeling-revision-of-the-nutrition-and-supplement-facts-labels"&gt;Food Labeling: Revision of the Nutrition and Supplement Facts Labels.&lt;/a&gt; 2016.</Reference><PMID /></EndNote><EndNote><RefID>18</RefID><Reference>National Institutes of Health. &lt;a href="https://dsld.od.nih.gov"&gt;Dietary Supplement Label Database.&lt;/a&gt; 2018.</Reference><PMID /></EndNote><EndNote><RefID>19</RefID><Reference>U.S. Department of Agriculture and Agricultural Research Service. &lt;a href="https://www.ars.usda.gov/northeast-area/beltsville-md-bhnrc/beltsville-human-nutrition-research-center/food-surveys-research-group/docs/wweianhanes-overview/"&gt;What We Eat In America.&lt;/a&gt; 2018.</Reference><PMID /></EndNote><EndNote><RefID>20</RefID><Reference>U. S. Food and Drug Administration. &lt;a href="https://www.fda.gov/Food/FoodScienceResearch/TotalDietStudy/default.htm"&gt;Total Diet Study.&lt;/a&gt; 2018.</Reference><PMID /></EndNote><EndNote><RefID>21</RefID><Reference>Pennington JA, Young BE. Total diet study nutritional elements, 1982-1989. J  Am Diet Assoc 1991;91:179-83.</Reference><PMID>1991931</PMID></EndNote><EndNote><RefID>22</RefID><Reference>Filippini T, Cilloni S, Malavolti M, Violi F, Malagoli C, Tesauro M, et al. Dietary intake of cadmium, chromium, copper, manganese, selenium and zinc in a Northern Italy community. J Trace Elem Med Biol 2018;50:508-17.</Reference><PMID>29548610</PMID></EndNote><EndNote><RefID>23</RefID><Reference>Saltman PD, Strause LG. The role of trace minerals in osteoporosis. J Am Coll Nutr 1993;12:384-9.</Reference><PMID>8409100</PMID></EndNote><EndNote><RefID>24</RefID><Reference>Bae YJ, Kim MH. Manganese supplementation improves mineral density of the spine and femur and serum osteocalcin in rats. Biol Trace Elem Res 2008;124:28-34.</Reference><PMID>18330520</PMID></EndNote><EndNote><RefID>25</RefID><Reference>Reginster JY, Strause LG, Saltman P, Franchimont P. Trace elements and postmenopausal osteoporosis: a preliminary study of decreased serum manganese. Med Sci Res 1988;16:337-8.</Reference><PMID /></EndNote><EndNote><RefID>26</RefID><Reference>Zofkova I, Nemcikova P, Matucha P. Trace elements and bone health. Clin Chem Lab Med 2013;51:1555-61.</Reference><PMID>23509220</PMID></EndNote><EndNote><RefID>27</RefID><Reference>Odabasi E, Turan M, Aydin A, Akay C, Kutlu M. Magnesium, zinc, copper, manganese, and selenium levels in postmenopausal women with osteoporosis. Can magnesium play a key role in osteoporosis? Ann Acad Med Singapore 2008;37:564-7. PMID: 18695768</Reference><PMID>18695768</PMID></EndNote><EndNote><RefID>28</RefID><Reference>Wang L, Yu H, Yang G, Zhang Y, Wang W, Su T, et al. Correlation between bone mineral density and serum trace element contents of elderly males in Beijing urban area. Int J Clin Exp Med 2015;8:19250-7.</Reference><PMID>26770561</PMID></EndNote><EndNote><RefID>29</RefID><Reference>Strause L, Saltman P, Smith KT, Bracker M, Andon MB. Spinal bone loss in postmenopausal women supplemented with calcium and trace minerals. J Nutr 1994;124:1060-4.</Reference><PMID>8027856</PMID></EndNote><EndNote><RefID>30</RefID><Reference>Li XT, Yu PF, Gao Y, Guo WH, Wang J, Liu X, et al. Association between Plasma Metal Levels and Diabetes Risk: a Case-control Study in China. Biomed Environ Sci 2017;30:482-91.</Reference><PMID>28756807</PMID></EndNote><EndNote><RefID>31</RefID><Reference>Ekin S, Mert N, Gunduz H, Meral I. Serum sialic acid levels and selected mineral status in patients with type 2 diabetes mellitus. Biol Trace Elem Res 2003;94:193-201.</Reference><PMID>12972687</PMID></EndNote><EndNote><RefID>32</RefID><Reference>Kazi TG, Afridi HI, Kazi N, Jamali MK, Arain MB, Jalbani N, et al. Copper, chromium, manganese, iron, nickel, and zinc levels in biological samples of diabetes mellitus patients. Biological trace element research 2008;122:1-18.</Reference><PMID>18193174</PMID></EndNote><EndNote><RefID>33</RefID><Reference>Forte G, Bocca B, Peruzzu A, Tolu F, Asara Y, Farace C, et al. Blood metals concentration in type 1 and type 2 diabetics. Biol Trace Elem Res 2013;156:79-90.</Reference><PMID /></EndNote><EndNote><RefID>34</RefID><Reference>Hajra B, Orakzai BA, Faryal U, Hassan M, Rasheed S, Wazir S. Insulin Sensitivity To Trace Metals (Chromium, Manganese) In Type 2 Diabetic Patients And Non Diabetic Individuals. J Ayub Med Coll Abbottabad 2016;28:534-6.</Reference><PMID>28712229</PMID></EndNote><EndNote><RefID>35</RefID><Reference>Shan Z, Chen S, Sun T, Luo C, Guo Y, Yu X, et al. U-Shaped Association between Plasma Manganese Levels and Type 2 Diabetes. Environ Health Perspect 2016;124:1876-81.</Reference><PMID>27258818</PMID></EndNote><EndNote><RefID>36</RefID><Reference>Simic A, Hansen AF, Asvold BO, Romundstad PR, Midthjell K, Syversen T, et al. Trace element status in patients with type 2 diabetes in Norway: The HUNT3 Survey. J Trace Elem Med Biol 2017;41:91-8.</Reference><PMID>28347468</PMID></EndNote><EndNote><RefID>37</RefID><Reference>Walter RM, Jr., Uriu-Hare JY, Olin KL, Oster MH, Anawalt BD, Critchfield JW, et al. Copper, zinc, manganese, and magnesium status and complications of diabetes mellitus. Diabetes Care 1991;14:1050-6.</Reference><PMID>1797486</PMID></EndNote><EndNote><RefID>38</RefID><Reference>Finley JW, Penland JG, Pettit RE, Davis CD. Dietary manganese intake and type of lipid do not affect clinical or neuropsychological measures in healthy young women. J Nutr 2003;133:2849-56.</Reference><PMID>12949376</PMID></EndNote><EndNote><RefID>39</RefID><Reference>National Institute for Occupational Safety and Health. &lt;a href="https://www.cdc.gov/niosh/topics/welding/default.html"&gt;Welding and Manganese.&lt;/a&gt; 2015.</Reference><PMID /></EndNote><EndNote><RefID>40</RefID><Reference>Kondakis XG, Makris N, Leotsinidis M, Prinou M, Papapetropoulos T. Possible health effects of high manganese concentration in drinking water. Arch Environ Health 1989;44:175-8.</Reference><PMID>2751354</PMID></EndNote></References><Disclaimer>This fact sheet by the National Institutes of Health (NIH) Office of Dietary Supplements (ODS) provides information that should not take the place of medical advice. We encourage you to talk to your health care providers (doctor, registered dietitian, pharmacist, etc.) about your interest in, questions about, or use of dietary supplements and what may be best for your overall health. Any mention in this publication of a specific product or service, or recommendation from an organization or professional society, does not represent an endorsement by ODS of that product, service, or expert advice.</Disclaimer><ODSLogo>https://ods.od.nih.gov:443/images/common/NIH-ODSlogo_home.png</ODSLogo></Factsheet>

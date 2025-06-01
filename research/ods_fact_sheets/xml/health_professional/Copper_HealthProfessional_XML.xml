@@ -1,0 +1,409 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Factsheet xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/factsheet.xsd"><FSID>5123</FSID><LanguageCode>en</LanguageCode><Reviewed>2022-10-18</Reviewed><URL>https://ods.od.nih.gov:443/factsheets/Copper-HealthProfessional/</URL><Title>Copper</Title><ShortTitle /><Content>&lt;h2&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;Copper, an essential mineral, is naturally present in some foods and is available as a dietary supplement. It is a cofactor for several enzymes (known as cuproenzymes) involved in energy production, iron metabolism, neuropeptide activation, connective tissue synthesis, and neurotransmitter synthesis [1-3]. One abundant cuproenzyme is ceruloplasmin (CP), which plays a role in iron metabolism and carries more than 95% of the total copper in healthy human plasma [4]. Copper is also involved in many physiologic processes, such as angiogenesis; neurohormone homeostasis; and regulation of gene expression, brain development, pigmentation, and immune system functioning [1]. In addition, defense against oxidative damage depends mainly on the copper-containing superoxide dismutases [5, 6].&lt;/p&gt;
+
+&lt;p&gt;A wide variety of plant and animal foods contain copper, and the average human diet provides approximately 1,400 mcg/day for men and 1,100 mcg/day for women that is primarily absorbed in the upper small intestine [1, 2, 7-9]. Almost two-thirds of the body&amp;rsquo;s copper is located in the skeleton and muscle [1, 3].&lt;/p&gt;
+
+&lt;p&gt;Only small amounts of copper are typically stored in the body, and the average adult has a total body content of 50&amp;ndash;120 mg copper [1, 2]. Most copper is excreted in bile, and a small amount is excreted in urine. Total fecal losses of copper of biliary origin and nonabsorbed dietary copper are about 1 mg/day [1, 2]. Copper levels in the body are homeostatically maintained by copper absorption from the intestine and copper release by the liver into bile to provide protection from copper deficiency and toxicity [3].&lt;/p&gt;
+
+&lt;p&gt;Copper status is not routinely assessed in clinical practice, and no biomarkers that accurately and reliably assess copper status have been identified [2]. Human studies typically measure copper and cuproenzyme activity in plasma and blood cells because individuals with known copper deficiency often have low blood levels of copper and CP [2]. However, plasma CP and copper levels can be influenced by other factors, such as estrogen status, pregnancy, infection, inflammation, and some cancers [2]. Normal serum concentrations are 10&amp;ndash;25 mcmol/L (63.5&amp;ndash;158.9 mcg/dL) for copper and 180&amp;ndash;400 mg/L for CP [10].&lt;/p&gt;
+
+&lt;h2&gt;Recommended Intakes&lt;/h2&gt;
+
+&lt;p&gt;Intake recommendations for copper and other nutrients are provided in the Dietary Reference Intakes (DRIs) developed by the Food and Nutrition Board (FNB) at the National Academies of Sciences, Engineering, and Medicine [3]. DRI is the general term for a set of reference values used for planning and assessing nutrient intakes of healthy people. These values, which vary by age and sex, include the following:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Recommended Dietary Allowance (RDA): Average daily level of intake sufficient to meet the nutrient requirements of nearly all (97%&amp;ndash;98%) healthy individuals; often used to plan nutritionally adequate diets for individuals&lt;/li&gt;
+	&lt;li&gt;Adequate Intake (AI): Intake at this level is assumed to ensure nutritional adequacy; established when evidence is insufficient to develop an RDA&lt;/li&gt;
+	&lt;li&gt;Estimated Average Requirement (EAR): Average daily level of intake estimated to meet the requirements of 50% of healthy individuals; usually used to assess the nutrient intakes of groups of people and to plan nutritionally adequate diets for them; can also be used to assess the nutrient intakes of individuals&lt;/li&gt;
+	&lt;li&gt;Tolerable Upper Intake Level (UL): Maximum daily intake unlikely to cause adverse health effects&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Table 1 lists the current RDAs for copper [3]. For infants from birth to 12 months, the FNB established an AI for copper that is equivalent to the mean intake of copper in healthy, breastfed infants.&lt;/p&gt;
+
+
+&lt;table border="1"&gt;
+	&lt;caption&gt;Table 1: Recommended Dietary Allowances (RDAs) for Copper [3]&lt;/caption&gt;
+	&lt;thead&gt;
+		&lt;tr&gt;
+			&lt;th scope="col"&gt;Age&lt;/th&gt;
+			&lt;th scope="col"&gt;Male&lt;/th&gt;
+			&lt;th scope="col"&gt;Female&lt;/th&gt;
+			&lt;th scope="col"&gt;Pregnancy&lt;/th&gt;
+			&lt;th scope="col"&gt;Lactation&lt;/th&gt;
+		&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Birth to 6 months*&lt;/td&gt;
+			&lt;td align="right"&gt;200 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;200 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;7&amp;ndash;12 months*&lt;/td&gt;
+			&lt;td align="right"&gt;220 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;220 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;1&amp;ndash;3 years&lt;/td&gt;
+			&lt;td align="right"&gt;340 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;340 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;4&amp;ndash;8 years&lt;/td&gt;
+			&lt;td align="right"&gt;440 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;440 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;9&amp;ndash;13 years&lt;/td&gt;
+			&lt;td align="right"&gt;700 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;700 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;14&amp;ndash;18 years&lt;/td&gt;
+			&lt;td align="right"&gt;890 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;890 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;1,000 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;1,300 mcg&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;19+ years&lt;/td&gt;
+			&lt;td align="right"&gt;900 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;900 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;1,000 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;1,300 mcg&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+*Adequate Intake (AI)&lt;br&gt;
+&amp;nbsp;
+&lt;h2&gt;Sources of Copper&lt;/h2&gt;
+
+&lt;h3&gt;Food&lt;/h3&gt;
+
+&lt;p&gt;The richest dietary copper sources include shellfish, seeds and nuts, organ meats, wheat-bran cereals, whole-grain products, and chocolate [1, 2]. The absorption of copper is strongly influenced by the amount of copper in the diet; bioavailability ranges from 75% of dietary copper when the diet contains only 400 mcg/day to 12% when the diet contains 7.5 mg/day [3].&lt;/p&gt;
+
+&lt;p&gt;Tap water and other beverages can also be sources of copper, although the amount of copper in these liquids varies by source (ranging from 0.0005 mg/L to 1 mg/L) [2, 11].&lt;/p&gt;
+
+&lt;p&gt;Several food sources of copper are listed in Table 2.&lt;/p&gt;
+
+&lt;table border="1"&gt;
+	&lt;caption&gt;Table 2: Copper Content of Selected Foods [12]&lt;/caption&gt;
+	&lt;thead&gt;
+		&lt;tr&gt;
+			&lt;th scope="col"&gt;Food&lt;/th&gt;
+			&lt;th scope="col"&gt;Micrograms&lt;br&gt;
+			(mcg) per&lt;br&gt;
+			serving&lt;/th&gt;
+			&lt;th scope="col"&gt;Percent&lt;br&gt;
+			DV*&lt;/th&gt;
+		&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Beef, liver, pan fried (3 ounces)&lt;/td&gt;
+			&lt;td align="right"&gt;12,400&lt;/td&gt;
+			&lt;td align="right"&gt;1,378&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Oysters, eastern, wild, cooked, 3 ounces&lt;/td&gt;
+			&lt;td align="right"&gt;4,850&lt;/td&gt;
+			&lt;td align="right"&gt;539&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Baking chocolate, unsweetened, 1 ounce&lt;/td&gt;
+			&lt;td align="right"&gt;938&lt;/td&gt;
+			&lt;td align="right"&gt;104&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Potatoes, cooked, flesh and skin, 1 medium potato&lt;/td&gt;
+			&lt;td align="right"&gt;675&lt;/td&gt;
+			&lt;td align="right"&gt;75&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Mushrooms, shiitake, cooked, cut pieces, &amp;frac12; cup&lt;/td&gt;
+			&lt;td align="right"&gt;650&lt;/td&gt;
+			&lt;td align="right"&gt;72&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Cashew nuts, dry roasted, 1 ounce&lt;/td&gt;
+			&lt;td align="right"&gt;629&lt;/td&gt;
+			&lt;td align="right"&gt;70&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Crab, Dungeness, cooked, 3 ounces&lt;/td&gt;
+			&lt;td align="right"&gt;624&lt;/td&gt;
+			&lt;td align="right"&gt;69&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Sunflower seed kernels, toasted, &amp;frac14; cup&lt;/td&gt;
+			&lt;td align="right"&gt;615&lt;/td&gt;
+			&lt;td align="right"&gt;68&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Turkey, giblets, simmered, 3 ounces&lt;/td&gt;
+			&lt;td align="right"&gt;588&lt;/td&gt;
+			&lt;td align="right"&gt;65&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Chocolate, dark, 70%&amp;ndash;85% cacao solids, 1 ounce&lt;/td&gt;
+			&lt;td align="right"&gt;501&lt;/td&gt;
+			&lt;td align="right"&gt;56&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Tofu, raw, firm, &amp;frac12; cup&lt;/td&gt;
+			&lt;td align="right"&gt;476&lt;/td&gt;
+			&lt;td align="right"&gt;53&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Chickpeas, mature sees, &amp;frac12; cup&lt;/td&gt;
+			&lt;td align="right"&gt;289&lt;/td&gt;
+			&lt;td align="right"&gt;32&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Millet, cooked, 1 cup&lt;/td&gt;
+			&lt;td align="right"&gt;280&lt;/td&gt;
+			&lt;td align="right"&gt;31&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Salmon, Atlantic, wild, cooked, 3 ounces&lt;/td&gt;
+			&lt;td align="right"&gt;273&lt;/td&gt;
+			&lt;td align="right"&gt;30&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Pasta, whole wheat, cooked, 1 cup (not packed)&lt;/td&gt;
+			&lt;td align="right"&gt;263&lt;/td&gt;
+			&lt;td align="right"&gt;29&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Avocado, raw, &amp;frac12; cup&lt;/td&gt;
+			&lt;td align="right"&gt;219&lt;/td&gt;
+			&lt;td align="right"&gt;24&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Figs, dried, &amp;frac12; cup&lt;/td&gt;
+			&lt;td align="right"&gt;214&lt;/td&gt;
+			&lt;td align="right"&gt;24&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Spinach, boiled, drained, &amp;frac12; cup&lt;/td&gt;
+			&lt;td align="right"&gt;157&lt;/td&gt;
+			&lt;td align="right"&gt;17&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Asparagus, cooked, drained, &amp;frac12; cup&lt;/td&gt;
+			&lt;td align="right"&gt;149&lt;/td&gt;
+			&lt;td align="right"&gt;17&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Sesame seeds, &amp;frac14; cup&lt;/td&gt;
+			&lt;td align="right"&gt;147&lt;/td&gt;
+			&lt;td align="right"&gt;16&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Turkey, ground, cooked, 3 ounces&lt;/td&gt;
+			&lt;td align="right"&gt;128&lt;/td&gt;
+			&lt;td align="right"&gt;14&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Cereal, Cream of Wheat, cooked with water, stove top, 1 cup&lt;/td&gt;
+			&lt;td align="right"&gt;104&lt;/td&gt;
+			&lt;td align="right"&gt;12&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Tomatoes, raw, chopped, &amp;frac12; cup&lt;/td&gt;
+			&lt;td align="right"&gt;53&lt;/td&gt;
+			&lt;td align="right"&gt;6&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Yogurt, Greek, plain, low fat, 7-ounce container&lt;/td&gt;
+			&lt;td align="right"&gt;42&lt;/td&gt;
+			&lt;td align="right"&gt;5&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Milk, nonfat, 1 cup&lt;/td&gt;
+			&lt;td align="right"&gt;27&lt;/td&gt;
+			&lt;td align="right"&gt;3&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Apples, raw, with skin, &amp;frac12; cup slices&lt;/td&gt;
+			&lt;td align="right"&gt;17&lt;/td&gt;
+			&lt;td align="right"&gt;2&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p style="padding-top: 10px;"&gt;*DV = Daily Value. The U.S. Food and Drug Administration (FDA) developed DVs to help consumers compare the nutrient contents of foods and dietary supplements within the context of a total diet. The DV for copper is 0.9 mg (900 mcg) for adults and children age 4 years and older [13]. FDA does not require food labels to list copper content unless copper has been added to the food. Foods providing 20% or more of the DV are considered to be high sources of a nutrient, but foods providing lower percentages of the DV also contribute to a healthful diet.&lt;/p&gt;
+
+&lt;p&gt;The U.S. Department of Agriculture&amp;rsquo;s (USDA&amp;rsquo;s) &lt;a href="https://fdc.nal.usda.gov/" target="_blank"&gt;FoodData Central&lt;/a&gt;&lt;a href="https://ods.od.nih.gov:443/About/exit_disclaimer.aspx" title="External Website"&gt;&lt;img src="/images/Common/externallink.png"  height="12" width="12"  alt="external link disclaimer" class="externallink" /&gt;&lt;/a&gt; [12] lists the nutrient content of many foods.&lt;/p&gt;
+
+&lt;h3&gt;Dietary supplements&lt;/h3&gt;
+
+&lt;p&gt;Copper is available in dietary supplements containing only copper, in supplements containing copper in combination with other ingredients, and in many multivitamin/mineral products [14]. These supplements contain many different forms of copper, including cupric oxide, cupric sulfate, copper amino acid chelates, and copper gluconate. To date, no studies have compared the bioavailability of copper from these and other forms [15]. The amount of copper in dietary supplements typically ranges from a few micrograms to 15 mg (about 17 times the DV for copper) [14].&lt;/p&gt;
+
+&lt;h2&gt;Copper Intakes and Status&lt;/h2&gt;
+
+&lt;p&gt;Typical diets in the United States meet or exceed the copper RDA. Mean dietary intakes of copper from foods range from 800 to 1,000 mcg per day for children age 2&amp;ndash;19 [9]. In adults age 20 and older, average daily intakes of copper from food are 1,400 mcg for men and 1,100 mcg for women. Total intakes from supplements and foods are 900 to 1,100 mcg/day for children and 1,400 to 1,700 mcg/day for adults age 20 and over.&lt;/p&gt;
+
+&lt;p&gt;According to an analysis of data from the 2009&amp;ndash;2012 National Health and Nutrition Survey (NHANES), 6% to 15% of adults age 19 and older who do not take dietary supplements containing copper have copper intakes below the EAR [16]. In those who do use supplements, rates of adults with intakes below the copper EAR range from 2.2% to 7.2%.&lt;/p&gt;
+
+&lt;h2&gt;Copper Deficiency&lt;/h2&gt;
+
+&lt;p&gt;Copper deficiency is uncommon in humans [2]. Based on studies in animals and humans, the effects of copper deficiency include anemia, hypopigmentation, hypercholesterolemia, connective tissue disorders, osteoporosis and other bone defects, abnormal lipid metabolism, ataxia, and increased risk of infection [1, 17, 18].&lt;/p&gt;
+
+&lt;h2&gt;Groups at Risk of Copper Inadequacy&lt;/h2&gt;
+
+&lt;p&gt;The following groups are most likely to have inadequate copper status.&lt;/p&gt;
+
+&lt;h3&gt;People with celiac disease&lt;/h3&gt;
+
+&lt;p&gt;In a study of 200 adults and children with celiac disease, of which 69.9% claimed to maintain a gluten-free diet, 15% had copper deficiency (less than 70 mcg/dL in serum in men and girls younger than 12 years and less than 80 mcg/dL in women older than 12 years and/or CP less than 170 mg/L) as a result of intestinal malabsorption resulting from the intestinal lining alterations associated with celiac disease [19]. In its 2009 clinical guidelines for celiac disease, the American College of Gastroenterology notes that people with celiac disease appear to have an increased risk of copper deficiency and that copper levels normalize within a month of adequate copper supplementation while eating a gluten-free diet [20].&lt;/p&gt;
+
+&lt;h3&gt;People with Menkes disease&lt;/h3&gt;
+
+&lt;p&gt;Menkes disease is a rare, X-linked, recessive disorder of copper homeostasis caused by &lt;em&gt;ATP7A&lt;/em&gt; mutations, which encode a copper-transporting ATPase [1]. In these individuals, intestinal absorption of dietary copper drops sharply, leading to signs of copper deficiency, including low serum copper and CP levels [1, 21]. The typical manifestations of Menkes disease include failure to thrive, impaired cognitive development, aortic aneurysms, seizures, and unusually kinky hair [22]. Most individuals with Menkes disease die by age 3 years if untreated, but subcutaneous injections of copper starting in the first few weeks after birth can reduce mortality risk and improve development [23].&lt;/p&gt;
+
+&lt;h3&gt;People taking high doses of zinc supplements&lt;/h3&gt;
+
+&lt;p&gt;High dietary intakes of zinc can interfere with copper absorption, and excessive use of zinc supplements can lead to copper deficiency. Reductions in erythrocyte copper-zinc superoxide dismutase, a marker of copper status, have been reported with even moderately high zinc intakes of approximately 60 mg/day for up to 10 weeks [3]. People who regularly consume high doses of zinc from supplements or use excessive amounts of zinc-containing denture creams can develop copper deficiency because zinc can inhibit copper absorption. This is one reason the FNB established the UL for zinc at 40 mg/day for adults [1, 3].&lt;/p&gt;
+
+&lt;h2&gt;Copper and Health&lt;/h2&gt;
+
+&lt;p&gt;This section focuses on two diseases in which copper might play a role: cardiovascular disease (CVD) and Alzheimer&amp;rsquo;s disease.&lt;/p&gt;
+
+&lt;h3&gt;Cardiovascular disease&lt;/h3&gt;
+
+&lt;p&gt;Copper deficiency leads to changes in blood lipid levels, a risk factor for atherosclerotic CVD [1]. Animal studies have shown that copper deficiency is associated with cardiac abnormalities, possibly because of the resulting decreases in the activity of several cardiac cuproenzymes [1, 2].&lt;/p&gt;
+
+&lt;p&gt;However, observational studies of the link between copper concentrations and CVD have had mixed results. A representative cohort study of 1,197 asymptomatic adults age 45 to 64 in Italy assessed the effects of self-reported copper intakes on various metabolic markers, including markers of atherosclerotic disease risk (diastolic blood pressure, total and low-density lipoprotein [LDL] levels) [24]. Diastolic blood pressure, total cholesterol, and LDL cholesterol levels were significantly lower in the highest tertile of copper intake (2.29 mg/day) compared with the lowest tertile (1.12 mg/day). In contrast, an analysis of 1976&amp;ndash;1992 data on 4,574 participants in the second NHANES found that the risk of death from coronary heart disease was 2.87 times higher for participants age 30 and older in the fourth quartile for serum copper concentration (137 mcg/dL or higher) than for those in the first quartile (less than 106 mcg/dL) [25]. Similarly, an analysis of data on 3,253 adults with acute coronary syndromes (mean age 62 years in the 70% who were male and 65 years in the 30% who were female) in a cardiovascular health study in Germany found higher hazard ratios&amp;mdash;2.58 for copper and 3.02 for CP concentrations in serum&amp;mdash;for death from CVD in the highest (mean 147 mcg/dL for copper, 38.3 mg/dL for CP) versus the lowest (81.6 mcg/dL for copper, 22.9 mg/dL for CP) quartiles [26].&lt;/p&gt;
+
+&lt;p&gt;A few small studies that assessed the impact of copper supplementation in healthy adults have found little evidence that supplementation affects CVD risk factors. For example, daily supplementation with 2 mg copper as copper glycinate for 8 weeks in 70 healthy adults age 45 to 60 years increased the activity of two cuproenzymes, erythrocyte superoxide dismutase 1 and plasma CP, but had no effect on five other CVD-related plasma markers (CRP, homocysteine, total cholesterol, high-density lipoprotein cholesterol, and LDL cholesterol) [27]. In 16 healthy women (mean age 24 years), daily supplementation with 3 mg or 6 mg elemental copper as copper sulfate had no significant effect on CVD risk factors, including total plasma cholesterol or triacylglycerol concentrations [28]. However, the concentration of fibrinolytic factor PAI-I decreased by about 30% (indicating reduced CVD risk) with 6 mg/day copper supplementation compared with placebo. No clinical trials of copper supplementation have been conducted in people with increased CVD risk.&lt;/p&gt;
+
+&lt;p&gt;Overall, the evidence to date is insufficient to support any conclusions about the association between copper concentrations and CVD risk or the impact of copper supplementation on CVD.&lt;/p&gt;
+
+&lt;h3&gt;Alzheimer&amp;rsquo;s disease&lt;/h3&gt;
+
+&lt;p&gt;Some experts believe that dietary copper deficiency plays a role in the etiology and pathophysiology of Alzheimer&amp;rsquo;s disease, the leading cause of dementia, because of several reports of low copper levels and low activity of copper-dependent enzymes in the brains of people with the disease [7, 29]. Limited evidence shows that people with higher copper levels have a lower risk of Alzheimer&amp;rsquo;s disease [30]. However, high levels of copper have also been found in the brains of people with Alzheimer&amp;rsquo;s disease, and some researchers argue that excess amounts of dietary copper are involved in the development of this disease [31]. Furthermore, copper accumulation in damaged brain regions in Alzheimer&amp;rsquo;s disease might not directly reflect overall body copper status or copper intakes [32].&lt;/p&gt;
+
+&lt;p&gt;A few observational studies have assessed the relationship between dietary copper levels and Alzheimer&amp;rsquo;s disease, with mixed results. One study, for example, assessed cognitive function using four cognitive tests during home visits every 3 years for 6 years and intakes of copper and saturated and trans fats using a food frequency questionnaire in 3,718 community-dwelling (noninstitutionalized) adults age 65 and older [33]. In the overall study population, dietary and total copper intakes were not associated with cognitive decline. However, in 604 participants (16.2%) who consumed a diet higher in saturated and trans fat, total copper intake in the highest quintile (median 2.75 mg/day) was associated with a significantly faster rate of cognitive decline compared with the lowest intake quintile (median 0.88 mg/day). In contrast, an analysis of data on 1,112 adults older than 60 years found no differences in serum copper or CP levels between patients with Alzheimer&amp;rsquo;s disease (n=211) and healthy controls (n=695) [32]. This study did reveal, however, a significant decline in serum copper not bound to CP in patients with mild cognitive impairment or Alzheimer&amp;rsquo;s disease compared with the healthy control group 18 months after baseline.&lt;/p&gt;
+
+&lt;p&gt;Meta-analyses have found that people with Alzheimer&amp;rsquo;s disease tend to have higher serum copper levels than adults without the disease. In a meta-analysis of 10 studies in 867 healthy individuals and 599 with Alzheimer&amp;rsquo;s disease (mean age greater than 70 years in both groups), patients with Alzheimer&amp;rsquo;s disease had significantly higher serum levels of copper not bound to CP and total serum copper than healthy controls [34]. In an earlier meta-analysis of 26 studies in a total of 1,058 patients with Alzheimer&amp;rsquo;s disease and 932 controls, those with Alzheimer&amp;rsquo;s disease had significantly higher levels of serum copper than the healthy controls [35].&lt;/p&gt;
+
+&lt;p&gt;Very little clinical evidence is available on the impact of copper supplementation in patients with Alzheimer&amp;rsquo;s disease. One clinical trial that randomly assigned 68 patients age 50 to 80 years with mild Alzheimer&amp;rsquo;s disease to supplementation with 8 mg copper daily or placebo for 12 months found no significant differences in cognition between groups [36].&lt;/p&gt;
+
+&lt;p&gt;Experts participating in the 2013 International Conference on Nutrition and the Brain suggested that individuals at increased risk of Alzheimer&amp;rsquo;s disease using multivitamin/mineral supplements choose those that have no copper (or iron) because excessive intakes of these minerals could contribute to cognitive issues in some patients [37]. However, much more research is needed to determine whether high or low levels of serum or plasma copper are associated with Alzheimer&amp;rsquo;s disease risk and whether supplements containing copper could affect Alzheimer&amp;rsquo;s disease risk or symptoms.&lt;/p&gt;
+
+&lt;h2&gt;Health Risks from Excessive Copper&lt;/h2&gt;
+
+&lt;p&gt;Chronic exposure to high levels of copper can result in liver damage and gastrointestinal symptoms (e.g., abdominal pain, cramps, nausea, diarrhea, and vomiting) [10, 38]. Copper toxicity is rare in healthy individuals who do not have a hereditary copper homeostasis defect. However, copper toxicity has been reported in people who consume water containing high levels of copper as a result of stagnant water in copper-containing pipes and fixtures as well as copper alloys in water distribution systems and household plumbing that allow copper to leach into water [10, 38]. The Environmental Protection Agency has established a recommended upper limit for copper in public water systems of 1.3 mg/L [38, 39].&lt;/p&gt;
+
+&lt;p&gt;People with Wilson&amp;rsquo;s disease, a rare, autosomal recessive disease, have a high risk of copper toxicity. Wilson&amp;rsquo;s disease, which is caused by a mutation in &lt;em&gt;ATP7B&lt;/em&gt;, leads to abnormally high tissue levels of copper as a result of defective copper clearance [40]. People with this disease can develop neurologic and liver damage that can result in cirrhosis [1]. Patients can also develop acute hepatitis, hemolytic crisis, and liver failure. Lifelong copper chelation therapy or high doses of zinc can prevent permanent organ damage in these patients.&lt;/p&gt;
+
+&lt;p&gt;The FNB has established ULs for copper from food and supplements for healthy individuals based on levels associated with liver damage [10]. The ULs do not apply to individuals who are receiving supplemental copper under medical supervision.&lt;/p&gt;
+
+&lt;table border="1"&gt;
+	&lt;caption&gt;Table 3: Tolerable Upper Intake Levels (ULs) for Copper [10]&lt;/caption&gt;
+	&lt;thead&gt;
+		&lt;tr&gt;
+			&lt;th scope="col"&gt;Age&lt;/th&gt;
+			&lt;th scope="col"&gt;Male&lt;/th&gt;
+			&lt;th scope="col"&gt;Female&lt;/th&gt;
+			&lt;th scope="col"&gt;Pregnancy&lt;/th&gt;
+			&lt;th scope="col"&gt;Lactation&lt;/th&gt;
+		&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Birth to 6 months&lt;/td&gt;
+			&lt;td align="right"&gt;None established*&lt;/td&gt;
+			&lt;td align="right"&gt;None established*&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;7&amp;ndash;12 months&lt;/td&gt;
+			&lt;td align="right"&gt;None established*&lt;/td&gt;
+			&lt;td align="right"&gt;None established*&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;1&amp;ndash;3 years&lt;/td&gt;
+			&lt;td align="right"&gt;1,000 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;1,000 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;4&amp;ndash;8 years&lt;/td&gt;
+			&lt;td align="right"&gt;3,000 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;3,000 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;9&amp;ndash;13 years&lt;/td&gt;
+			&lt;td align="right"&gt;5,000 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;5,000 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;14&amp;ndash;18 years&lt;/td&gt;
+			&lt;td align="right"&gt;8,000 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;8,000 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;8,000 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;8,000 mcg&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;19+ years&lt;/td&gt;
+			&lt;td align="right"&gt;10,000 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;10,000 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;10,000 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;10,000 mcg&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;* Breast milk, formula, and food should be the only sources of copper for infants.&lt;/p&gt;
+
+&lt;h2&gt;Interactions with Copper&lt;/h2&gt;
+
+&lt;p&gt;Copper is not known to have any clinically relevant interactions with medications.&lt;/p&gt;
+
+&lt;h2&gt;Copper and Healthful Diets&lt;/h2&gt;
+
+&lt;p&gt;The federal government's 2020&amp;ndash;2025 &lt;em&gt;Dietary Guidelines for Americans&lt;/em&gt; notes that &amp;quot;Because foods provide an array of nutrients and other components that have benefits for health, nutritional needs should be met primarily through foods. ... In some cases, fortified foods and dietary supplements are useful when it is not possible otherwise to meet needs for one or more nutrients (e.g., during specific life stages such as pregnancy).&amp;quot;&lt;/p&gt;
+
+&lt;p&gt;For more information about building a healthy dietary pattern, refer to the &lt;em&gt;&lt;a href="https://www.dietaryguidelines.gov" target="_blank"&gt;Dietary Guidelines for Americans&lt;/a&gt;&lt;a href="https://ods.od.nih.gov:443/About/exit_disclaimer.aspx" title="External Website"&gt;&lt;img src="/images/Common/externallink.png"  height="12" width="12"  alt="external link disclaimer" class="externallink" /&gt;&lt;/a&gt;&lt;/em&gt; and the USDA's &lt;em&gt;&lt;a href="https://www.choosemyplate.gov/" target="_blank"&gt;MyPlate.&lt;/a&gt;&lt;a href="https://ods.od.nih.gov:443/About/exit_disclaimer.aspx" title="External Website"&gt;&lt;img src="/images/Common/externallink.png"  height="12" width="12"  alt="external link disclaimer" class="externallink" /&gt;&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The &lt;em&gt;Dietary Guidelines for Americans&lt;/em&gt; describes a healthy dietary pattern as one that&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Includes a variety of vegetables; fruits; grains (at least half whole grains); fat-free and low-fat milk, yogurt, and cheese; and oils.
+	&lt;dl&gt;
+		&lt;dd&gt;Some vegetables, fruits, grains, and dairy products contain copper.&lt;/dd&gt;
+	&lt;/dl&gt;
+	&lt;/li&gt;
+	&lt;li&gt;Includes a variety of protein foods such as lean meats; poultry; eggs; seafood; beans, peas, and lentils; nuts and seeds; and soy products.
+	&lt;dl&gt;
+		&lt;dd&gt;Some organ meats, seafoods, and nuts and seeds are rich in copper, and other types of meats, fish, and beans contain copper.&lt;/dd&gt;
+	&lt;/dl&gt;
+	&lt;/li&gt;
+	&lt;li&gt;Limits foods and beverages higher in added sugars, saturated fat, and sodium.&lt;/li&gt;
+	&lt;br&gt;
+	&lt;li&gt;Limits alcoholic beverages.&lt;/li&gt;
+	&lt;br&gt;
+	&lt;li&gt;Stays within your daily calorie needs.&lt;/li&gt;
+&lt;/ul&gt;
+</Content><References Count="40"><EndNote><RefID>1</RefID><Reference>Collins JF. Copper. In: Ross AC, Caballero B, Cousins RJ, Tucker KL, Ziegler TR, eds. Modern Nutrition in Health and Disease. 11th ed. Baltimore, MD: Lippincott Williams &amp; Wilkins; 2014:206-16.</Reference><PMID /></EndNote><EndNote><RefID>2</RefID><Reference>Prohaska JR. Copper. In: Erdman JW, Macdonald IA, Zeisel SH, eds. Present Knowledge in Nutrition. 10th ed. Washington, DC: Wiley-Blackwell; 2012:540-53.</Reference><PMID /></EndNote><EndNote><RefID>3</RefID><Reference>Institute of Medicine, Food and Nutrition Board. Dietary Reference Intakes for Vitamin A, Vitamin K, Arsenic, Boron, Chromium, Copper, Iodine, Iron, Manganese, Molybdenum, Nickel, Silicon, Vanadium, and Zinc. Washington, DC: National Academies Press; 2001.</Reference><PMID /></EndNote><EndNote><RefID>4</RefID><Reference>Hellman NE, Gitlin JD. Ceruloplasmin metabolism and function. Annu Rev Nutr 2002;22:439-58.</Reference><PMID>12055353</PMID></EndNote><EndNote><RefID>5</RefID><Reference>Allen KG, Klevay LM. Copper: an antioxidant nutrient for cardiovascular health. Curr Opin Lipidol 1994;5:22-8.</Reference><PMID>15559027</PMID></EndNote><EndNote><RefID>6</RefID><Reference>Owen CAJ. Biochemical Aspects of Copper: Copper Proteins, Ceruloplasmin, and Copper Protein Binding. Park Ridge, NJ: Noyes Publications; 1982.</Reference><PMID /></EndNote><EndNote><RefID>7</RefID><Reference>Klevay LM. Copper. In: Coates PM, Betz JM, Blackman MR, et al., eds. Encyclopedia of Dietary Supplements. 2nd ed. London and New York: Informa Healthcare; 2010:604-11.</Reference><PMID /></EndNote><EndNote><RefID>8</RefID><Reference>Klevay LM. Is the Western diet adequate in copper? J Trace Elem Med Biol 2011;25:204-12.</Reference><PMID>21982501</PMID></EndNote><EndNote><RefID>9</RefID><Reference>U.S. Department of Agriculture, Agricultural Research Service. &lt;a href="http://www.ars.usda.gov/Services/docs.htm?docid=18349"&gt;What We Eat in America, 2013-2014.&lt;/a&gt; 2017.</Reference><PMID /></EndNote><EndNote><RefID>10</RefID><Reference>Institute of Medicine. Food and Nutrition Board. Dietary Reference Intakes: Thiamin, Riboflavin, Niacin, Vitamin B6, Folate, Vitamin B12, Pantothenic Acid, Biotin, and Choline. Washington, DC: National Academy Press; 1998.</Reference><PMID /></EndNote><EndNote><RefID>11</RefID><Reference>World Health Organization. Copper in Drinking-Water. Geneva: World Health Organization; 2004.</Reference><PMID /></EndNote><EndNote><RefID>12</RefID><Reference>U.S. Department of Agriculture, Agricultural Research Service. &lt;a href="https://fdc.nal.usda.gov/"&gt;FoodData Central&lt;/a&gt;, 2019.</Reference><PMID /></EndNote><EndNote><RefID>13</RefID><Reference>U.S. Food and Drug Administration. &lt;a href="https://www.federalregister.gov/documents/2016/05/27/2016-11867/food-labeling-revision-of-the-nutrition-and-supplement-facts-labels"&gt;Food Labeling: Revision of the Nutrition and Supplement Facts Labels.&lt;/a&gt; 2016.</Reference><PMID /></EndNote><EndNote><RefID>14</RefID><Reference>National Institutes of Health. &lt;a href="https://dsld.od.nih.gov"&gt;Dietary Supplement Label Database.&lt;/a&gt; 2018.</Reference><PMID /></EndNote><EndNote><RefID>15</RefID><Reference>Rosado JL. Zinc and copper: proposed fortification levels and recommended zinc compounds. J Nutr 2003;133:2985S-9S.</Reference><PMID>12949397</PMID></EndNote><EndNote><RefID>16</RefID><Reference>Blumberg JB, Frei B, Fulgoni VL, Weaver CM, Zeisel SH. Contribution of Dietary Supplements to Nutritional Adequacy in Various Adult Age Groups. Nutrients 2017;9.</Reference><PMID>29211007</PMID></EndNote><EndNote><RefID>17</RefID><Reference>Fairweather-Tait SJ, Harvey LJ, Collings R. Risk-benefit analysis of mineral intakes: case studies on copper and iron. Proc Nutr Soc 2011;70:1-9.</Reference><PMID>20860861</PMID></EndNote><EndNote><RefID>18</RefID><Reference>Prohaska JR. Impact of copper deficiency in humans. Ann N Y Acad Sci 2014;1314:1-5.</Reference><PMID>24517364</PMID></EndNote><EndNote><RefID>19</RefID><Reference>Botero-Lopez JE, Araya M, Parada A, Mendez MA, Pizarro F, Espinosa N, et al. Micronutrient deficiencies in patients with typical and atypical celiac disease. J Pediatr Gastroenterol Nutr 2011;53:265-70.</Reference><PMID>21865972</PMID></EndNote><EndNote><RefID>20</RefID><Reference>Rubio-Tapia A, Hill ID, Kelly CP, Calderwood AH, Murray JA, American College of Gastroenterology. ACG clinical guidelines: diagnosis and management of celiac disease. Am J Gastroenterol 2013;108:656-76; quiz 77.</Reference><PMID>23609613</PMID></EndNote><EndNote><RefID>21</RefID><Reference>Costa LS, Pegler SP, Lellis RF, Krebs VL, Robertson S, Morgan T, et al. Menkes disease: importance of diagnosis with molecular analysis in the neonatal period. Rev Assoc Med Bras (1992) 2015;61:407-10.</Reference><PMID>26603002</PMID></EndNote><EndNote><RefID>22</RefID><Reference>Hordyjewska A, Popiolek L, Kocot J. The many "faces" of copper in medicine and treatment. Biometals 2014;27:611-21.</Reference><PMID>24748564</PMID></EndNote><EndNote><RefID>23</RefID><Reference>Kaler SG. Neurodevelopment and brain growth in classic Menkes disease is influenced by age and symptomatology at initiation of copper treatment. J Trace Elem Med Biol 2014;28:427-30.</Reference><PMID>25281031</PMID></EndNote><EndNote><RefID>24</RefID><Reference>Bo S, Durazzo M, Gambino R, Berutti C, Milanesio N, Caropreso A, et al. Associations of dietary and serum copper with inflammation, oxidative stress, and metabolic variables in adults. J Nutr 2008;138:305-10.</Reference><PMID>18203896</PMID></EndNote><EndNote><RefID>25</RefID><Reference>Ford ES. Serum copper concentration and coronary heart disease among US adults. Am J Epidemiol 2000;151:1182-8.</Reference><PMID>10905530</PMID></EndNote><EndNote><RefID>26</RefID><Reference>Grammer TB, Kleber ME, Silbernagel G, Pilz S, Scharnagl H, Lerchbaum E, et al. Copper, ceruloplasmin, and long-term cardiovascular and total mortality (the Ludwigshafen Risk and Cardiovascular Health Study). Free Radic Res 2014;48:706-15.</Reference><PMID>24605902</PMID></EndNote><EndNote><RefID>27</RefID><Reference>DiSilvestro RA, Joseph EL, Zhang W, Raimo AE, Kim YM. A randomized trial of copper supplementation effects on blood copper enzyme activities and parameters related to cardiovascular health. Metabolism 2012;61:1242-6.</Reference><PMID>22444781</PMID></EndNote><EndNote><RefID>28</RefID><Reference>Bugel S, Harper A, Rock E, O'Connor JM, Bonham MP, Strain JJ. Effect of copper supplementation on indices of copper status and certain CVD risk markers in young healthy women. Br J Nutr 2005;94:231-6.</Reference><PMID>16115357</PMID></EndNote><EndNote><RefID>29</RefID><Reference>Klevay LM. Alzheimer's disease as copper deficiency. Med Hypotheses 2008;70:802-7.</Reference><PMID>17928161</PMID></EndNote><EndNote><RefID>30</RefID><Reference>Siotto M, Simonelli I, Pasqualetti P, Mariani S, Caprara D, Bucossi S, et al. Association Between Serum Ceruloplasmin Specific Activity and Risk of Alzheimer's Disease. J Alzheimers Dis 2016;50:1181-9.</Reference><PMID>26836154</PMID></EndNote><EndNote><RefID>31</RefID><Reference>Lanza V, Milardi D, Di Natale G, Pappalardo G. Repurposing of Copper(II)-chelating Drugs for the Treatment of Neurodegenerative Diseases. Curr Med Chem 2018;25:525-39.</Reference><PMID>28521682</PMID></EndNote><EndNote><RefID>32</RefID><Reference>Rembach A, Doecke JD, Roberts BR, Watt AD, Faux NG, Volitakis I, et al. Longitudinal analysis of serum copper and ceruloplasmin in Alzheimer's disease. J Alzheimers Dis 2013;34:171-82.</Reference><PMID>23168449</PMID></EndNote><EndNote><RefID>33</RefID><Reference>Morris MC, Evans DA, Tangney CC, Bienias JL, Schneider JA, Wilson RS, et al. Dietary copper and high saturated and trans fat intakes associated with cognitive decline. Arch Neurol 2006;63:1085-8.</Reference><PMID>16908733</PMID></EndNote><EndNote><RefID>34</RefID><Reference>Squitti R, Simonelli I, Ventriglia M, Siotto M, Pasqualetti P, Rembach A, et al. Meta-analysis of serum non-ceruloplasmin copper in Alzheimer's disease. J Alzheimers Dis 2014;38:809-22.</Reference><PMID>24072069</PMID></EndNote><EndNote><RefID>35</RefID><Reference>Bucossi S, Ventriglia M, Panetta V, Salustri C, Pasqualetti P, Mariani S, et al. Copper in Alzheimer's disease: a meta-analysis of serum,plasma, and cerebrospinal fluid studies. J Alzheimers Dis 2011;24:175-85.</Reference><PMID>21187586</PMID></EndNote><EndNote><RefID>36</RefID><Reference>Kessler H, Bayer TA, Bach D, Schneider-Axmann T, Supprian T, Herrmann W, et al. Intake of copper has no effect on cognition in patients with mild Alzheimer's disease: a pilot phase 2 clinical trial. J Neural Transm (Vienna) 2008;115:1181-7.</Reference><PMID>18587525</PMID></EndNote><EndNote><RefID>37</RefID><Reference>Barnard ND, Bush AI, Ceccarelli A, Cooper J, de Jager CA, Erickson KI, et al. Dietary and lifestyle guidelines for the prevention of Alzheimer's disease. Neurobiol Aging 2014;35 Suppl 2:S74-8.</Reference><PMID>24913896</PMID></EndNote><EndNote><RefID>38</RefID><Reference>National Research Council Committee on Copper in Drinking Water. Copper in Drinking Water. Washington, DC: National Academies Press; 2000.</Reference><PMID /></EndNote><EndNote><RefID>39</RefID><Reference>Environmental Protection Agency. &lt;a href="https://www.ecfr.gov/cgi-bin/text-idx?SID=9c5415b2fe8eb76878a169c14454171f&amp;amp;mc=true&amp;amp;node=sp40.25.141.i&amp;amp;rgn=div6"&gt;Electronic Code of Federal Regulations, Title 40, Part 141.&lt;/a&gt; 2007.</Reference><PMID /></EndNote><EndNote><RefID>40</RefID><Reference>Trocello JM, Broussolle E, Girardot-Tinant N, Pelosse M, Lachaux A, Lloyd C, et al. Wilson's disease, 100 years later. Rev Neurol (Paris) 2013;169:936-43.</Reference><PMID>24119853</PMID></EndNote></References><Disclaimer>This fact sheet by the National Institutes of Health (NIH) Office of Dietary Supplements (ODS) provides information that should not take the place of medical advice. We encourage you to talk to your health care providers (doctor, registered dietitian, pharmacist, etc.) about your interest in, questions about, or use of dietary supplements and what may be best for your overall health. Any mention in this publication of a specific product or service, or recommendation from an organization or professional society, does not represent an endorsement by ODS of that product, service, or expert advice.</Disclaimer><ODSLogo>https://ods.od.nih.gov:443/images/common/NIH-ODSlogo_home.png</ODSLogo></Factsheet>

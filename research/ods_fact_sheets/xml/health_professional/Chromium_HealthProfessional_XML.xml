@@ -1,0 +1,410 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Factsheet xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/factsheet.xsd"><FSID>57</FSID><LanguageCode>en</LanguageCode><Reviewed>2022-06-02</Reviewed><URL>https://ods.od.nih.gov:443/factsheets/Chromium-HealthProfessional/</URL><Title>Chromium</Title><ShortTitle>Chromium</ShortTitle><Content>&lt;!-- docid = 57 --&gt;
+&lt;h2&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;Chromium, as trivalent (+3) chromium, is a trace element that is naturally present in many foods and available as a dietary supplement. Chromium also exists as hexavalent (+6) chromium, a toxic by-product of stainless steel and other manufacturing processes [1, 2]. This fact sheet focuses entirely on trivalent chromium.&lt;/p&gt;
+
+&lt;p&gt;Chromium might play a role in carbohydrate, lipid, and protein metabolism by potentiating insulin action [1-5]. Although the precise mechanism for this activity has not been identified, scientists have proposed that chromium binds to an oligopeptide to form chromodulin, a low-molecular-weight, chromium-binding substance that binds to and activates the insulin receptor to promote insulin action [4, 6-8]. Chromium might also have antioxidant effects [1].&lt;/p&gt;
+
+&lt;p&gt;In 2001, the Food and Nutrition Board (FNB) of the National Academies of Sciences, Engineering, and Medicine considered chromium to be an essential nutrient based on its effects on insulin action [2]. However, recent research has suggested that although chromium might have benefits at pharmacologic amounts (e.g., in the hundreds of mcg), it is not an essential mineral because an absence or deficiency of chromium does not produce abnormalities that can be reversed with the addition of chromium (see the Chromium Deficiency section below) [5, 9-13]. The FNB has not evaluated chromium since 2001. However, in 2014, the European Food Safety Authority Panel on Dietetic Products, Nutrition and Allergies concluded that no convincing evidence shows that chromium is an essential nutrient and, therefore, setting chromium intake recommendations would be inappropriate [5].&lt;/p&gt;
+
+&lt;p&gt;In the blood, most chromium is bound to plasma proteins, particularly transferrin, and only about 5% is unbound [5, 12]. Chromium accumulates mainly in the liver, spleen, soft tissue, and bone [2, 5, 12].&lt;/p&gt;
+
+&lt;p&gt;Chromium is excreted mainly in the urine [1, 12, 13]. Urinary chromium levels are therefore a good indicator of chromium absorption. However, because these levels are closely related to recent chromium intakes, they are not good indicators of chromium body stores [4, 14]. Hair levels might reflect past chromium intakes [5], and some studies have measured chromium levels in hair, sweat, serum, and toenails [15, 16]. However, no validated methods for determining chromium status and no clinically defined chromium deficiency state exist [6, 8].&lt;/p&gt;
+
+&lt;h2&gt;Recommended Intakes&lt;/h2&gt;
+
+&lt;p&gt;Intake recommendations for chromium and other nutrients are provided in the Dietary Reference Intakes (DRIs) developed by an expert committee of the FNB at the National Academies of Sciences, Engineering, and Medicine [2]. DRI is the general term for a set of reference values used for planning and assessing nutrient intakes of healthy people. These values, which vary by age and sex, include the following:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Recommended Dietary Allowance (RDA): Average daily level of intake sufficient to meet the nutrient requirements of nearly all (97%&amp;ndash;98%) healthy individuals; often used to plan nutritionally adequate diets for individuals&lt;/li&gt;
+	&lt;li&gt;Adequate Intake (AI): Intake at this level is assumed to ensure nutritional adequacy; established when evidence is insufficient to develop an RDA&lt;/li&gt;
+	&lt;li&gt;Estimated Average Requirement (EAR): Average daily level of intake estimated to meet the requirements of 50% of healthy individuals; usually used to assess the nutrient intakes of groups of people and to plan nutritionally adequate diets for them; can also be used to assess the nutrient intakes of individuals&lt;/li&gt;
+	&lt;li&gt;Tolerable Upper Intake Level (UL): Maximum daily intake unlikely to cause adverse health effects&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In its 2001 evaluation, the FNB found the existing data insufficient to derive an EAR for chromium. The FNB therefore established AIs for all ages based on usual chromium intakes in healthy populations [2]. Table 1 lists the current AIs for chromium.&lt;/p&gt;
+
+&lt;table border="1"&gt;
+	&lt;caption&gt;Table 1: Adequate Intakes (AIs) for Chromium [2]&lt;/caption&gt;
+	&lt;thead&gt;
+		&lt;tr&gt;
+			&lt;th scope="col"&gt;Age&lt;/th&gt;
+			&lt;th scope="col"&gt;Male&lt;/th&gt;
+			&lt;th scope="col"&gt;Female&lt;/th&gt;
+			&lt;th scope="col"&gt;Pregnancy&lt;/th&gt;
+			&lt;th scope="col"&gt;Lactation&lt;/th&gt;
+		&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Birth to 6 months*&lt;/td&gt;
+			&lt;td align="right"&gt;0.2 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;0.2 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;7&amp;ndash;12 months*&lt;/td&gt;
+			&lt;td align="right"&gt;5.5 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;5.5 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;1&amp;ndash;3 years&lt;/td&gt;
+			&lt;td align="right"&gt;11 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;11 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;4&amp;ndash;8 years&lt;/td&gt;
+			&lt;td align="right"&gt;15 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;15 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;9&amp;ndash;13 years&lt;/td&gt;
+			&lt;td align="right"&gt;25 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;21 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;14&amp;ndash;18 years&lt;/td&gt;
+			&lt;td align="right"&gt;35 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;24 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;29 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;44 mcg&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;19&amp;ndash;50 years&lt;/td&gt;
+			&lt;td align="right"&gt;35 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;25 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;30 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;45 mcg&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;51+ years&lt;/td&gt;
+			&lt;td align="right"&gt;30 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;20 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+*For infants from birth to age 12 months, the AIs are based on the mean chromium intakes of infants fed primarily human milk and, for older infants, complementary foods.
+
+&lt;h2&gt;Sources of Chromium&lt;/h2&gt;
+
+&lt;h3&gt;Food&lt;/h3&gt;
+
+&lt;p&gt;Chromium is present in many foods, including meats, grain products, fruits, vegetables, nuts, spices, brewer&amp;rsquo;s yeast, beer, and wine. However, chromium amounts in these foods vary widely depending on local soil and water conditions as well as agricultural and manufacturing processes used to produce them [4, 7, 12, 17-20]. For example, the amount of chromium can vary 50-fold in samples of oatmeal because of growing and processing differences [21]. Some chromium can also be transferred to foods from stainless steel equipment during food processing and from pots and pans during cooking [3, 4, 10, 17, 20, 22, 23].&lt;/p&gt;
+
+&lt;p&gt;Most dairy products and foods high in sugar (e.g., sucrose and fructose) are low in chromium [2, 17, 24].&lt;/p&gt;
+
+&lt;p&gt;Human milk contains about 0.25 mcg/L chromium [2], but reported values vary widely. Small studies in Europe found chromium concentrations ranging from 0.14 to 10.8 mcg/L [5].&lt;/p&gt;
+
+&lt;p&gt;Dietary chromium absorption is low, ranging from about 0.4% to 2.5% [5, 6]. Ascorbic acid and prostaglandin inhibitors, such as aspirin, increase chromium absorption, whereas oxalate and antacids inhibit it [1, 22, 25].&lt;/p&gt;
+
+&lt;p&gt;A variety of types of foods and their chromium levels per serving are listed in Table 2. Determining the chromium content of food is challenging because samples are easily contaminated by standard tools used for measurement and analysis [2]. Therefore, the values in Table 2 should only serve as a guide.&lt;/p&gt;
+
+&lt;table border="1"&gt;
+	&lt;caption&gt;Table 2: Chromium Content of Selected Foods [17, 19]&lt;/caption&gt;
+	&lt;thead&gt;
+		&lt;tr&gt;
+			&lt;th scope="col"&gt;Food&lt;/th&gt;
+			&lt;th scope="col"&gt;Micrograms&lt;br&gt;
+			(mcg) per&lt;br&gt;
+			serving&lt;/th&gt;
+			&lt;th scope="col"&gt;Percent DV*&lt;/th&gt;
+		&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Grape juice, 1 cup&lt;/td&gt;
+			&lt;td align="right"&gt;7.5&lt;/td&gt;
+			&lt;td align="right"&gt;21&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Ham, 3 ounces&lt;/td&gt;
+			&lt;td align="right"&gt;3.6&lt;/td&gt;
+			&lt;td align="right"&gt;10&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;English muffin, whole wheat, 1&lt;/td&gt;
+			&lt;td align="right"&gt;3.6&lt;/td&gt;
+			&lt;td align="right"&gt;10&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Brewer&amp;rsquo;s yeast, 1 tablespoon&lt;/td&gt;
+			&lt;td align="right"&gt;3.3&lt;/td&gt;
+			&lt;td align="right"&gt;9&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Orange juice, 1 cup&lt;/td&gt;
+			&lt;td align="right"&gt;2.2&lt;/td&gt;
+			&lt;td align="right"&gt;6&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Beef, 3 ounces&lt;/td&gt;
+			&lt;td align="right"&gt;2.0&lt;/td&gt;
+			&lt;td align="right"&gt;6&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Lettuce, 1 wedge, about 5 ounces&lt;/td&gt;
+			&lt;td align="right"&gt;1.8&lt;/td&gt;
+			&lt;td align="right"&gt;5&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Turkey breast, 3 ounces&lt;/td&gt;
+			&lt;td align="right"&gt;1.7&lt;/td&gt;
+			&lt;td align="right"&gt;5&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Barbecue sauce, 1 tablespoon&lt;/td&gt;
+			&lt;td align="right"&gt;1.7&lt;/td&gt;
+			&lt;td align="right"&gt;5&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Tomato juice, 1 cup&lt;/td&gt;
+			&lt;td align="right"&gt;1.5&lt;/td&gt;
+			&lt;td align="right"&gt;4&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Apple, with peel, 1 medium&lt;/td&gt;
+			&lt;td align="right"&gt;1.4&lt;/td&gt;
+			&lt;td align="right"&gt;4&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Green beans, &amp;frac12; cup&lt;/td&gt;
+			&lt;td align="right"&gt;1.1&lt;/td&gt;
+			&lt;td align="right"&gt;3&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Banana, 1 medium&lt;/td&gt;
+			&lt;td align="right"&gt;1.0&lt;/td&gt;
+			&lt;td align="right"&gt;3&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Whole wheat bread, 1 slice&lt;/td&gt;
+			&lt;td align="right"&gt;1.0&lt;/td&gt;
+			&lt;td align="right"&gt;3&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Ketchup, 1 tablespoon&lt;/td&gt;
+			&lt;td align="right"&gt;1.0&lt;/td&gt;
+			&lt;td align="right"&gt;3&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Tomato, 1 medium&lt;/td&gt;
+			&lt;td align="right"&gt;0.9&lt;/td&gt;
+			&lt;td align="right"&gt;3&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;American cheese, 1&amp;frac12; ounces&lt;/td&gt;
+			&lt;td align="right"&gt;0.8&lt;/td&gt;
+			&lt;td align="right"&gt;2&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Peanut butter, 1 tablespoon&lt;/td&gt;
+			&lt;td align="right"&gt;0.6&lt;/td&gt;
+			&lt;td align="right"&gt;2&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Rice, white, &amp;frac12; cup&lt;/td&gt;
+			&lt;td align="right"&gt;0.6&lt;/td&gt;
+			&lt;td align="right"&gt;2&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Haddock, 3 ounces&lt;/td&gt;
+			&lt;td align="right"&gt;0.6&lt;/td&gt;
+			&lt;td align="right"&gt;2&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Chicken breast, 3 ounces&lt;/td&gt;
+			&lt;td align="right"&gt;0.5&lt;/td&gt;
+			&lt;td align="right"&gt;1&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Peas, &amp;frac12; cup&lt;/td&gt;
+			&lt;td align="right"&gt;0.4&lt;/td&gt;
+			&lt;td align="right"&gt;1&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Orange, 1 medium&lt;/td&gt;
+			&lt;td align="right"&gt;0.4&lt;/td&gt;
+			&lt;td align="right"&gt;1&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Spaghetti, 1 cup&lt;/td&gt;
+			&lt;td align="right"&gt;0.3&lt;/td&gt;
+			&lt;td align="right"&gt;1&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Carrots, raw, 1 medium&lt;/td&gt;
+			&lt;td align="right"&gt;0.3&lt;/td&gt;
+			&lt;td align="right"&gt;1&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Egg, 1 medium&lt;/td&gt;
+			&lt;td align="right"&gt;0.2&lt;/td&gt;
+			&lt;td align="right"&gt;1&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Celery, 1 stalk&lt;/td&gt;
+			&lt;td align="right"&gt;0.1&lt;/td&gt;
+			&lt;td align="right"&gt;0&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Fat free milk, 1 cup&lt;/td&gt;
+			&lt;td align="right"&gt;&amp;lt;0.1&lt;/td&gt;
+			&lt;td align="right"&gt;0&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p style="padding-top: 0px;"&gt;*DV = Daily Value. The U.S. Food and Drug Administration (FDA) developed DVs to help consumers compare the nutrient contents of foods and dietary supplements within the context of a total diet. The DV for chromium is 35 mcg for adults and children age 4 and older [26]. FDA does not require food labels to list chromium content unless chromium has been added to the food. Foods providing 20% or more of the DV are considered to be high sources of a nutrient, but foods providing lower percentages of the DV also contribute to a healthful diet.&lt;/p&gt;
+
+&lt;h3&gt;Dietary supplements&lt;/h3&gt;
+
+&lt;p&gt;Most multivitamin/mineral supplements contain chromium, typically 35&amp;ndash;120 mcg. Supplements containing only chromium are also available, and they commonly provide 200 mcg to 500 mcg chromium, although some contain up to 1,000 mcg [16, 27].&lt;/p&gt;
+
+&lt;p&gt;Dietary supplements contain many forms of chromium, including chromium picolinate, chromium nicotinate, chromium polynicotinate, chromium chloride, and chromium histidinate [18, 27]. The absorption of various forms of chromium is similar [6, 9]. For example, research suggests that the proportion of chromium absorbed from chromium picolinate is about 1.2%, whereas that from chromium chloride is about 0.4% [1]. These values are similar to the proportion of chromium absorbed from food [5].&lt;/p&gt;
+
+&lt;p&gt;Chromium compounds contain various percentages of elemental chromium. For example, elemental chromium accounts for 12.4% of the weight of chromium picolinate [18, 28]. The Supplement Facts label on a dietary supplement product declares the amount of elemental chromium, not the weight of the entire chromium compound, in the product.&lt;/p&gt;
+
+&lt;h2&gt;Chromium Intakes and Status&lt;/h2&gt;
+
+&lt;p&gt;The National Health and Nutrition Examination Survey (NHANES) provides dietary intake data for many nutrients, but not chromium [29]. Therefore, data on chromium intakes in the United States are limited.&lt;/p&gt;
+
+&lt;p&gt;A small study in eight men and 11 women in the United States found mean chromium intakes of about 29 mcg/day for women and 54 mcg/day for men [30]. In another study, the mean chromium content per 2,000 kcal of 22 well-balanced diets designed by nutritionists was about 27 mcg and ranged from about 17 to 47 mcg [17]. These findings suggest that most people in the United States have chromium intakes similar to the AIs. A 2018 dietary intake assessment in Northern Italy found that the median chromium intake was about 57 mcg/day from a typical Italian diet [31].&lt;/p&gt;
+
+&lt;p&gt;Data on chromium intakes from dietary supplements are also very limited. According to an analysis of NHANES III (1988&amp;ndash;1994) data, the median supplemental intake of chromium was about 23 mcg/day among those taking supplements containing chromium [2].&lt;/p&gt;
+
+&lt;h2&gt;Chromium Deficiency&lt;/h2&gt;
+
+&lt;p&gt;Chromium deficiency has not been reported in healthy populations, and no definitive deficiency symptoms have been established [3, 4].&lt;/p&gt;
+
+&lt;p&gt;In three case studies published in the 1970s and 1980s, patients on long-term total parenteral nutrition (TPN) experienced adverse metabolic and neurological effects, including hyperglycemia, glycosuria, unexplained weight loss, peripheral neuropathy, glucose intolerance, and/or confusion [32-34]. These effects were alleviated with pharmacologic amounts of chromium. Although these adverse effects were presumed to be caused by chromium deficiency, the studies did not adequately evaluate the chromium concentrations in the TPN solutions [5]. Scientists have concluded, based on recent evaluations, that these studies do not provide evidence that the patients had chromium deficiency and thus do not demonstrate that heathy people can develop chromium deficiency [3, 5, 6, 10, 13].&lt;/p&gt;
+
+&lt;p&gt;Currently, chromium is routinely added to TPN solutions to provide 10&amp;ndash;15 mcg chromium per day, a much higher daily amount than the approximately 0.15 mcg/day that healthy individuals absorb from a balanced diet [9]. Thus, the American Society for Parenteral and Enteral Nutrition and other experts recommend research on parenteral chromium requirements to determine whether chromium levels in TPN solutions should be lowered [9, 13, 35, 36].&lt;/p&gt;
+
+&lt;h2&gt;Chromium and Health&lt;/h2&gt;
+
+&lt;p&gt;This section focuses on five conditions in which chromium might have beneficial effects: impaired glucose tolerance and diabetes, metabolic syndrome, polycystic ovary syndrome (PCOS), dyslipidemia, and weight and lean body mass.&lt;/p&gt;
+
+&lt;h3&gt;Impaired glucose tolerance and diabetes&lt;/h3&gt;
+
+&lt;p&gt;Because chromium might potentiate the action of insulin, studies have examined whether increasing chromium intakes might reduce the risk of impaired glucose tolerance.&lt;/p&gt;
+
+&lt;p&gt;Numerous randomized controlled trials have assessed the effects of chromium supplements&amp;ndash;often at pharmacological doses (e.g., in the hundreds of mcg)&amp;ndash;in people without diabetes or with glucose intolerance or diabetes [16]. One of the most commonly cited intervention studies of the effects of chromium supplementation for type 2 diabetes was a 1997 randomized controlled trial [37]. The trial assigned 180 adults age 35&amp;ndash;65 years with type 2 diabetes to receive 100 mcg chromium (as chromium picolinate), 500 mcg chromium, or placebo twice daily for 4 months. At both 2 and 4 months, participants receiving 1,000 mcg/day chromium had significantly lower fasting serum glucose concentrations than those receiving placebo or 200 mcg/day chromium. At 4 months, for example, mean fasting serum glucose levels were 7.1 mmol/L (128 mg/dL) in the group receiving 1,000 mcg/day chromium and 8.8 mmol/L (159 mg/dL) in those receiving placebo. Mean serum glucose concentrations after a 75 g glucose challenge were also significantly lower at both 2 and 4 months in those receiving 1,000 mcg/day chromium (10.5 mmol/L [189 mg/dL] at 4 months vs. 12.3 mmol/L [222 mg/dL] for placebo). In comparison with placebo, both 200 mcg and 1,000 mcg/day chromium also significantly reduced fasting insulin concentrations at both 2 and 4 months, as well as insulin concentrations after a glucose challenge. Finally, hemoglobin A1c (HbA1c) levels were significantly lower after 4 months in participants receiving 200 mcg/day chromium (mean 7.5%) or 1,000 mcg/day chromium (mean 6.6%) than in those receiving placebo (mean 8.5%). HbA1c is a robust measure of blood glucose control because it reflects long-term changes in blood glucose levels [38].&lt;/p&gt;
+
+&lt;p&gt;Several subsequent studies that used various doses of chromium had inconsistent findings. A 2019 review of chromium and glycemic control included eight meta-analyses and systematic reviews of a total of 58 clinical trials [16]. The trials lasted from 3 weeks to 6 months and administered 1.28 to 1,000 mcg chromium daily. The most frequently used form was chromium picolinate, followed by yeasts containing chromium and chromium chloride. Overall, when used as an adjuvant treatment, chromium lowered fasting plasma glucose and HbA1c levels slightly in people with diabetes. However, the clinical significance of these findings is unclear. The authors of a 2016 review of chromium supplementation in people with type 2 diabetes drew similar conclusions, noting the insufficient rationale to recommend chromium supplements for people with type 2 diabetes and that chromium supplements do not help moderate glucose levels in healthy individuals [39].&lt;/p&gt;
+
+&lt;p&gt;Some research suggests that responses to chromium supplementation may vary, and supplements might be more likely to benefit people with more severe insulin resistance and poorer glycemic control [18, 40]. In a randomized trial in 137 participants age 30&amp;ndash;70 years with type 2 diabetes, daily supplementation with 1,000 mcg chromium (as chromium picolinate) for 24 weeks did not significantly affect insulin sensitivity, fasting glucose levels, or HbA1c values in comparison with placebo [40]. However, some participants did respond to chromium supplementation, and these people had significantly lower insulin sensitivity (3.98 vs. 5.91 mg/kg fat-free mass/min) and higher fasting glucose (8.5 vs. 6.7 mmol/L [153 vs. 121 mg/dL]) and HbA1c levels (7.57 vs. 6.29%) than those who did not respond.&lt;/p&gt;
+
+&lt;p&gt;Manufacturers market chromium supplements widely in the United States for people with type 2 diabetes, and many adults use them in the hope that the supplements will reduce their risk of diabetes or improve their glycemic control [6, 8, 18, 39]. However, FDA allows only the following qualified health claim for chromium picolinate dietary supplements:&lt;/p&gt;
+
+&lt;dl&gt;
+	&lt;dd&gt;&amp;quot;One small study suggests that chromium picolinate may reduce the risk of insulin resistance, and therefore possibly may reduce the risk of type 2 diabetes. FDA concludes, however, that the existence of such a relationship between chromium picolinate and either insulin resistance or type 2 diabetes is highly uncertain&amp;quot; [41, 42].&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;ul&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In its 2010 diabetes guidelines, the American Diabetes Association concluded that because studies have not definitively shown that chromium supplementation benefits people with diabetes or obesity, the association cannot recommend such supplementation [43]. This determination was based on conflicting evidence from poorly controlled or uncontrolled studies. Similarly, the association concluded in its 2015 position statement that evidence is insufficient to support the routine use of supplements containing chromium and other micronutrients for glycemic control in people with diabetes [44]. Additional research is needed to determine whether specific populations (e.g., ethnic background, obesity status, baseline insulin sensitivity, and medication use) might be more likely than others to benefit from chromium supplementation [18].&lt;/p&gt;
+
+&lt;h3&gt;Metabolic syndrome&lt;/h3&gt;
+
+&lt;p&gt;Metabolic syndrome is a group of risk factors&amp;mdash;abdominal obesity, high triglyceride level, low high-density lipoprotein (HDL; good) cholesterol level, hypertension, and high fasting blood glucose level&amp;mdash;that raise the risk of heart disease, diabetes, and stroke [45]. Insulin resistance is an integral component of this condition and is a potential therapeutic target for dietary interventions for metabolic syndrome [46]. A prospective study of 3,648 adults age 20&amp;ndash;32 years found that baseline toenail chromium concentrations were inversely associated with the incidence of metabolic syndrome over 23 years of follow-up [47]. For these reasons, some scientists have hypothesized that chromium supplements might benefit people with metabolic syndrome.&lt;/p&gt;
+
+&lt;p&gt;Only a few clinical trials of chromium supplementation for metabolic syndrome have been conducted [46, 48-50]. One of these trials included 63 adults age 18 to 75 years with metabolic syndrome who received either 500 mcg chromium picolinate or placebo twice daily for 16 weeks [46]. In comparison with placebo, chromium supplementation significantly increased acute insulin response to glucose but did not affect HbA1c levels, insulin sensitivity, or other measures of glucose metabolism. Chromium supplementation also had no effect on body weight or serum lipids.&lt;/p&gt;
+
+&lt;p&gt;Similarly, in a 2018 clinical trial of 70 adults (mean age 58 years) with metabolic syndrome and impaired glucose tolerance, daily supplementation with 300 mcg chromium (200 mcg with breakfast and 100 mcg with dinner, as chromium yeast) for 24 weeks did not affect fasting glucose levels, HbA1c, waist circumference, blood pressure, or lipid levels [49].&lt;/p&gt;
+
+&lt;p&gt;Overall, limited research suggests that chromium supplements do not significantly benefit people with metabolic syndrome.&lt;/p&gt;
+
+&lt;h3&gt;&lt;a id="PCOS" name="PCOS"&gt;&lt;/a&gt;Polycystic ovary syndrome&lt;/h3&gt;
+
+&lt;p&gt;PCOS is a common endocrine disorder affecting women of reproductive age. It is characterized by infertility, obesity, dyslipidemia, hyperandrogenism, and elevated risks of type 2 diabetes and cardiovascular disease [51, 52]. Because insulin resistance is often a central component of PCOS, studies have investigated the use of chromium supplements in people with PCOS to help maintain glycemic control and reduce lipid levels [16, 53].&lt;/p&gt;
+
+&lt;p&gt;Four recent systematic reviews and meta-analyses of randomized clinical trials have examined the effects of chromium supplements on signs and symptoms of PCOS [52, 54-56]. One analysis included seven trials with a total of 351 participants that administered chromium (as chromium picolinate) at 200 mcg to 1,000 mcg daily for 8 to 24 weeks [52]. Chromium supplementation had no effect on fasting blood glucose, total testosterone, dehydroepiandrosterone, follicle-stimulating hormone, or luteinizing hormone levels. However, chromium did significantly reduce body mass index (BMI) by 2.37 kg/m&lt;sup&gt;2&lt;/sup&gt; and free testosterone levels by 0.52 pg/mL in comparison with placebo; it also significantly reduced fasting insulin levels by 0.33 milli-IU/mL.&lt;/p&gt;
+
+&lt;p&gt;Another systematic review and meta-analysis of five randomized trials lasting 8 weeks to 6 months that included a total of 268 women with PCOS compared supplemental chromium (200&amp;minus;1,000 mcg/d, mostly as chromium picolinate) with placebo or metformin [55]. Chromium supplementation had no significant effect on fasting insulin levels or insulin sensitivity, but data from two trials showed that it did significantly lower a measure of insulin resistance. In addition, one trial included in the review found that chromium supplementation significantly improved a measure of beta-cell function. The authors concluded that the magnitude of chromium&amp;rsquo;s effect was small and of uncertain clinical relevance. Similarly, another meta-analysis and a systematic review had mixed findings [54, 56].&lt;/p&gt;
+
+&lt;p&gt;Overall, the evidence on whether chromium supplementation reduces the risk of PCOS or is beneficial for women with this condition is mixed, making it difficult to draw firm conclusions [16]. Additional studies with sufficient samples sizes and duration in well-defined populations are needed [53].&lt;/p&gt;
+
+&lt;h3&gt;Dyslipidemia&lt;/h3&gt;
+
+&lt;p&gt;Numerous studies show associations between poor chromium status and elevated blood cholesterol levels [7]. Therefore, scientists hypothesize that chromium supplementation might improve blood lipid levels. Studies have examined this possibility in various populations, including people with impaired glucose tolerance, diabetes, or PCOS.&lt;/p&gt;
+
+&lt;p&gt;In a randomized clinical trial in 71 participants (mean age 54.1 years) with poorly controlled type 2 diabetes (HbA1c of at least 7%), supplementation with 600 mcg/day chromium picolinate for 4 months had no effect on total cholesterol, HDL, low-density lipoprotein (LDL; bad) cholesterol, or triglyceride levels in comparison with placebo [57]. However, an 8-week trial in 40 women with PCOS age 18&amp;ndash;40 years found that 200 mcg/day chromium as chromium picolinate significantly decreased serum triglycerides in comparison with placebo (&amp;ndash;19.2 vs. +8.3 mg/dL) and total cholesterol levels (&amp;ndash;15.3 vs. &amp;ndash;0.6 mg/dL) [58]. Results of studies with higher doses of supplemental chromium have also been mixed [37, 59].&lt;/p&gt;
+
+&lt;p&gt;Overall, meta-analyses examining the effects of chromium supplementation in people with diabetes [60-64] and PCOS [54] have shown no significant changes in total cholesterol and LDL cholesterol levels [16]. However, some have shown that chromium supplementation increases HDL cholesterol levels by 1.73&amp;ndash;4.64 mg/dL and decreases triglyceride levels by 11.71&amp;ndash;26.57 mg/dL [63, 64].&lt;/p&gt;
+
+&lt;p&gt;Additional research is needed to determine whether chromium supplementation has any clinically significant effects on dyslipidemia.&lt;/p&gt;
+
+&lt;h3&gt;Weight and lean body mass&lt;/h3&gt;
+
+&lt;p&gt;Because chromium might amplify insulin action, some scientists have proposed that chromium supplementation could reduce the amount of glucose converted to fat and increase protein synthesis and, hence, muscle mass [12]. Some preliminary research also indicates that chromium supplements might reduce food intakes, hunger levels, and fat cravings [65]. Therefore, chromium supplementation has been proposed to both enhance weight loss and improve body composition by decreasing body fat and increasing lean body mass; its effects on these outcomes have been evaluated in several clinical trials [12, 66-69].&lt;/p&gt;
+
+&lt;p&gt;A 2019 meta-analysis included 21 trials that measured the impact of chromium supplementation on anthropometric indexes in a total of 1,316 participants age 18 or older with overweight or obesity [70]. Trial durations ranged from 9 to 24 weeks, and chromium doses were 200 to 1,000 mcg per day. Most trials used chromium picolinate, and others used chromium-enriched yeast or chromium nicotinate. Participants taking chromium supplements lost significantly more weight, 0.75 kg, than those taking placebo and had a significant 0.40 kg/m&lt;sup&gt;2&lt;/sup&gt; reduction in BMI and body fat percentage, 0.68%, in comparison with placebo. The chromium supplements had no significant effect on waist circumference or waist-to-hip ratio.&lt;/p&gt;
+
+&lt;p&gt;Two other systematic reviews and meta-analyses had similar findings [71, 72], as did a 2013 Cochrane Review [67]. The Cochrane Review&amp;rsquo;s authors noted that the effect of chromium supplementation on body weight is of &amp;ldquo;debatable clinical relevance&amp;rdquo; and the overall quality of the evidence is low.&lt;/p&gt;
+
+&lt;p&gt;Overall, research suggests that supplementation with chromium, mainly in the form chromium picolinate, reduces body weight and body fat percentage to a very small, but statistically significant, extent. However, these effects have little clinical significance.&lt;/p&gt;
+
+&lt;h2&gt;Health Risks from Excessive Chromium&lt;/h2&gt;
+
+&lt;p&gt;The FNB concluded that no adverse effects have been linked to high intakes of chromium from food or supplements, so it did not establish a UL for chromium [2]. However, the FNB noted that caution may be warranted because the data are limited and that high intakes of chromium could have adverse effects [2, 3, 6]. The FNB also pointed out that people with renal and liver disease might be susceptible to adverse effects from high chromium intakes [2].&lt;/p&gt;
+
+&lt;p&gt;According to isolated case reports, chromium supplements might cause weight loss, anemia, thrombocytopenia, liver dysfunction, renal failure, rhabdomyolysis, dermatitis, and hypoglycemia [73, 74].&lt;/p&gt;
+
+&lt;h2&gt;Interactions with Medications&lt;/h2&gt;
+
+&lt;p&gt;Several types of medications have the potential to interact with chromium supplements. A few examples are provided below. People taking these and other medications on a regular basis should discuss their chromium intakes with their health care providers.&lt;/p&gt;
+
+&lt;h3&gt;Insulin&lt;/h3&gt;
+
+&lt;p&gt;Chromium might increase insulin sensitivity [58, 75, 76]. Taking chromium concomitantly with insulin could increase the risk of hypoglycemia [77].&lt;/p&gt;
+
+&lt;h3&gt;Metformin and other antidiabetes medications&lt;/h3&gt;
+
+&lt;p&gt;The results from some studies indicate that chromium supplementation might lower blood glucose levels [16, 37, 57, 58, 60]. Therefore, chromium supplements might have an additive effect with metformin or other antidiabetes medications and thus might increase the risk of hypoglycemia.&lt;/p&gt;
+
+&lt;h3&gt;Levothyroxine&lt;/h3&gt;
+
+&lt;p&gt;A small study found that taking chromium picolinate supplements at the same time as levothyroxine (used to treat hypothyroidism) decreases levothyroxine absorption over 6 hours [78].&lt;/p&gt;
+
+&lt;h2&gt;Chromium and Healthful Diets&lt;/h2&gt;
+
+&lt;p&gt;The federal government's 2020&amp;ndash;2025 &lt;em&gt;Dietary Guidelines for Americans&lt;/em&gt; notes that &amp;quot;Because foods provide an array of nutrients and other components that have benefits for health, nutritional needs should be met primarily through foods. ... In some cases, fortified foods and dietary supplements are useful when it is not possible otherwise to meet needs for one or more nutrients (e.g., during specific life stages such as pregnancy).&amp;quot;&lt;/p&gt;
+
+&lt;p&gt;For more information about building a healthy dietary pattern, refer to the &lt;em&gt;&lt;a href="https://www.dietaryguidelines.gov" target="_blank"&gt;Dietary Guidelines for Americans&lt;/a&gt;&lt;a href="https://ods.od.nih.gov:443/About/exit_disclaimer.aspx" title="External Website"&gt;&lt;img src="/images/Common/externallink.png"  height="12" width="12"  alt="external link disclaimer" class="externallink" /&gt;&lt;/a&gt;&lt;/em&gt; and the U.S. Department of Agriculture's &lt;em&gt;&lt;a href="https://www.choosemyplate.gov/" target="_blank"&gt;MyPlate.&lt;/a&gt;&lt;a href="https://ods.od.nih.gov:443/About/exit_disclaimer.aspx" title="External Website"&gt;&lt;img src="/images/Common/externallink.png"  height="12" width="12"  alt="external link disclaimer" class="externallink" /&gt;&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The &lt;em&gt;Dietary Guidelines for Americans&lt;/em&gt; describes a healthy dietary pattern as one that&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Includes a variety of vegetables; fruits; grains (at least half whole grains); fat-free and low-fat milk, yogurt, and cheese; and oils.
+	&lt;ul&gt;
+		&lt;li&gt;Many whole grains, fruits, and vegetables are good sources of chromium.&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;Includes a variety of protein foods such as lean meats; poultry; eggs; seafood; beans, peas, and lentils; nuts and seeds; and soy products.
+	&lt;ul&gt;
+		&lt;li&gt;Lean meats, nuts, poultry, and eggs contain chromium.&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;Limits foods and beverages higher in added sugars, saturated fat, and sodium.&lt;/li&gt;
+	&lt;li&gt;Limits alcoholic beverages.&lt;/li&gt;
+	&lt;li&gt;Stays within your daily calorie needs.&lt;/li&gt;
+&lt;/ul&gt;
+</Content><References Count="78"><EndNote><RefID>1</RefID><Reference>Anderson RA, Cefalu WT. Chromium. In: Coates PM, Betz JM, Blackman MR, et al., eds. Encyclopedia of Dietary Supplements 2nd ed. New York, NY Informa Healthcare; 2010.</Reference><PMID /></EndNote><EndNote><RefID>2</RefID><Reference>Institute of Medicine. Food and Nutrition Board. Dietary Reference Intakes for Vitamin A, Vitamin K, Arsenic, Boron, Chromium, Copper, Iodine, Iron, Manganese, Molybdenum, Nickel, Silicon, Vanadium, and Zinc Washington, DC: National Academy Press; 2001.</Reference><PMID /></EndNote><EndNote><RefID>3</RefID><Reference>Vincent JB, Lukaski HC. Chromium. Adv Nutr 2018;9:505-6.</Reference><PMID>30032219</PMID></EndNote><EndNote><RefID>4</RefID><Reference>Eckhert CD. Trace Elements. In: A. Catharine Ross BC, Robert J. Cousins, Katherine L. Tucker, Thomas R. Ziegler, ed. Modern Nutrition in Health and Disease. 11th ed. Baltimore, MD: Lippincott Williams &amp; Wilkins; 2014:248-51.</Reference><PMID /></EndNote><EndNote><RefID>5</RefID><Reference>European Food Safety Authority NDA Panel. Scientific Opinion on Dietary Reference Values for chromium. EFSA Journal 2014;12(10):3845.</Reference><PMID /></EndNote><EndNote><RefID>6</RefID><Reference>Vincent JB. Chromium In: Marriott BP, Birt DF, Stallings VA, Yates AY, eds. Present Knowledge in Nutritoin 11th ed. Cambridge, MA: Elsevier; 2020:457-65.</Reference><PMID /></EndNote><EndNote><RefID>7</RefID><Reference>Swaroop A, Bagchi M, Preuss HG, Zafra-Stone S, Ahmad T, Bagchi D. Benefits of chromium (III) complexes in animal and human health. In: Vincent JB, ed. The Nutritional Biochemistry of Chromium (III). Cambridge, MA: Elsevier; 2019:251-78.</Reference><PMID /></EndNote><EndNote><RefID>8</RefID><Reference>Landman GW, Bilo HJ, Houweling ST, Kleefstra N. Chromium does not belong in the diabetes treatment arsenal: Current evidence and future perspectives. World J Diabetes 2014;5:160-4.</Reference><PMID>24748929</PMID></EndNote><EndNote><RefID>9</RefID><Reference>Vincent JB, Brown S. Introduction: A history of chromium studies (1955-2007). In: Vincent JB, ed. The Nutritional Biochemistry of Chromium (III). Cambridge, MA Elsevier; 2019:1-58.</Reference><PMID /></EndNote><EndNote><RefID>10</RefID><Reference>Vincent JB. New evidence against chromium as an essential trace element. J Nutr 2017;147:2212-9.</Reference><PMID>29021369</PMID></EndNote><EndNote><RefID>11</RefID><Reference>Vincent JB. Is the pharmacological mode of action of chromium(III) as a second messenger? Biol Trace Elem Res 2015;166:7-12.</Reference><PMID>25595680</PMID></EndNote><EndNote><RefID>12</RefID><Reference>Nielsen FH. Manganese, Molybdenum, Boron, Chromium, and Other Trace Elements. In: John W. Erdman Jr. IAM, Steven H. Zeisel, ed. Present Knowledge in Nutrition. 10th ed: Wiley-Blackwell; 2012:586-607.</Reference><PMID /></EndNote><EndNote><RefID>13</RefID><Reference>Nielsen FH. Summary: The metabolism, nutritional essentiality, and clinical importance of chromium -Clarity emerging after 60 years of research. In: Vincent JB, ed. The Nutritional Biochemistry of Chromium (III). Cambridge, MA Elsevier; 2019:361-70.</Reference><PMID /></EndNote><EndNote><RefID>14</RefID><Reference>Anderson RA, Polansky MM, Bryden NA. Stability and absorption of chromium and absorption of chromium histidinate complexes by humans. Bio Trace Elem Res 2004;101:211-8.</Reference><PMID>15564651</PMID></EndNote><EndNote><RefID>15</RefID><Reference>Davies S, McLaren Howard J, Hunnisett A, Howard M. Age-related decreases in chromium levels in 51,665 hair, sweat, and serum samples from 40,872 patients--implications for the prevention of cardiovascular disease and type II diabetes mellitus. Metabolism 1997;46:469-73.</Reference><PMID>9160809</PMID></EndNote><EndNote><RefID>16</RefID><Reference>Costello RB, Dwyer JT, Merkel JM. Chromium supplements in health and disease. In: Vincent JB, ed. The Nutritional Biochemistry of Chromium (III). Cambridge, MA: Elsevier; 2019:219-59.</Reference><PMID /></EndNote><EndNote><RefID>17</RefID><Reference>Anderson RA, Bryden NA, Polansky MM. Dietary chromium intake. Freely chosen diets, institutional diet, and individual foods. Biol Trace Elem Res 1992;32:117-21.</Reference><PMID>1375047</PMID></EndNote><EndNote><RefID>18</RefID><Reference>Wang ZQ, Cefalu WT. Current concepts about chromium supplementation in type 2 diabetes and insulin resistance. Curr Diab Rep 2010;10:145-51.</Reference><PMID>20425574</PMID></EndNote><EndNote><RefID>19</RefID><Reference>Dattilo AM, Miguel SG. Chromium in Health and Disease. Nutr Today 2003;38:121-33.</Reference><PMID /></EndNote><EndNote><RefID>20</RefID><Reference>Hamilton EM, Young SD, Bailey EH, Watts MJ. Chromium speciation in foodstuffs: A review. Food Chem 2018;250:105-12.</Reference><PMID>29412899</PMID></EndNote><EndNote><RefID>21</RefID><Reference>Vincent JB. Chromium: Properties and Determination In: Caballero B, Finglas PM, Toldra F, eds. Encyclopedia of Food and Health: Academic Press; 2016:114-8.</Reference><PMID /></EndNote><EndNote><RefID>22</RefID><Reference>Vincent JB. The Bioinorganic Chemistry of Chromium United Kingdom: John Wiley &amp; Sons, Ltd; 2013.</Reference><PMID /></EndNote><EndNote><RefID>23</RefID><Reference>Kuligowski J, Halperin KM. Stainless steel cookware as a significant source of nickel, chromium, and iron. Arch Environ Contam Toxicol 1992;23:211-5.</Reference><PMID>1514841</PMID></EndNote><EndNote><RefID>24</RefID><Reference>Kozlovsky AS, Moser PB, Reiser S, Anderson RA. Effects of diets high in simple sugars on urinary chromium losses. Metabolism 1986;35:515-8.</Reference><PMID>3713513</PMID></EndNote><EndNote><RefID>25</RefID><Reference>Seaborn CD, Stoecker BJ. Effects of antacid or ascorbic acid on tissue accumulation and urinary excretion of 51chromium. Nutr Res 1990;10:1401-7.</Reference><PMID /></EndNote><EndNote><RefID>26</RefID><Reference>U. S. Food and Drug Administration. &lt;a href="https://www.federalregister.gov/documents/2016/05/27/2016-11867/food-labeling-revision-of-the-nutrition-and-supplement-facts-labels"&gt;Food Labeling: Revision of the Nutrition and Supplement Facts Labels.&lt;/a&gt; 2016.</Reference><PMID /></EndNote><EndNote><RefID>27</RefID><Reference>National Institutes of Health. &lt;a href="https://dsld.nlm.nih.gov/dsld/index.jsp"&gt;Dietary Supplement Label Database.&lt;/a&gt; 2020.</Reference><PMID /></EndNote><EndNote><RefID>28</RefID><Reference>Komorowski J, Juturu V. Chromium supplementation does not improve glucose tolerance, insulin sensitivity, or lipid profile: a randomized, placebo-controlled, double-blind trial of supplementation in subjects with impaired glucose tolerance: response to Gunton et al. Diabetes Care 2005;28:1841-2; author reply 2-3.</Reference><PMID>15983360</PMID></EndNote><EndNote><RefID>29</RefID><Reference>U.S. Department of Agriculture and Agricultural Research Service. &lt;a href="https://www.ars.usda.gov/northeast-area/beltsville-md-bhnrc/beltsville-human-nutrition-research-center/food-surveys-research-group/docs/wweianhanes-overview/"&gt;What We Eat In America.&lt;/a&gt; 2018.</Reference><PMID /></EndNote><EndNote><RefID>30</RefID><Reference>Anderson RA, Bryden NA, Polansky MM. Dietary intake of calcium, chromium, copper, iron, magnesium, manganese, and zinc: duplicate plate values corrected using derived nutrient intake. J Am Diet Assoc 1993;93:462-4.</Reference><PMID>8454817</PMID></EndNote><EndNote><RefID>31</RefID><Reference>Filippini T, Cilloni S, Malavolti M, Violi F, Malagoli C, Tesauro M, et al. Dietary intake of cadmium, chromium, copper, manganese, selenium and zinc in a Northern Italy community. J Trace Elem Med Biol 2018;50:508-17.</Reference><PMID>29548610</PMID></EndNote><EndNote><RefID>32</RefID><Reference>Brown RO, Forloines-Lynn S, Cross RE, Heizer WD. Chromium deficiency after long-term total parenteral nutrition. Dig Dis Sci 1986;31:661-4.</Reference><PMID>3086063</PMID></EndNote><EndNote><RefID>33</RefID><Reference>Freund H, Atamian S, Fischer JE. Chromium deficiency during total parenteral nutrition. JAMA 1979;241:496-8.</Reference><PMID>104057</PMID></EndNote><EndNote><RefID>34</RefID><Reference>Jeejeebhoy KN, Chu RC, Marliss EB, Greenberg GR, Bruce-Robertson A. Chromium deficiency, glucose intolerance, and neuropathy reversed by chromium supplementation, in a patient receiving long-term total parenteral nutrition. Am J Clin Nutr 1977;30:531-8.</Reference><PMID>192066</PMID></EndNote><EndNote><RefID>35</RefID><Reference>Fessler TA. Trace elements in parenteral nutrition: a practical guide for dosage and monitoring for adult patients. Nutr Clin Pract 2013;28:722-9.</Reference><PMID>24163318</PMID></EndNote><EndNote><RefID>36</RefID><Reference>Vanek VW, Borum P, Buchman A, Fessler TA, Howard L, Jeejeebhoy K, et al. A.S.P.E.N. position paper: recommendations for changes in commercially available parenteral multivitamin and multi-trace element products. Nutr Clin Pract 2012;27:440-91.</Reference><PMID>22730042</PMID></EndNote><EndNote><RefID>37</RefID><Reference>Anderson RA, Cheng N, Bryden NA, Polansky MM, Cheng N, Chi J, et al. Elevated intakes of supplemental chromium improve glucose and insulin variables in individuals with type 2 diabetes. Diabetes 1997;46:1786-91.</Reference><PMID>9356027</PMID></EndNote><EndNote><RefID>38</RefID><Reference>National Institute of Diabetes and Digestive and Kidney Diseases. &lt;a href="https://www.niddk.nih.gov/health-information/diagnostic-tests/a1c-test"&gt;The A1C Test &amp;amp; Diabetes.&lt;/a&gt; 2018.</Reference><PMID /></EndNote><EndNote><RefID>39</RefID><Reference>Costello RB, Dwyer JT, Bailey RL. Chromium supplements for glycemic control in type 2 diabetes: limited evidence of effectiveness. Nutr Rev 2016;74:455-68.</Reference><PMID>27261273</PMID></EndNote><EndNote><RefID>40</RefID><Reference>Cefalu WT, Rood J, Pinsonat P, Qin J, Sereda O, Levitan L, et al. Characterization of the metabolic and physiologic response to chromium supplementation in subjects with type 2 diabetes mellitus. Metabolism 2010;59:755-62.</Reference><PMID>20813383</PMID></EndNote><EndNote><RefID>41</RefID><Reference>U. S. Food and Drug Administration. &lt;a href="https://www.fda.gov/food/food-labeling-nutrition/qualified-health-claims-letters-denial"&gt;Qualified Health Claims: Letters of Denial.&lt;/a&gt; 2005.</Reference><PMID /></EndNote><EndNote><RefID>42</RefID><Reference>Trumbo PR, Ellwood KC. Chromium picolinate intake and risk of type 2 diabetes: an evidence-based review by the United States Food and Drug Administration. Nutr Rev 2006;64:357-63.</Reference><PMID>16958312</PMID></EndNote><EndNote><RefID>43</RefID><Reference>American Diabetes Association. Standards of medical care in diabetes--2010. Diabetes care 2010;33 Suppl 1:S11-61.</Reference><PMID>20042772</PMID></EndNote><EndNote><RefID>44</RefID><Reference>American Diabetes Association. (4) Foundations of care: education, nutrition, physical activity, smoking cessation, psychosocial care, and immunization. Diabetes care 2015;38 Suppl:S20-30.</Reference><PMID>25537702</PMID></EndNote><EndNote><RefID>45</RefID><Reference>National Heart Lung and Blood Institute. &lt;a href="https://www.nhlbi.nih.gov/health-topics/metabolic-syndrome"&gt;Metabolic Syndrome.&lt;/a&gt; 2019.</Reference><PMID /></EndNote><EndNote><RefID>46</RefID><Reference>Iqbal N, Cardillo S, Volger S, Bloedon LT, Anderson RA, Boston R, et al. Chromium picolinate does not improve key features of metabolic syndrome in obese nondiabetic adults. Metab Syndr Relat Disord 2009;7:143-50.</Reference><PMID>19422140</PMID></EndNote><EndNote><RefID>47</RefID><Reference>Bai J, Xun P, Morris S, Jacobs DR, Jr., Liu K, He K. Chromium exposure and incidence of metabolic syndrome among American young adults over a 23-year follow-up: the CARDIA Trace Element Study. Sci Rep 2015;5:15606.</Reference><PMID>26489690</PMID></EndNote><EndNote><RefID>48</RefID><Reference>Ali A, Ma Y, Reynolds J, Wise JP, Sr., Inzucchi SE Katz DL (2011). Chromium effects on glucose tolerance and insulin sensitivity in persons at risk for diabetes mellitus. Endocr Pract 17:16-25.</Reference><PMID>20634174</PMID></EndNote><EndNote><RefID>49</RefID><Reference>Nussbaumerova B, Rosolova H, Krizek M, Sefrna F, Racek J, Muller L, et al. Chromium supplementation reduces resting heart rate in patients with metabolic syndrome and impaired glucose tolerance. Biol Trace Elem Res 2018;183:192-199.</Reference><PMID>28856601</PMID></EndNote><EndNote><RefID>50</RefID><Reference>Kim HN, Kim SH, Eun YM, Song SW. Effects of zinc, magnesium, and chromium supplementation on cardiometabolic risk in adults with metabolic syndrome: A double-blind, placebo-controlled randomised trial. J Trace Elem Med Biol 2018;48:166-71.</Reference><PMID>29773176</PMID></EndNote><EndNote><RefID>51</RefID><Reference>Goldrat O, Delbaere A. PCOS: update and diagnostic approach. Clin Biochem 2018;62:24-31.</Reference><PMID>30195483</PMID></EndNote><EndNote><RefID>52</RefID><Reference>Fazelian S, Rouhani MH, Bank SS, Amani R. Chromium supplementation and polycystic ovary syndrome: A systematic review and meta-analysis. J Trace Elem Med Biol 2017;42:92-6.</Reference><PMID>28595797</PMID></EndNote><EndNote><RefID>53</RefID><Reference>Piotrowska A, Pilch W, Czerwinska-Ledwig O, Zuziak R, Siwek A, Wolak M, et al. The possibilities of using chromium salts as an agent supporting treatment of polycystic ovary syndrome. Biol Trace Elem Res 2019;192:91-7.</Reference><PMID>30715682</PMID></EndNote><EndNote><RefID>54</RefID><Reference>Tang XL, Sun Z, Gong L. Chromium supplementation in women with polycystic ovary syndrome: Systematic review and meta-analysis. J Obstet Gynaecol Res 2018;44:134-43.</Reference><PMID>28929602</PMID></EndNote><EndNote><RefID>55</RefID><Reference>Heshmati J, Omani-Samani R, Vesali S, Maroufizadeh S, Rezaeinejad M, Razavi M, et al. The effects of supplementation with chromium on insulin resistance indices in women with polycystic ovarian syndrome: a systematic review and meta-analysis of randomized clinical trials. Horm Metab Res 2018;50:193-200.</Reference><PMID>29523006</PMID></EndNote><EndNote><RefID>56</RefID><Reference>Maleki V, Izadi A, Farsad-Naeimi A, Alizadeh M. Chromium supplementation does not improve weight loss or metabolic and hormonal variables in patients with polycystic ovary syndrome: A systematic review. Nutr Res 2018;56:1-10.</Reference><PMID>30055769</PMID></EndNote><EndNote><RefID>57</RefID><Reference>Paiva AN, Lima JG, Medeiros AC, Figueiredo HA, Andrade RL, Ururahy MA, et al. Beneficial effects of oral chromium picolinate supplementation on glycemic control in patients with type 2 diabetes: A randomized clinical study. J Trace Elem Med Biol 2015;32:66-72.</Reference><PMID>26302914</PMID></EndNote><EndNote><RefID>58</RefID><Reference>Jamilian M, Zadeh Modarres S, Amiri Siavashani M, Karimi M, Mafi A, Ostadmohammadi V, et al. (2018). The influences of chromium supplementation on glycemic control, markers of cardio-metabolic risk, and oxidative stress in infertile polycystic ovary syndrome women candidate for in vitro fertilization: a randomized, double-blind, placebo-controlled trial. Biol Trace Elem Res 185(1): 48-55.</Reference><PMID>29307112</PMID></EndNote><EndNote><RefID>59</RefID><Reference>Gunton JE, Cheung NW, Hitchman R, Hams G, O&amp;#39;Sullivan C, Foster-Powell K, et al. Chromium supplementation does not improve glucose tolerance, insulin sensitivity, or lipid profile: a randomized, placebo-controlled, double-blind trial of supplementation in subjects with impaired glucose tolerance. Diabetes Care 2005;28:712-3.</Reference><PMID>15735214</PMID></EndNote><EndNote><RefID>60</RefID><Reference>Balk EM, Tatsioni A, Lichtenstein AH, Lau J, Pittas AG. Effect of chromium supplementation on glucose metabolism and lipids: a systematic review of randomized controlled trials. Diabetes Care 2007;30:2154-63.</Reference><PMID>17519436</PMID></EndNote><EndNote><RefID>61</RefID><Reference>Patal PC, Cardino MT, Jimeno CA. A meta-analysis on the effect of chromium picolinate on glucose and lipid profiles among patients with type 2 diabetes mellitus. Philipp J Intern Med 2010;48:32-7.</Reference><PMID /></EndNote><EndNote><RefID>62</RefID><Reference>Abdollahi M, Farshchi A, Nikfar S, Seyedifar M. Effect of chromium on glucose and lipid profiles in patients with type 2 diabetes; a meta-analysis review of randomized trials. J Pharm Pharm Sci 2013;16:99-114.</Reference><PMID>23683609</PMID></EndNote><EndNote><RefID>63</RefID><Reference>Suksomboon N, Poolsup N, Yuwanakorn A. Systematic review and meta-analysis of the efficacy and safety of chromium supplementation in diabetes. J Clin Pharm Ther 2014;39:292-306.</Reference><PMID>24635480</PMID></EndNote><EndNote><RefID>64</RefID><Reference>Huang H, Chen G, Dong Y, Zhu Y, Chen H. Chromium supplementation for adjuvant treatment of type 2 diabetes mellitus: Results from a pooled analysis. Mol Nutr Food Res 2018;62.</Reference><PMID>28677892</PMID></EndNote><EndNote><RefID>65</RefID><Reference>Anton SD, Morrison CD, Cefalu WT, Martin CK, Coulon S, Geiselman P, et al. Effects of chromium picolinate on food intake and satiety. Diabetes Technol Ther 2008;10:405-12.</Reference><PMID>18715218</PMID></EndNote><EndNote><RefID>66</RefID><Reference>Manore MM. Dietary supplements for improving body composition and reducing body weight: where is the evidence? Int J Sport Nutr Exerc Metab 2012;22:139-54.</Reference><PMID>22465867</PMID></EndNote><EndNote><RefID>67</RefID><Reference>Tian H, Guo X, Wang X, He Z, Sun R, Ge S, et al. Chromium picolinate supplementation for overweight or obese adults. Cochrane Database Syst Rev 2013:Cd010063.</Reference><PMID>24293292</PMID></EndNote><EndNote><RefID>68</RefID><Reference>Willoughby D, Hewlings S, Kalman D. Body composition changes in weight loss: strategies and supplementation for maintaining lean body mass, a brief review. Nutrients 2018;10.</Reference><PMID>30513859</PMID></EndNote><EndNote><RefID>69</RefID><Reference>Lukaski HC. Effects of chromium (III) as a nutritional supplement. In: Vincent JB, ed. The Nutritional Biochemistry of Chromium (III). Cambridge, MA: Elsevier; 2019:61-77.</Reference><PMID /></EndNote><EndNote><RefID>70</RefID><Reference>Tsang C, Taghizadeh M, Aghabagheri E, Asemi Z, Jafarnejad S. A meta-analysis of the effect of chromium supplementation on anthropometric indices of subjects with overweight or obesity. Clin Obes 2019;9:e12313.</Reference><PMID>31115179</PMID></EndNote><EndNote><RefID>71</RefID><Reference>Onakpoya I, Posadzki P, Ernst E. Chromium supplementation in overweight and obesity: a systematic review and meta-analysis of randomized clinical trials. Obes Rev 2013;14:496-507.</Reference><PMID>23495911</PMID></EndNote><EndNote><RefID>72</RefID><Reference>Pittler MH, Stevinson C, Ernst E. Chromium picolinate for reducing body weight: meta-analysis of randomized trials. Int J Obes Relat Metab Disord 2003;27:522-9.</Reference><PMID>12664086</PMID></EndNote><EndNote><RefID>73</RefID><Reference>Fowler JF, Jr. Systemic contact dermatitis caused by oral chromium picolinate. Cutis 2000;65:116.</Reference><PMID>10696566</PMID></EndNote><EndNote><RefID>74</RefID><Reference>Vincent JB. The potential value and toxicity of chromium picolinate as a nutritional supplement, weight loss agent and muscle development agent. Sports Med 2003;33:213-30.</Reference><PMID>12656641</PMID></EndNote><EndNote><RefID>75</RefID><Reference>Martin J, Wang ZQ, Zhang XH, Wachtel D, Volaufova J, Matthews DE, et al. Chromium picolinate supplementation attenuates body weight gain and increases insulin sensitivity in subjects with type 2 diabetes. Diabetes Care 2006;29:1826-32.</Reference><PMID>16873787</PMID></EndNote><EndNote><RefID>76</RefID><Reference>Cefalu WT, Bell-Farrow AD, Stegner J, Wang ZQ, King T, Morgan T, et al. Effect of chromium picolinate on insulin sensitivity in vivo. J Trace Elem Exp Med 1999;12:71-83.</Reference><PMID /></EndNote><EndNote><RefID>77</RefID><Reference>Natural Medicines TRC. &lt;a href="https://naturalmedicines.therapeuticresearch.com/"&gt;Chromium.&lt;/a&gt; 2020.</Reference><PMID /></EndNote><EndNote><RefID>78</RefID><Reference>John-Kalarickal J, Pearlman G, Carlson HE. New medications which decrease levothyroxine absorption. Thyroid 2007;17:763-5.</Reference><PMID>17725434</PMID></EndNote></References><Disclaimer>This fact sheet by the National Institutes of Health (NIH) Office of Dietary Supplements (ODS) provides information that should not take the place of medical advice. We encourage you to talk to your health care providers (doctor, registered dietitian, pharmacist, etc.) about your interest in, questions about, or use of dietary supplements and what may be best for your overall health. Any mention in this publication of a specific product or service, or recommendation from an organization or professional society, does not represent an endorsement by ODS of that product, service, or expert advice.</Disclaimer><ODSLogo>https://ods.od.nih.gov:443/images/common/NIH-ODSlogo_home.png</ODSLogo></Factsheet>

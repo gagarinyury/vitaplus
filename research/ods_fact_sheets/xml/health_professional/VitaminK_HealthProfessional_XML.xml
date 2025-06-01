@@ -1,0 +1,412 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Factsheet xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/factsheet.xsd"><FSID>5085</FSID><LanguageCode>en</LanguageCode><Reviewed>2021-03-29</Reviewed><URL>https://ods.od.nih.gov:443/factsheets/VitaminK-HealthProfessional/</URL><Title>Vitamin K</Title><ShortTitle /><Content>&lt;!-- docid = 51 --&gt;
+&lt;h2&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;Vitamin K, the generic name for a family of compounds with a common chemical structure of 2-methyl-1,4-naphthoquinone, is a fat-soluble vitamin that is naturally present in some foods and is available as a dietary supplement [1]. These compounds include phylloquinone (vitamin K1) and a series of menaquinones (vitamin K2) [2]. Menaquinones have unsaturated isoprenyl side chains and are designated as MK-4 through MK-13, based on the length of their side chain [1, 2]. MK-4, MK-7, and MK-9 are the most well-studied menaquinones.&lt;/p&gt;
+
+&lt;p&gt;Phylloquinone is present primarily in green leafy vegetables and is the main dietary form of vitamin K [3]. Menaquinones, which are predominantly of bacterial origin, are present in modest amounts in various animal-based and fermented foods [1, 4]. Almost all menaquinones, in particular the long-chain menaquinones, are also produced by bacteria in the human gut [5, 6]. MK-4 is unique in that it is produced by the body from phylloquinone via a conversion process that does not involve bacterial action [7].&lt;/p&gt;
+
+&lt;p&gt;Vitamin K functions as a coenzyme for vitamin K-dependent carboxylase, an enzyme required for the synthesis of proteins involved in hemostasis (blood clotting) and bone metabolism and other diverse physiological functions [3, 5]. Prothrombin (clotting factor II) is a vitamin K-dependent protein in plasma that is directly involved in blood clotting. Warfarin (Coumadin) and some anticoagulants used primarily in Europe antagonize the activity of vitamin K and, in turn, prothrombin [8]. For this reason, individuals who are taking these anticoagulants need to maintain consistent vitamin K intakes.&lt;/p&gt;
+
+&lt;p&gt;Matrix Gla-protein (MGP), a vitamin K-dependent protein present in vascular smooth muscle, bone, and cartilage, is the focus of considerable scientific research because it might help reduce abnormal calcification [9]. Osteocalcin is another vitamin K-dependent protein that is present in bone and may be involved in bone mineralization or turnover [5].&lt;/p&gt;
+
+&lt;p&gt;Like dietary lipids and other fat-soluble vitamins, ingested vitamin K is incorporated into mixed micelles via the action of bile and pancreatic enzymes, and it is absorbed by enterocytes of the small intestine [10]. From there, vitamin K is incorporated into chylomicrons, secreted into the lymphatic capillaries, transported to the liver, and repackaged into very low-density lipoproteins [2, 10]. Vitamin K is present in the liver and other body tissues, including the brain, heart, pancreas, and bone [2, 3, 11].&lt;/p&gt;
+
+&lt;p&gt;In the circulation, vitamin K is carried mainly in lipoproteins [2]. Compared to the other fat-soluble vitamins, very small amounts of vitamin K circulate in the blood. Vitamin K is rapidly metabolized and excreted. Based on phylloquinone measurements, the body retains only about 30% to 40% of an oral physiological dose, while about 20% is excreted in the urine and 40% to 50% in the feces via bile [2, 11]. This rapid metabolism accounts for vitamin K's relatively low blood levels and tissue stores compared to those of the other fat-soluble vitamins [11].&lt;/p&gt;
+
+&lt;p&gt;Little is known about the absorption and transport of vitamin K produced by gut bacteria, but research indicates that substantial quantities of long-chain menaquinones are present in the large bowel [7]. Although the amount of vitamin K that the body obtains in this manner is unclear, experts believe that these menaquinones satisfy at least some of the body's requirement for vitamin K [6, 7].&lt;/p&gt;
+
+&lt;p&gt;In most cases, vitamin K status is not routinely assessed, except in individuals who take anticoagulants or have bleeding disorders. The only clinically significant indicator of vitamin K status is prothrombin time (the time it takes for blood to clot), and ordinary changes in vitamin K intakes have rarely been shown to alter prothrombin time [5]. In healthy people, fasting concentrations of phylloquinone in plasma have been reported to range from 0.29 to 2.64 nmol/L [12]. However, it is not clear whether this measure can be used to quantitatively assess vitamin K status. People with plasma phylloquinone concentrations slightly below the normal range have no clinical indications of vitamin K deficiency, possibly because plasma phylloquinone concentrations do not measure the contribution of menaquinones from the diet and the large bowel [12]. No data on normal ranges of menaquinones are available [2].&lt;/p&gt;
+
+&lt;h2&gt;Recommended Intakes&lt;/h2&gt;
+
+&lt;p&gt;Intake recommendations for vitamin K and other nutrients are provided in the Dietary Reference Intakes (DRIs) developed by the Food and Nutrition Board (FNB) at the Institute of Medicine of the National Academies [3]. DRI is the general term for a set of reference values used for planning and assessing nutrient intakes of healthy people. These values, which vary by age and gender, include the following:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Recommended Dietary Allowance (RDA): Average daily level of intake sufficient to meet the nutrient requirements of nearly all (97%&amp;ndash;98%) healthy individuals; often used to plan nutritionally adequate diets for individuals&lt;/li&gt;
+	&lt;li&gt;Adequate Intake (AI): Intake at this level is assumed to ensure nutritional adequacy; established when evidence is insufficient to develop an RDA&lt;/li&gt;
+	&lt;li&gt;Estimated Average Requirement (EAR): Average daily level of intake estimated to meet the requirements of 50% of healthy individuals; usually used to assess the nutrient intakes of groups of people and to plan nutritionally adequate diets for them; can also be used to assess the nutrient intakes of individuals&lt;/li&gt;
+	&lt;li&gt;Tolerable Upper Intake Level (UL): Maximum daily intake unlikely to cause adverse health effects&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Insufficient data were available to establish an EAR for vitamin K, so the FNB established AIs for all ages that are based on vitamin K intakes in healthy population groups [3]. Table 1 lists the current AIs for vitamin K in micrograms (mcg). The AIs for infants are based on the calculated mean vitamin K intake of healthy breastfed infants and the assumption that infants receive prophylactic vitamin K at birth as recommended by American and Canadian pediatric societies [3].&lt;/p&gt;
+
+&lt;table border="1"&gt;
+	&lt;caption&gt;Table 1: Adequate Intakes (AIs) for Vitamin K [3]&lt;/caption&gt;
+	&lt;thead&gt;
+		&lt;tr&gt;
+			&lt;th scope="col"&gt;Age&lt;/th&gt;
+			&lt;th scope="col"&gt;Male&lt;/th&gt;
+			&lt;th scope="col"&gt;Female&lt;/th&gt;
+			&lt;th scope="col"&gt;Pregnancy&lt;/th&gt;
+			&lt;th scope="col"&gt;Lactation&lt;/th&gt;
+		&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Birth to 6 months&lt;/td&gt;
+			&lt;td align="right"&gt;2.0 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;2.0 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;7&amp;ndash;12 months&lt;/td&gt;
+			&lt;td align="right"&gt;2.5 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;2.5 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;1&amp;ndash;3 years&lt;/td&gt;
+			&lt;td align="right"&gt;30 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;30 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;4&amp;ndash;8 years&lt;/td&gt;
+			&lt;td align="right"&gt;55 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;55 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;9&amp;ndash;13 years&lt;/td&gt;
+			&lt;td align="right"&gt;60 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;60 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;14&amp;ndash;18 years&lt;/td&gt;
+			&lt;td align="right"&gt;75 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;75 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;75 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;75 mcg&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;19+ years&lt;/td&gt;
+			&lt;td align="right"&gt;120 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;90 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;90 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;90 mcg&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&amp;nbsp;
+
+&lt;h2&gt;Sources of Vitamin K&lt;/h2&gt;
+
+&lt;h3&gt;Food&lt;/h3&gt;
+
+&lt;p&gt;Food sources of phylloquinone include vegetables, especially green leafy vegetables, vegetable oils, and some fruits. Meat, dairy foods, and eggs contain low levels of phylloquinone but modest amounts of menaquinones [4]. Natto (a traditional Japanese food made from fermented soybeans) has high amounts of menaquinones [1, 13]. Other fermented foods, such as cheese, also contain menaquinones. However, the forms and amounts of vitamin K in these foods likely vary depending on the bacterial strains used to make the foods and their fermentation conditions [14]. Animals synthesize MK-4 from menadione (a synthetic form of vitamin K that can be used in poultry and swine feed) [15]. Thus, poultry and pork products contain MK-4 if menadione is added to the animal feed [1, 4, 14].&lt;/p&gt;
+
+&lt;p&gt;The most common sources of vitamin K in the U.S. diet are spinach; broccoli; iceberg lettuce; and fats and oils, particularly soybean and canola oil [5, 7]. Few foods are fortified with vitamin K [5]; breakfast cereals are not typically fortified with vitamin K, although some meal replacement shakes and bars are.&lt;/p&gt;
+
+&lt;p&gt;Data on the bioavailability of different forms of vitamin K from food are very limited [1]. The absorption rate of phylloquinone in its free form is approximately 80%, but its absorption rate from foods is significantly lower [2]. Phylloquinone in plant foods is tightly bound to chloroplasts, so it is less bioavailable than that from oils or dietary supplements [1]. For example, the body absorbs only 4% to 17% as much phylloquinone from spinach as from a tablet [2]. Consuming vegetables at the same time as some fat improves phylloquinone absorption from the vegetables, but the amount absorbed is still lower than that from oils. Limited research suggests that long-chain MKs may have higher absorption rates than phylloquinone from green vegetables [7].&lt;/p&gt;
+
+&lt;p&gt;Several food sources of vitamin K are listed in Table 2. All values in this table are for phylloquinone content, except when otherwise indicated, because food composition data for menaquinones are limited [1].&lt;/p&gt;
+
+&lt;table border="1"&gt;
+	&lt;caption&gt;Table 2: Vitamin K (Phylloquinone, Except as Indicated) Content of Selected Foods [4, 13, 16]&lt;/caption&gt;
+	&lt;thead&gt;
+		&lt;tr&gt;
+			&lt;th scope="col"&gt;Food&lt;/th&gt;
+			&lt;th scope="col"&gt;Micrograms&lt;br&gt;
+			(mcg) per&lt;br&gt;
+			serving&lt;/th&gt;
+			&lt;th scope="col"&gt;Percent&lt;br&gt;
+			DV*&lt;/th&gt;
+		&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Natto, 3 ounces (as MK-7)&lt;/td&gt;
+			&lt;td align="right"&gt;850&lt;/td&gt;
+			&lt;td align="right"&gt;708&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Collards, frozen, boiled, &amp;frac12; cup&lt;/td&gt;
+			&lt;td align="right"&gt;530&lt;/td&gt;
+			&lt;td align="right"&gt;442&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Turnip greens, frozen, boiled &amp;frac12; cup&lt;/td&gt;
+			&lt;td align="right"&gt;426&lt;/td&gt;
+			&lt;td align="right"&gt;355&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Spinach, raw, 1 cup&lt;/td&gt;
+			&lt;td align="right"&gt;145&lt;/td&gt;
+			&lt;td align="right"&gt;121&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Kale, raw, 1 cup&lt;/td&gt;
+			&lt;td align="right"&gt;113&lt;/td&gt;
+			&lt;td align="right"&gt;94&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Broccoli, chopped, boiled, &amp;frac12; cup&lt;/td&gt;
+			&lt;td align="right"&gt;110&lt;/td&gt;
+			&lt;td align="right"&gt;92&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Soybeans, roasted, &amp;frac12; cup&lt;/td&gt;
+			&lt;td align="right"&gt;43&lt;/td&gt;
+			&lt;td align="right"&gt;36&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Carrot juice, &amp;frac34; cup&lt;/td&gt;
+			&lt;td align="right"&gt;28&lt;/td&gt;
+			&lt;td align="right"&gt;23&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Soybean oil, 1 tablespoon&lt;/td&gt;
+			&lt;td align="right"&gt;25&lt;/td&gt;
+			&lt;td align="right"&gt;21&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Edamame, frozen, prepared, &amp;frac12; cup&lt;/td&gt;
+			&lt;td align="right"&gt;21&lt;/td&gt;
+			&lt;td align="right"&gt;18&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Pumpkin, canned, &amp;frac12; cup&lt;/td&gt;
+			&lt;td align="right"&gt;20&lt;/td&gt;
+			&lt;td align="right"&gt;17&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Pomegranate juice, &amp;frac34; cup&lt;/td&gt;
+			&lt;td align="right"&gt;19&lt;/td&gt;
+			&lt;td align="right"&gt;16&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Okra, raw, &amp;frac12; cup&lt;/td&gt;
+			&lt;td align="right"&gt;16&lt;/td&gt;
+			&lt;td align="right"&gt;13&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Salad dressing, Caesar, 1 tablespoon&lt;/td&gt;
+			&lt;td align="right"&gt;15&lt;/td&gt;
+			&lt;td align="right"&gt;13&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Pine nuts, dried, 1 ounce&lt;/td&gt;
+			&lt;td align="right"&gt;15&lt;/td&gt;
+			&lt;td align="right"&gt;13&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Blueberries, raw, &amp;frac12; cup&lt;/td&gt;
+			&lt;td align="right"&gt;14&lt;/td&gt;
+			&lt;td align="right"&gt;12&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Iceberg lettuce, raw, 1 cup&lt;/td&gt;
+			&lt;td align="right"&gt;14&lt;/td&gt;
+			&lt;td align="right"&gt;12&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Chicken, breast, rotisserie, 3 ounces (as MK-4)&lt;/td&gt;
+			&lt;td align="right"&gt;13&lt;/td&gt;
+			&lt;td align="right"&gt;11&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Grapes, &amp;frac12; cup&lt;/td&gt;
+			&lt;td align="right"&gt;11&lt;/td&gt;
+			&lt;td align="right"&gt;9&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Vegetable juice cocktail, &amp;frac34; cup&lt;/td&gt;
+			&lt;td align="right"&gt;10&lt;/td&gt;
+			&lt;td align="right"&gt;8&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Canola oil, 1 tablespoon&lt;/td&gt;
+			&lt;td align="right"&gt;10&lt;/td&gt;
+			&lt;td align="right"&gt;8&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Cashews, dry roasted, 1 ounce&lt;/td&gt;
+			&lt;td align="right"&gt;10&lt;/td&gt;
+			&lt;td align="right"&gt;8&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Carrots, raw, 1 medium&lt;/td&gt;
+			&lt;td align="right"&gt;8&lt;/td&gt;
+			&lt;td align="right"&gt;7&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Olive oil, 1 tablespoon&lt;/td&gt;
+			&lt;td align="right"&gt;8&lt;/td&gt;
+			&lt;td align="right"&gt;7&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Ground beef, broiled, 3 ounces (as MK-4)&lt;/td&gt;
+			&lt;td align="right"&gt;6&lt;/td&gt;
+			&lt;td align="right"&gt;5&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Figs, dried, &amp;frac14; cup&lt;/td&gt;
+			&lt;td align="right"&gt;6&lt;/td&gt;
+			&lt;td align="right"&gt;5&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Chicken liver, braised, 3 ounces (as MK-4)&lt;/td&gt;
+			&lt;td align="right"&gt;6&lt;/td&gt;
+			&lt;td align="right"&gt;5&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Ham, roasted or pan broiled, 3 ounces (as MK-4)&lt;/td&gt;
+			&lt;td align="right"&gt;4&lt;/td&gt;
+			&lt;td align="right"&gt;3&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Cheddar cheese, 1&amp;frac12; ounces (as MK-4)&lt;/td&gt;
+			&lt;td align="right"&gt;4&lt;/td&gt;
+			&lt;td align="right"&gt;3&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Mixed nuts, dry roasted, 1 ounce&lt;/td&gt;
+			&lt;td align="right"&gt;4&lt;/td&gt;
+			&lt;td align="right"&gt;3&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Egg, hard boiled, 1 large (as MK-4)&lt;/td&gt;
+			&lt;td align="right"&gt;4&lt;/td&gt;
+			&lt;td align="right"&gt;3&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Mozzarella cheese, 1&amp;frac12; ounces (as MK-4)&lt;/td&gt;
+			&lt;td align="right"&gt;2&lt;/td&gt;
+			&lt;td align="right"&gt;2&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Milk, 2%, 1 cup (as MK-4)&lt;/td&gt;
+			&lt;td align="right"&gt;1&lt;/td&gt;
+			&lt;td align="right"&gt;1&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Salmon, sockeye, cooked, 3 ounces (as MK-4)&lt;/td&gt;
+			&lt;td align="right"&gt;0.3&lt;/td&gt;
+			&lt;td align="right"&gt;0&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Shrimp, cooked, 3 ounces (as MK-4)&lt;/td&gt;
+			&lt;td align="right"&gt;0.3&lt;/td&gt;
+			&lt;td align="right"&gt;0&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+
+&lt;p&gt;*DV = Daily Value. The U.S. Food and Drug Administration (FDA) developed DVs to help consumers compare the nutrient contents of foods and dietary supplements within the context of a total diet. The DV for vitamin K is 120 mcg for adults and children age 4 years and older [17]. FDA does not require food labels to list vitamin K content unless vitamin K has been added to the food. Foods providing 20% or more of the DV are considered to be high sources of a nutrient, but foods providing lower percentages of the DV also contribute to a healthful diet.&lt;/p&gt;
+
+&lt;p&gt;The U.S. Department of Agriculture's (USDA's) &lt;a href="https://fdc.nal.usda.gov/" target="_blank"&gt;FoodData Central&lt;/a&gt;&lt;a href="https://ods.od.nih.gov:443/About/exit_disclaimer.aspx" title="External Website"&gt;&lt;img src="/images/Common/externallink.png"  height="12" width="12"  alt="external link disclaimer" class="externallink" /&gt;&lt;/a&gt; [16] lists the nutrient content of many foods and provides comprehensive lists of foods containing vitamin K (phylloquinone) arranged by &lt;a href="https://ods.od.nih.gov:443/pubs/usdandb/VitK-Phylloquinone-Content.pdf"&gt;nutrient content&lt;/a&gt; and by &lt;a href="https://ods.od.nih.gov:443/pubs/usdandb/VitK-Phylloquinone-Food.pdf"&gt;food name&lt;/a&gt;&amp;nbsp;and of foods containing vitamin K (MK-4) arranged by &lt;a href="https://ods.od.nih.gov:443/pubs/usdandb/VitK-Menaquinone-Content.pdf"&gt;nutrient content&lt;/a&gt; and &lt;a href="https://ods.od.nih.gov:443/pubs/usdandb/VitK-Menaquinone-Food.pdf"&gt;food name&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;Dietary supplements&lt;/h3&gt;
+
+&lt;p&gt;Vitamin K is present in most multivitamin/mineral supplements, typically at values less than 75% of the DV [18]. It is also available in dietary supplements containing only vitamin K or vitamin K combined with a few other nutrients, frequently calcium, magnesium, and/or vitamin D. These supplements tend to have a wider range of vitamin K doses than multivitamin/mineral supplements, with some providing 4,050 mcg (5,063% of the DV) or another very high amount [18].&lt;/p&gt;
+
+&lt;p&gt;Several forms of vitamin K are used in dietary supplements, including vitamin K1 as phylloquinone or phytonadione (a synthetic form of vitamin K1) and vitamin K2 as MK-4 or MK-7 [18]. Few data are available on the relative bioavailability of the various forms of vitamin K supplements. One study found that both phytonadione and MK-7 supplements are well absorbed, but MK-7 has a longer half-life [19].&lt;/p&gt;
+
+&lt;p&gt;Menadione, which is sometimes called vitamin K3, is another synthetic form of vitamin K. It was shown to damage hepatic cells in laboratory studies conducted during the 1980s and 1990s, so it is no longer used in dietary supplements or fortified foods [3].&lt;/p&gt;
+
+&lt;h2&gt;Vitamin K Intakes and Status&lt;/h2&gt;
+
+&lt;p&gt;Most U.S. diets contain an adequate amount of vitamin K [7]. Data from the 2011&amp;ndash;2012 National Health and Nutrition Examination Survey (NHANES) show that among children and teens age 2&amp;ndash;19 years, the average daily vitamin K intake from foods is 66 mcg [20]. In adults age 20 and older, the average daily vitamin K intake from foods is 122 mcg for women and 138 mcg for men. When both foods and supplements are considered, the average daily vitamin K intake increases to 164 mcg for women and 182 mcg for men.&lt;/p&gt;
+
+&lt;p&gt;Some analyses of NHANES datasets from 2003&amp;ndash;2006 and 2007&amp;ndash;2010 raised concerns about average vitamin K intakes because only about one-third of the U.S. population had a vitamin K intake above the AI [21, 22]. The significance of these findings is unclear because the AI is only an estimate of need, especially for vitamins (like vitamin K) that are also synthesized endogenously. Moreover, reports of vitamin K deficiency in adults are very rare [3, 7]. Finally, food composition databases provide information primarily on phylloquinone; menaquinones&amp;mdash;either dietary or from bacterial production in the gut&amp;mdash;likely also contribute to vitamin K status [1, 6, 7].&lt;/p&gt;
+
+&lt;h2&gt;Vitamin K Deficiency&lt;/h2&gt;
+
+&lt;p&gt;Vitamin K deficiency is only considered clinically relevant when prothrombin time increases significantly due to a decrease in the prothrombin activity of blood [3, 7]. Thus, bleeding and hemorrhage are the classic signs of vitamin K deficiency, although these effects occur only in severe cases. Because vitamin K is required for the carboxylation of osteocalcin in bone, vitamin K deficiency could also reduce bone mineralization and contribute to osteoporosis [23].&lt;/p&gt;
+
+&lt;p&gt;Vitamin K deficiency can occur during the first few weeks of infancy due to low placental transfer of phylloquinone, low clotting factor levels, and low vitamin K content of breast milk [7]. Clinically significant vitamin K deficiency in adults is very rare and is usually limited to people with malabsorption disorders or those taking drugs that interfere with vitamin K metabolism [3, 7]. In healthy people consuming a varied diet, achieving a vitamin K intake low enough to alter standard clinical measures of blood coagulation is almost impossible [3].&lt;/p&gt;
+
+&lt;h2&gt;Groups at Risk of Vitamin K Inadequacy&lt;/h2&gt;
+
+&lt;p&gt;The following groups are among those most likely to have inadequate vitamin K status.&lt;/p&gt;
+
+&lt;h3&gt;Newborns not treated with vitamin K at birth&lt;/h3&gt;
+
+&lt;p&gt;Vitamin K transport across the placenta is poor, increasing the risk of vitamin K deficiency in newborn babies [3]. During the first few weeks of life, vitamin K deficiency can cause vitamin K deficiency bleeding (VKDB), a condition formerly known as classic hemorrhagic disease of the newborn. VKDB is associated with bleeding in the umbilicus, gastrointestinal tract, skin, nose, or other sites [7, 24, 25]. VKDB is known as early VKDB when it occurs in the first week of life. Late VKDB occurs at age 2&amp;ndash;12 weeks, especially in exclusively breastfed infants due to the low vitamin K content of breast milk or in infants with malabsorption problems (such as cholestatic jaundice or cystic fibrosis) [7]. VKDB, especially late VKDB, can also be manifested as sudden intracranial bleeding, which has a high mortality rate [7, 25]. To prevent VKDB, the American Academy of Pediatrics recommends the administration of a single, intramuscular dose of 0.5 to 1 milligram (mg) vitamin K1 at birth [24].&lt;/p&gt;
+
+&lt;h3&gt;People with malabsorption disorders&lt;/h3&gt;
+
+&lt;p&gt;People with malabsorption syndromes and other gastrointestinal disorders, such as cystic fibrosis, celiac disease, ulcerative colitis, and short bowel syndrome, might not absorb vitamin K properly [3, 5, 23]. Vitamin K status can also be low in patients who have undergone bariatric surgery, although clinical signs may not be present [26]. These individuals might need monitoring of vitamin K status and, in some cases, vitamin K supplementation.&lt;/p&gt;
+
+&lt;h2&gt;Vitamin K and Health&lt;/h2&gt;
+
+&lt;p&gt;This section focuses on two conditions in which vitamin K might play a role: osteoporosis and coronary heart disease.&lt;/p&gt;
+
+&lt;h3&gt;Osteoporosis&lt;/h3&gt;
+
+&lt;p&gt;Osteoporosis, a disorder characterized by porous and fragile bones, is a serious public health problem that affects more than 10 million U.S. adults, 80% of whom are women. Consuming adequate amounts of calcium and vitamin D, especially throughout childhood, adolescence, and early adulthood, is important to maximize bone mass and reduce the risk of osteoporosis [27]. The effect of vitamin K intakes and status on bone health and osteoporosis has been a focus of scientific research.&lt;/p&gt;
+
+&lt;p&gt;Vitamin K is a cofactor for the gamma-carboxylation of many proteins, including osteocalcin, one of the main proteins in bone [28]. Some research indicates that high serum levels of undercarboxylated osteocalcin are associated with lower bone mineral density [5, 28]. Some, but not all, studies also link higher vitamin K intakes with higher bone mineral density and/or lower hip fracture incidence [29-34].&lt;/p&gt;
+
+&lt;p&gt;Although vitamin K is involved in the carboxylation of osteocalcin, it is unclear whether supplementation with any form of vitamin K reduces the risk of osteoporosis. In 2006, Cockayne and colleagues conducted a systematic review and meta-analysis of randomized controlled trials that examined the effects of vitamin K supplementation on bone mineral density and bone fracture [35]. Most of the trials were conducted in Japan and involved postmenopausal women; trial duration ranged from 6 to 36 months. Thirteen trials were included in the systematic review, and 12 showed that supplementation with either phytonadione or MK-4 improved bone mineral density. Seven of the 13 trials also had fracture data that were combined in a meta-analysis. All of these trials used MK-4 at either 15 mg/day (1 trial) or 45 mg/day (6 trials). MK-4 supplementation significantly reduced rates of hip fractures, vertebral fractures, and all nonvertebral fractures.&lt;/p&gt;
+
+&lt;p&gt;A subsequent clinical trial found that MK-7 supplementation (180 mcg/day for 3 years) improved bone strength and decreased the loss in vertebral height in the lower thoracic region of the vertebrae in postmenopausal women [36]. Other randomized clinical trials since the 2006 review by Cockayne et al. have found that vitamin K supplementation has no effect on bone mineral density in elderly men or women [37, 38]. In one of these studies, 381 postmenopausal women received either 1 mg phylloquinone, 45 mg MK-4, or placebo daily for 12 months [38]. All participants also received daily supplements containing 630 mg calcium and 400 IU vitamin D3. At the end of the study, participants receiving either phylloquinone or MK-4 had significantly lower levels of undercarboxylated osteocalcin compared to those receiving placebo. However, there were no significant differences in bone mineral density of the lumbar spine or proximal femur among any of the treatment groups. The authors noted the importance of considering the effect of vitamin D on bone health when comparing the results of vitamin K supplementation studies, especially if both vitamin K and vitamin D (and/or calcium) are administered to the treatment group but not the placebo group [38]. The administration of vitamin D and/or calcium along with vitamin K could partly explain why some studies have found that vitamin K supplementation improves bone health while others have not.&lt;/p&gt;
+
+&lt;p&gt;In Japan and other parts of Asia, a pharmacological dose of MK-4 (45 mg) is used as a treatment for osteoporosis [5]. The European Food Safety Authority has approved a health claim for vitamin K, noting that &amp;quot;a cause and effect relationship has been established between the dietary intake of vitamin K and the maintenance of normal bone&amp;quot; [39]. FDA has not authorized a health claim for vitamin K in the United States.&lt;/p&gt;
+
+&lt;h3&gt;Coronary heart disease&lt;/h3&gt;
+
+&lt;p&gt;Vascular calcification is one of the risk factors for coronary heart disease because it reduces aortic and arterial elasticity [40]. MGP is a vitamin K-dependent protein that may play a role in the prevention of vascular calcification [5, 41]. Although the full biological function of MGP is unclear, a hypothesis based on animal data suggests that inadequate vitamin K status leads to undercarboxylated MGP, which could increase vascular calcification and the risk of coronary heart disease. These findings might be particularly relevant for patients with chronic kidney disease because their rates of vascular calcification are much higher than those of the general population [9].&lt;/p&gt;
+
+&lt;p&gt;In an observational study conducted in the Netherlands in 564 postmenopausal women, dietary menaquinone (but not phylloquinone) intake was inversely associated with coronary calcification [42]. Menaquinone intake was also inversely associated with severe aortic calcification in a prospective, population-based cohort study involving 4,807 men and women age 55 years and older from the Netherlands [41]. Participants in this study who had dietary menaquinone intakes in the mid tertile (21.6&amp;ndash;32.7 mcg/day) and upper tertile (&amp;gt;32.7 mcg/day) also had a 27% and 57% lower risk of coronary heart disease mortality, respectively, than those in the lower tertile of intake (&amp;lt;21.6 mcg/day). Phylloquinone intake had no effect on any outcome.&lt;/p&gt;
+
+&lt;p&gt;Despite these data, few trials have investigated the effects of vitamin K supplementation on arterial calcification or coronary heart disease risk. One randomized, double-blind clinical trial examined the effect of phylloquinone supplementation in 388 healthy men and postmenopausal women age 60&amp;ndash;80 years [43]. Participants received either a multivitamin (containing B-vitamins, vitamin C, and vitamin E) plus 500 International Units (IU) vitamin D3, 600 mg calcium, and 500 mcg phylloquinone daily (treatment) or a multivitamin plus calcium and vitamin D3 only (control) for 3 years. There was no significant difference in coronary artery calcification between the treatment and control groups. However, among the 295 participants who adhered to the supplementation protocol, those in the treatment group had significantly less coronary artery calcification progression than those in the control group. Furthermore, among those with coronary artery calcification at baseline, phylloquinone treatment reduced calcification progression by 6% compared to the control group. Based on these findings, the authors did not make any clinical recommendations, and they called for larger studies in other populations.&lt;/p&gt;
+
+&lt;p&gt;At this time, the role of the different forms of vitamin K on arterial calcification and the risk of coronary heart disease is unclear, but it continues to be an active area of research in the general population and in patients with chronic kidney disease [5, 9, 44].&lt;/p&gt;
+
+&lt;h2&gt;Health Risks from Excessive Vitamin K&lt;/h2&gt;
+
+&lt;p&gt;The FNB did not establish ULs for vitamin K because of its low potential for toxicity [3]. In its report, the FNB stated that &amp;quot;no adverse effects associated with vitamin K consumption from food or supplements have been reported in humans or animals.&amp;quot;&lt;/p&gt;
+
+&lt;h2&gt;Interactions with Medications&lt;/h2&gt;
+
+&lt;p&gt;Vitamin K interacts with a few medications. In addition, certain medications can have an adverse effect on vitamin K levels. Some examples are provided below. Individuals taking these and other medications on a regular basis should discuss their vitamin K status with their health care providers.&lt;/p&gt;
+
+&lt;h3&gt;Warfarin (Coumadin) and similar anticoagulants&lt;/h3&gt;
+
+&lt;p&gt;Vitamin K can have a serious and potentially dangerous interaction with anticoagulants such as warfarin (Coumadin) as well as phenprocoumon, acenocoumarol, and tioclomarol, which are commonly used in some European countries [7, 8]. These drugs antagonize the activity of vitamin K, leading to the depletion of vitamin K-dependent clotting factors. People taking warfarin and similar anticoagulants need to maintain a consistent intake of vitamin K from food and supplements because sudden changes in vitamin K intakes can increase or decrease the anticoagulant effect [45].&lt;/p&gt;
+
+&lt;h3&gt;Antibiotics&lt;/h3&gt;
+
+&lt;p&gt;Antibiotics can destroy vitamin K-producing bacteria in the gut, potentially decreasing vitamin K status. This effect might be more pronounced with cephalosporin antibiotics, such as cefoperazone (Cefobid), because these antibiotics might also inhibit the action of vitamin K in the body [6, 46]. Vitamin K supplements are usually not needed unless antibiotic use is prolonged (beyond several weeks) and accompanied by poor vitamin K intake [46].&lt;/p&gt;
+
+&lt;h3&gt;Bile acid sequestrants&lt;/h3&gt;
+
+&lt;p&gt;Bile acid sequestrants, such as cholestyramine (Questran) and colestipol (Colestid), are used to reduce cholesterol levels by preventing reabsorption of bile acids. They can also reduce the absorption of vitamin K and other fat-soluble vitamins, although the clinical significance of this effect is not clear [46, 47]. Vitamin K status should be monitored in people taking these medications, especially when the drugs are used for many years [47].&lt;/p&gt;
+
+&lt;h3&gt;Orlistat&lt;/h3&gt;
+
+&lt;p&gt;Orlistat is a weight-loss drug that is available as both an over-the-counter (Alli) and prescription (Xenical) medication. It reduces the body's absorption of dietary fat and in doing so, it can also reduce the absorption of fat-soluble vitamins, such as vitamin K. Combining orlistat with warfarin therapy might cause a significant increase in prothrombin time [48]. Otherwise, orlistat does not usually have a clinically significant effect on vitamin K status, although clinicians usually recommend that patients taking orlistat take a multivitamin supplement containing vitamin K [49-51].&lt;/p&gt;
+
+&lt;h2&gt;Vitamin K and Healthful Diets&lt;/h2&gt;
+
+&lt;p&gt;The federal government's 2020&amp;ndash;2025 &lt;em&gt;Dietary Guidelines for Americans&lt;/em&gt; notes that &amp;quot;Because foods provide an array of nutrients and other components that have benefits for health, nutritional needs should be met primarily through foods. ... In some cases, fortified foods and dietary supplements are useful when it is not possible otherwise to meet needs for one or more nutrients (e.g., during specific life stages such as pregnancy).&amp;quot;&lt;/p&gt;
+
+&lt;p&gt;For more information about building a healthy dietary pattern, refer to the &lt;em&gt;&lt;a href="https://www.dietaryguidelines.gov" target="_blank"&gt;Dietary Guidelines for Americans&lt;/a&gt;&lt;a href="https://ods.od.nih.gov:443/About/exit_disclaimer.aspx" title="External Website"&gt;&lt;img src="/images/Common/externallink.png"  height="12" width="12"  alt="external link disclaimer" class="externallink" /&gt;&lt;/a&gt;&lt;/em&gt; and the USDA's &lt;em&gt;&lt;a href="https://www.choosemyplate.gov/" target="_blank"&gt;MyPlate.&lt;/a&gt;&lt;a href="https://ods.od.nih.gov:443/About/exit_disclaimer.aspx" title="External Website"&gt;&lt;img src="/images/Common/externallink.png"  height="12" width="12"  alt="external link disclaimer" class="externallink" /&gt;&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The &lt;em&gt;Dietary Guidelines for Americans&lt;/em&gt; describes a healthy dietary pattern as one that&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Includes a variety of vegetables; fruits; grains (at least half whole grains); fat-free and low-fat milk, yogurt, and cheese; and oils.
+	&lt;ul&gt;
+		&lt;li&gt;Many vegetables are excellent sources of vitamin K, and some fruits and fruit juices contain vitamin K. Cheese contains vitamin K.&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;Includes a variety of protein foods such as lean meats; poultry; eggs; seafood; beans, peas, and lentils; nuts and seeds; and soy products.
+	&lt;ul&gt;
+		&lt;li&gt;​​​​​​​Soybeans and nuts contain vitamin K.&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;Limits foods and beverages higher in added sugars, saturated fat, and sodium.&lt;/li&gt;
+	&lt;li&gt;Limits alcoholic beverages.&lt;/li&gt;
+	&lt;li&gt;Stays within your daily calorie needs.&lt;/li&gt;
+&lt;/ul&gt;
+</Content><References Count="52"><EndNote><RefID>1</RefID><Reference>Booth SL. Vitamin K: food composition and dietary intakes. Food Nutr Res 2012;56.&lt;br /&gt;
+</Reference><PMID>22489217</PMID></EndNote><EndNote><RefID>2</RefID><Reference>Ferland G. Vitamin K. In: Erdman JW, Macdonald IA, Zeisel SH, eds. Present Knowledge in Nutrition. 10th ed. Washington, DC: Wiley-Blackwell; 2012:230-47.</Reference><PMID /></EndNote><EndNote><RefID>3</RefID><Reference>Institute of Medicine. Dietary reference intakes for vitamin A, vitamin K, arsenic, boron, chromium, copper, iodine, iron, manganese, molybdenum, nickel, silicon, vanadium, and zinc. Washington, DC: National Academy Press; 2001.</Reference><PMID /></EndNote><EndNote><RefID>4</RefID><Reference>Elder SJ, Haytowitz DB, Howe J, Peterson JW, Booth SL. Vitamin K contents of meat, dairy, and fast food in the U.S. Diet. J Agric Food Chem 2006;54:463-7.</Reference><PMID>16417305</PMID></EndNote><EndNote><RefID>5</RefID><Reference>Suttie JW. Vitamin K. In: Coates PM, Betz JM, Blackman MR, et al., eds. Encyclopedia of Dietary Supplements. 2nd ed. London and New York: Informa Healthcare; 2010:851-60.</Reference><PMID /></EndNote><EndNote><RefID>6</RefID><Reference>Conly JM, Stein K, Worobetz L, Rutledge-Harding S. The contribution of vitamin K2 (menaquinones) produced by the intestinal microflora to human nutritional requirements for vitamin K. Am J Gastroenterol 1994;89:915-23.</Reference><PMID>8198105</PMID></EndNote><EndNote><RefID>7</RefID><Reference>Suttie JW. Vitamin K. In: Ross AC, Caballero B, Cousins RJ, Tucker KL, Ziegler TR, eds. Modern Nutrition in Health and Disease. 11th ed. Baltimore, MD: Lippincott Williams &amp;amp; Wilkins; 2014:305-16.</Reference><PMID /></EndNote><EndNote><RefID>8</RefID><Reference>Ufer M. Comparative pharmacokinetics of vitamin K antagonists: warfarin, phenprocoumon and acenocoumarol.&amp;nbsp; Clin Pharmacokinet 2005;44:1227-46.</Reference><PMID>1637282</PMID></EndNote><EndNote><RefID>9</RefID><Reference>Schurgers LJ. Vitamin K: key vitamin in controlling vascular calcification in chronic kidney disease. Kidney Int2013;83:782-4.</Reference><PMID>23633049</PMID></EndNote><EndNote><RefID>10</RefID><Reference>Shearer MJ, Fu X, Booth SL. Vitamin K nutrition, metabolism, and requirements: current concepts and future research. Adv Nutr 2012;3:182-95.</Reference><PMID>22516726</PMID></EndNote><EndNote><RefID>11</RefID><Reference>Shearer MJ, Newman P. Metabolism and cell biology of vitamin K. Thromb Haemost 2008;100:530-47.</Reference><PMID>18841274</PMID></EndNote><EndNote><RefID>12</RefID><Reference>Sadowski JA, Hood SJ, Dallal GE, Garry PJ. Phylloquinone in plasma from elderly and young adults: factors influencing its concentration. Am J Clin Nutr 1989;50:100-8.</Reference><PMID>2750682</PMID></EndNote><EndNote><RefID>13</RefID><Reference>Schurgers LJ, Vermeer C. Determination of phylloquinone and menaquinones in food. Effect of food matrix on circulating vitamin K concentrations. Haemostasis 2000;30:298-307.</Reference><PMID>11356998</PMID></EndNote><EndNote><RefID>14</RefID><Reference>Walther B, Karl JP, Booth SL, Boyaval P. Menaquinones, bacteria, and the food supply: the relevance of dairy and fermented food products to vitamin K requirements. Adv Nutr 2013;4:463-73.</Reference><PMID>23858094</PMID></EndNote><EndNote><RefID>15</RefID><Reference>U.S. Food and Drug Administration. &lt;a href="http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?fr=573.620"&gt;CFE &amp;ndash; Code of Federal Regulations Title 21, Sec. 573.620 Menadione dimethylpyrimidinol bisulfite.&lt;/a&gt; 2014.</Reference><PMID /></EndNote><EndNote><RefID>16</RefID><Reference>U.S. Department of Agriculture, Agricultural Research Service. &lt;a href="https://fdc.nal.usda.gov/"&gt;FoodData Central&lt;/a&gt;, 2019.</Reference><PMID /></EndNote><EndNote><RefID>17</RefID><Reference>U.S. Food and Drug Administration. &lt;a href="https://www.federalregister.gov/documents/2016/05/27/2016-11867/food-labeling-revision-of-the-nutrition-and-supplement-facts-labels"&gt;Food Labeling: Revision of the Nutrition and Supplement Facts Labels.&lt;/a&gt; 2016.</Reference><PMID /></EndNote><EndNote><RefID>18</RefID><Reference>National Institutes of Health. &lt;a href="https://dsld.od.nih.gov"&gt;Dietary Supplement Label Database.&lt;/a&gt; 2014.</Reference><PMID /></EndNote><EndNote><RefID>19</RefID><Reference>Schurgers LJ, Teunissen KJ, Hamulyak K, Knapen MH, Vik H, Vermeer C. Vitamin K-containing dietary supplements: comparison of synthetic vitamin K1 and natto-derived menaquinone-7. Blood 2007;109:3279-83.</Reference><PMID>17158229</PMID></EndNote><EndNote><RefID>20</RefID><Reference>U.S. Department of Agriculture, Agricultural Research Service. &lt;a href="http://www.ars.usda.gov/Services/docs.htm?docid=18349"&gt;What We Eat in America, 2009-2010.&lt;/a&gt; 2012.</Reference><PMID /></EndNote><EndNote><RefID>21</RefID><Reference>Fulgoni VL, 3rd, Keast DR, Bailey RL, Dwyer J. Foods, fortificants, and supplements: Where do Americans get their nutrients? J Nutr 2011;141:1847-54.</Reference><PMID>21865568</PMID></EndNote><EndNote><RefID>22</RefID><Reference>Wallace TC, McBurney M, Fulgoni VL, 3rd. Multivitamin/mineral supplement contribution to micronutrient intakes in the United States, 2007-2010. J Am Coll Nutr 2014;33:94-102.</Reference><PMID>24724766</PMID></EndNote><EndNote><RefID>23</RefID><Reference>Jagannath VA, Fedorowicz Z, Thaker V, Chang AB. Vitamin K supplementation for cystic fibrosis. The Cochrane database of systematic reviews 2013;4:CD008482.</Reference><PMID>25596954</PMID></EndNote><EndNote><RefID>24</RefID><Reference>American Academy of Pediatrics Committee on F, Newborn. Controversies concerning vitamin K and the newborn. American Academy of Pediatrics Committee on Fetus and Newborn. Pediatrics 2003;112:191-2.</Reference><PMID>12837888</PMID></EndNote><EndNote><RefID>25</RefID><Reference>Pichler E, Pichler L. The neonatal coagulation system and the vitamin K deficiency bleeding - a mini review.&amp;nbsp; Wien Med Wochenschr. 2008;158:385-95.</Reference><PMID>18677590</PMID></EndNote><EndNote><RefID>26</RefID><Reference>Heber D, Greenway FL, Kaplan LM, Livingston E, Salvador J, Still C, et al. Endocrine and nutritional management of the post-bariatric surgery patient: an Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab 2010;95:4823-43.</Reference><PMID>21051578</PMID></EndNote><EndNote><RefID>27</RefID><Reference>National Institutes of Health. Osteoporosis prevention, diagnosis, and therapy. NIH consensus statement 2000;17:1-45.</Reference><PMID>11525451</PMID></EndNote><EndNote><RefID>28</RefID><Reference>Gundberg CM, Lian JB, Booth SL. Vitamin K-dependent carboxylation of osteocalcin: friend or foe? Adv Nutr 2012;3:149-57.</Reference><PMID>22516722</PMID></EndNote><EndNote><RefID>29</RefID><Reference>Yaegashi Y, Onoda T, Tanno K, Kuribayashi T, Sakata K, Orimo H. Association of hip fracture incidence and intake of calcium, magnesium, vitamin D, and vitamin K. Eur J Epidemiol 2008;23:219-25.</Reference><PMID>18214692</PMID></EndNote><EndNote><RefID>30</RefID><Reference>Rejnmark L, Vestergaard P, Charles P, Hermann AP, Brot C, Eiken P, et al. No effect of vitamin K1 intake on bone mineral density and fracture risk in perimenopausal women. Osteoporos Int 2006;17:1122-32.</Reference><PMID>16683180</PMID></EndNote><EndNote><RefID>31</RefID><Reference>Feskanich D, Weber P, Willett WC, Rockett H, Booth SL, Colditz GA. Vitamin K intake and hip fractures in women: a prospective study. Am J Clin Nutr 1999;69:74-9.</Reference><PMID>9925126</PMID></EndNote><EndNote><RefID>32</RefID><Reference>Booth SL, Broe KE, Gagnon DR, Tucker KL, Hannan MT, McLean RR, et al. Vitamin K intake and bone mineral density in women and men. Am J Clin Nutr 2003;77:512-6.</Reference><PMID>12540415</PMID></EndNote><EndNote><RefID>33</RefID><Reference>Booth SL, Tucker KL, Chen H, Hannan MT, Gagnon DR, Cupples LA, et al. Dietary vitamin K intakes are associated with hip fracture but not with bone mineral density in elderly men and women. Am J Clin Nutr 2000;71:1201-8.</Reference><PMID>10799384</PMID></EndNote><EndNote><RefID>34</RefID><Reference>Chan R, Leung J, Woo J. No association between dietary vitamin K intake and fracture risk in chinese community-dwelling older men and women: a prospective study. Calcif Tissue Int 2012;90:396-403.</Reference><PMID>22451220</PMID></EndNote><EndNote><RefID>35</RefID><Reference>Cockayne S, Adamson J, Lanham-New S, Shearer MJ, Gilbody S, Torgerson DJ. Vitamin K and the prevention of fractures: systematic review and meta-analysis of randomized controlled trials. Arch Intern Med 2006;166:1256-61.</Reference><PMID>16801507</PMID></EndNote><EndNote><RefID>36</RefID><Reference>Knapen MH, Drummen NE, Smit E, Vermeer C, Theuwissen E. Three-year low-dose menaquinone-7 supplementation helps decrease bone loss in healthy postmenopausal women. Osteoporos Int 2013;24:2499-507.</Reference><PMID>23525894</PMID></EndNote><EndNote><RefID>37</RefID><Reference>Booth SL, Dallal G, Shea MK, Gundberg C, Peterson JW, Dawson-Hughes B. Effect of vitamin K supplementation on bone loss in elderly men and women. J Clin Endocrinol Metab 2008;93:1217-23.</Reference><PMID>18252784</PMID></EndNote><EndNote><RefID>38</RefID><Reference>Binkley N, Harke J, Krueger D, Engelke J, Vallarta-Ast N, Gemar D, et al. Vitamin K treatment reduces undercarboxylated osteocalcin but does not alter bone turnover, density, or geometry in healthy postmenopausal North American women. J Bone Miner Res 2009;24:983-91.</Reference><PMID>19113922</PMID></EndNote><EndNote><RefID>39</RefID><Reference>European Food Safety Authority. Scientific opinion on the substantiation of health claims related to vitamin K and maintenance of bone pursuant to Article 13(1) of Regulation (EC) No 1924/2006. The EFSA Journal 2009;7:1228.</Reference><PMID /></EndNote><EndNote><RefID>40</RefID><Reference>Demer LL, Tintut Y. Vascular calcification: pathobiology of a multifaceted disease. Circulation 2008;117:2938-48.</Reference><PMID>18519861</PMID></EndNote><EndNote><RefID>41</RefID><Reference>Geleijnse JM, Vermeer C, Grobbee DE, Schurgers LJ, Knapen MH, van der Meer IM, et al. Dietary intake of menaquinone is associated with a reduced risk of coronary heart disease: the Rotterdam Study. J Nutr 2004;134:3100-5.</Reference><PMID>15514282</PMID></EndNote><EndNote><RefID>42</RefID><Reference>Beulens JW, Bots ML, Atsma F, Bartelink ML, Prokop M, Geleijnse JM, et al. High dietary menaquinone intake is associated with reduced coronary calcification. Atherosclerosis 2009;203:489-93.</Reference><PMID>18722618</PMID></EndNote><EndNote><RefID>43</RefID><Reference>Shea MK, O&amp;#39;Donnell CJ, Hoffmann U, Dallal GE, Dawson-Hughes B, Ordovas JM, et al. Vitamin K supplementation and progression of coronary artery calcium in older men and women. Am J Clin Nutr 2009;89:1799-807.</Reference><PMID>19386744</PMID></EndNote><EndNote><RefID>44</RefID><Reference>Gallieni M, Fusaro M. Vitamin K and cardiovascular calcification in CKD: is patient supplementation on the horizon? Kidney Int 2014;86:232-4.</Reference><PMID>25079019</PMID></EndNote><EndNote><RefID>45</RefID><Reference>Drug-Nutrient Interaction Task Force, Clinical Center, National Institutes of Health. &lt;a href="http://www.cc.nih.gov/ccc/patient_education/drug_nutrient/coumadin1.pdf"&gt;Important information to know when you are taking: warfarin (Coumadin) and vitamin K.&lt;/a&gt; 2012.</Reference><PMID /></EndNote><EndNote><RefID>46</RefID><Reference>Natural Medicines Comprehensive Database. &lt;a href="http://www.NaturalDatabase.com"&gt;Vitamin K.&lt;/a&gt; 2014.</Reference><PMID /></EndNote><EndNote><RefID>47</RefID><Reference>Vroonhof K, van Rijn HJ, van Hattum J. Vitamin K deficiency and bleeding after long-term use of cholestyramine.&amp;nbsp; Neth J Med 2003;61:19-21.</Reference><PMID>12688565</PMID></EndNote><EndNote><RefID>48</RefID><Reference>MacWalter RS, Fraser HW, Armstrong KM. Orlistat enhances warfarin effect. The Ann Pharmacother 2003;37:510-2.</Reference><PMID>12659605</PMID></EndNote><EndNote><RefID>49</RefID><Reference>McDuffie JR, Calis KA, Booth SL, Uwaifo GI, Yanovski JA. Effects of orlistat on fat-soluble vitamins in obese adolescents. Pharmacotherapy 2002;22:814-22.</Reference><PMID>12126214</PMID></EndNote><EndNote><RefID>50</RefID><Reference>Davidson MH, Hauptman J, DiGirolamo M, Foreyt JP, Halsted CH, Heber D, et al. Weight control and risk factor reduction in obese subjects treated for 2 years with orlistat: a randomized controlled trial. JAMA 1999;281:235-42.</Reference><PMID>9918478</PMID></EndNote><EndNote><RefID>51</RefID><Reference>MedlinePlus. &lt;a href="https://medlineplus.gov/druginfo/meds/a601244.html"&gt;Orlistat.&lt;/a&gt; 2014.&amp;nbsp;</Reference><PMID /></EndNote><EndNote><RefID>52</RefID><Reference>U.S. Department of Agriculture USDHHS. Dietary Guidelines for Americans. Washington, DC: U.S. Government Printing Office; 2010.</Reference><PMID /></EndNote></References><Disclaimer>This fact sheet by the National Institutes of Health (NIH) Office of Dietary Supplements (ODS) provides information that should not take the place of medical advice. We encourage you to talk to your health care providers (doctor, registered dietitian, pharmacist, etc.) about your interest in, questions about, or use of dietary supplements and what may be best for your overall health. Any mention in this publication of a specific product or service, or recommendation from an organization or professional society, does not represent an endorsement by ODS of that product, service, or expert advice.</Disclaimer><ODSLogo>https://ods.od.nih.gov:443/images/common/NIH-ODSlogo_home.png</ODSLogo></Factsheet>

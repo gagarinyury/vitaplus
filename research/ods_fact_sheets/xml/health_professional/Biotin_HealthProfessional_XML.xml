@@ -1,0 +1,294 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Factsheet xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/factsheet.xsd"><FSID>5104</FSID><LanguageCode>en</LanguageCode><Reviewed>2022-01-10</Reviewed><URL>https://ods.od.nih.gov:443/factsheets/Biotin-HealthProfessional/</URL><Title>Biotin</Title><ShortTitle /><Content>&lt;h2&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;Biotin, a B vitamin, is an essential nutrient that is naturally present in some foods and available as a dietary supplement. This water-soluble vitamin is a cofactor for five carboxylases (propionyl-CoA carboxylase, pyruvate carboxylase, methylcrotonyl-CoA carboxylase [MCC], acetyl-CoA carboxylase 1, and acetyl-CoA carboxylase 2) that catalyze critical steps in the metabolism of fatty acids, glucose, and amino acids [1-5]. Biotin also plays key roles in histone modifications, gene regulation (by modifying the activity of transcription factors), and cell signaling [3].&lt;/p&gt;
+
+&lt;p&gt;Most biotin in foods is bound to protein, although some dietary biotin is in the free form [1, 3, 4, 6]. Gastrointestinal proteases and peptidases break down the protein-bound forms of ingested biotin into biocytin and biotin-oligopeptides, which undergo further processing by biotinidase, an enzyme, in the intestinal lumen to release free biotin [6]. The free biotin is then absorbed in the small intestine, and most biotin is stored in the liver [1, 3, 6].&lt;/p&gt;
+
+&lt;p&gt;A limited number of reliable indicators of biotin status is available [7]. In healthy adults, the concentration of biotin is 133&amp;ndash;329 pmol/L in serum and 18&amp;ndash;127 nmol/24 hours in urine [2]. Abnormally low urinary excretion of biotin is an indicator of biotin deficiency, as is abnormally high excretion of 3-hydroxyisovaleric acid (higher than 3.3 mmol/mol creatinine) or 3-hydroxyisovalerylcarnitine (higher than 0.06 mmol/mol creatinine) resulting from reduced activity of MCC [2, 7, 8]. The most reliable individual markers of biotin status, including deficiency and sufficiency, are biotinylated MCC and propionyl-CoA carboxylase in white blood cells [7]. Oral administration of large doses of biotin increases serum concentrations of biotin and its metabolites [1, 9]. However, serum concentrations of biotin and its catabolites are not good indicators of marginal biotin deficiency because they do not decrease sufficiently in people with marginal biotin deficiency for these changes to be detectable with existing tests [3, 10].&lt;/p&gt;
+
+&lt;h2&gt;Recommended Intakes&lt;/h2&gt;
+
+&lt;p&gt;Intake recommendations for biotin and other nutrients are provided in the Dietary Reference Intakes (DRIs) developed by the Food and Nutrition Board (FNB) at the National Academies of Sciences, Engineering, and Medicine [1]. DRI is the general term for a set of reference values used for planning and assessing nutrient intakes of healthy people. These values, which vary by age and sex, include the following:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Recommended Dietary Allowance (RDA): Average daily level of intake sufficient to meet the nutrient requirements of nearly all (97%&amp;ndash;98%) healthy individuals; often used to plan nutritionally adequate diets for individuals&lt;/li&gt;
+	&lt;li&gt;Adequate Intake (AI): Intake at this level is assumed to ensure nutritional adequacy; established when evidence is insufficient to develop an RDA&lt;/li&gt;
+	&lt;li&gt;Estimated Average Requirement (EAR): Average daily level of intake estimated to meet the requirements of 50% of healthy individuals; usually used to assess the nutrient intakes of groups of people and to plan nutritionally adequate diets for them; can also be used to assess the nutrient intakes of individuals&lt;/li&gt;
+	&lt;li&gt;Tolerable Upper Intake Level (UL): Maximum daily intake unlikely to cause adverse health effects&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The FNB found the available data to be insufficient to derive an EAR and RDA for biotin. For this reason, the FNB established only AIs for biotin. The FNB based its determination of AIs for all populations on the amount of biotin in human milk consumed by infants and then used body weight to extrapolate AIs for other groups [11]. Table 1 lists the current AIs for biotin [1].&lt;/p&gt;
+
+&lt;table border="1"&gt;
+	&lt;caption&gt;Table 1: Adequate Intakes (AIs) for Biotin [1]&lt;/caption&gt;
+	&lt;thead&gt;
+		&lt;tr&gt;
+			&lt;th scope="col"&gt;Age&lt;/th&gt;
+			&lt;th scope="col"&gt;Male&lt;/th&gt;
+			&lt;th scope="col"&gt;Female&lt;/th&gt;
+			&lt;th scope="col"&gt;Pregnancy&lt;/th&gt;
+			&lt;th scope="col"&gt;Lactation&lt;/th&gt;
+		&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Birth to 6 months&lt;/td&gt;
+			&lt;td align="right"&gt;5 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;5 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;7&amp;ndash;12 months&lt;/td&gt;
+			&lt;td align="right"&gt;6 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;6 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;1&amp;ndash;3 years&lt;/td&gt;
+			&lt;td align="right"&gt;8 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;8 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;4&amp;ndash;8 years&lt;/td&gt;
+			&lt;td align="right"&gt;12 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;12 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;9&amp;ndash;13 years&lt;/td&gt;
+			&lt;td align="right"&gt;20 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;20 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;14&amp;ndash;18 years&lt;/td&gt;
+			&lt;td align="right"&gt;25 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;25 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;30 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;35 mcg&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;19+ years&lt;/td&gt;
+			&lt;td align="right"&gt;30 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;30 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;30 mcg&lt;/td&gt;
+			&lt;td align="right"&gt;35 mcg&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&amp;nbsp;
+
+&lt;h2&gt;Sources of Biotin&lt;/h2&gt;
+
+&lt;h3&gt;Food&lt;/h3&gt;
+
+&lt;p&gt;Many foods contain some biotin. Foods that contain the most biotin include organ meats, eggs, fish, meat, seeds, nuts, and certain vegetables (such as sweet potatoes) [2, 12]. The biotin content of food can vary; for example, plant variety and season can affect the biotin content of cereal grains, and certain processing techniques (e.g., canning) can reduce the biotin content of foods [12].&lt;/p&gt;
+
+&lt;p&gt;Dietary avidin, a glycoprotein in raw egg whites, binds tightly to dietary biotin and prevents biotin&amp;rsquo;s absorption in the gastrointestinal tract [13, 14]. Cooking denatures avidin, making it unable to interfere with biotin absorption [13].&lt;/p&gt;
+
+&lt;p&gt;Several food sources of biotin are listed in Table 2.&lt;/p&gt;
+
+&lt;table border="1"&gt;
+	&lt;caption&gt;Table 2: Biotin Content of Selected Foods [5]&lt;/caption&gt;
+	&lt;thead&gt;
+		&lt;tr&gt;
+			&lt;th scope="col"&gt;Food&lt;/th&gt;
+			&lt;th scope="col"&gt;Micrograms&lt;br&gt;
+			(mcg) per&lt;br&gt;
+			serving&lt;/th&gt;
+			&lt;th scope="col"&gt;Percent&lt;br&gt;
+			DV*&lt;/th&gt;
+		&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Beef liver, cooked, 3 ounces&lt;/td&gt;
+			&lt;td align="right"&gt;30.8&lt;/td&gt;
+			&lt;td align="right"&gt;103&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Egg, whole, cooked&lt;/td&gt;
+			&lt;td align="right"&gt;10.0&lt;/td&gt;
+			&lt;td align="right"&gt;33&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Salmon, pink, canned in water, 3 ounces&lt;/td&gt;
+			&lt;td align="right"&gt;5.0&lt;/td&gt;
+			&lt;td align="right"&gt;17&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Pork chop, cooked, 3 ounces&lt;/td&gt;
+			&lt;td align="right"&gt;3.8&lt;/td&gt;
+			&lt;td align="right"&gt;13&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Hamburger patty, cooked, 3 ounces&lt;/td&gt;
+			&lt;td align="right"&gt;3.8&lt;/td&gt;
+			&lt;td align="right"&gt;13&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Sunflower seeds, roasted, &amp;frac14; cup&lt;/td&gt;
+			&lt;td align="right"&gt;2.6&lt;/td&gt;
+			&lt;td align="right"&gt;9&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Sweet potato, cooked, &amp;frac12; cup&lt;/td&gt;
+			&lt;td align="right"&gt;2.4&lt;/td&gt;
+			&lt;td align="right"&gt;8&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Almonds, roasted, &amp;frac14; cup&lt;/td&gt;
+			&lt;td align="right"&gt;1.5&lt;/td&gt;
+			&lt;td align="right"&gt;5&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Tuna, canned in water, 3 ounces&lt;/td&gt;
+			&lt;td align="right"&gt;0.6&lt;/td&gt;
+			&lt;td align="right"&gt;2&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Spinach, boiled, &amp;frac12; cup&lt;/td&gt;
+			&lt;td align="right"&gt;0.5&lt;/td&gt;
+			&lt;td align="right"&gt;2&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Broccoli, fresh, &amp;frac12; cup&lt;/td&gt;
+			&lt;td align="right"&gt;0.4&lt;/td&gt;
+			&lt;td align="right"&gt;1&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Cheddar cheese, mild, 1 ounce&lt;/td&gt;
+			&lt;td align="right"&gt;0.4&lt;/td&gt;
+			&lt;td align="right"&gt;1&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Milk, 2%, 1 cup&lt;/td&gt;
+			&lt;td align="right"&gt;0.3&lt;/td&gt;
+			&lt;td align="right"&gt;1&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Plain yogurt, 1 cup&lt;/td&gt;
+			&lt;td align="right"&gt;0.2&lt;/td&gt;
+			&lt;td align="right"&gt;1&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Oatmeal, 1 cup&lt;/td&gt;
+			&lt;td align="right"&gt;0.2&lt;/td&gt;
+			&lt;td align="right"&gt;1&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Banana, &amp;frac12; cup&lt;/td&gt;
+			&lt;td align="right"&gt;0.2&lt;/td&gt;
+			&lt;td align="right"&gt;1&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Whole wheat bread, 1 slice&lt;/td&gt;
+			&lt;td align="right"&gt;0.0&lt;/td&gt;
+			&lt;td align="right"&gt;0&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Apple, &amp;frac12; cup&lt;/td&gt;
+			&lt;td align="right"&gt;0.0&lt;/td&gt;
+			&lt;td align="right"&gt;0&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;*DV = Daily Value. The U.S. Food and Drug Administration (FDA) developed DVs to help consumers compare the nutrient contents of foods and dietary supplements within the context of a total diet. The DV for biotin is 30 mcg for adults and children age 4 years and older [15]. FDA does not require food labels to list biotin content unless biotin has been added to the food. Foods providing 20% or more of the DV are considered to be high sources of a nutrient, but foods providing lower percentages of the DV also contribute to a healthful diet.&lt;/p&gt;
+
+&lt;p&gt;The U.S. Department of Agriculture&amp;rsquo;s (USDA&amp;rsquo;s) &lt;a href="https://fdc.nal.usda.gov/" target="_blank"&gt;FoodData Central&lt;/a&gt;&lt;a href="https://ods.od.nih.gov:443/About/exit_disclaimer.aspx" title="External Website"&gt;&lt;img src="/images/Common/externallink.png"  height="12" width="12"  alt="external link disclaimer" class="externallink" /&gt;&lt;/a&gt; does not list the biotin content of foods or provide lists of foods containing biotin.&lt;/p&gt;
+
+&lt;h3&gt;Dietary supplements&lt;/h3&gt;
+
+&lt;p&gt;Biotin is available in dietary supplements containing biotin only, in supplements containing combinations of B-complex vitamins, and in some multivitamin/mineral products [16]. The absorption rate of oral, free biotin is 100%, even when people consume pharmacologic doses of up to 20 mg/day biotin [17].&lt;/p&gt;
+
+&lt;h2&gt;Biotin Intakes and Status&lt;/h2&gt;
+
+&lt;p&gt;Although there are no nationally representative estimates of biotin intakes in the United States, the average biotin intake from foods in other western populations is about 35&amp;ndash;70 mcg/day, indicating that most people in these countries consume adequate amounts of biotin [2, 3].&lt;/p&gt;
+
+&lt;h2&gt;Biotin Deficiency&lt;/h2&gt;
+
+&lt;p&gt;Biotin deficiency is rare [12, 18], and severe biotin deficiency in healthy individuals eating a normal mixed diet has never been reported [13].&lt;/p&gt;
+
+&lt;p&gt;The signs and symptoms of biotin deficiency typically appear gradually and can include thinning hair with progression to loss of all hair on the body; scaly, red rash around body openings (eyes, nose, mouth, and perineum); conjunctivitis; ketolactic acidosis (which occurs when lactate production exceeds lactate clearance) and aciduria (abnormal amounts of acid in urine); seizures; skin infection; brittle nails; neurological findings (e.g., depression, lethargy, hallucinations, and paresthesias of the extremities) in adults; and hypotonia, lethargy, and developmental delay in infants [2, 3, 13]. The rash and unusual distribution of facial fat in people with biotin deficiency is known as biotin deficiency facies [1, 13].&lt;/p&gt;
+
+&lt;h2&gt;Groups at Risk of Biotin Inadequacy&lt;/h2&gt;
+
+&lt;p&gt;The following groups are among those most likely to have inadequate biotin status.&lt;/p&gt;
+
+&lt;h3&gt;Individuals with biotinidase deficiency&lt;/h3&gt;
+
+&lt;p&gt;Biotinidase deficiency is a rare autosomal recessive disorder that prevents the body from releasing free biotin, leading to biotin deficiency despite normal intake. Without treatment, biotinidase deficiency produces neurological and cutaneous symptoms, and profound biotinidase deficiency can lead to coma or death [19,20]. Because treatment with oral biotin starting at birth (or before symptoms develop) and continuing for the rest of the person&amp;rsquo;s life can prevent these symptoms, all newborns in the United States and many other countries are screened for this disorder [19,20].&lt;/p&gt;
+
+&lt;h3&gt;Individuals with chronic alcohol exposure&lt;/h3&gt;
+
+&lt;p&gt;Chronic exposure to alcohol inhibits the absorption of biotin [21]. Plasma biotin concentrations are low in 15% of people with chronic alcoholism [12].&lt;/p&gt;
+
+&lt;h3&gt;Pregnant and breastfeeding women&lt;/h3&gt;
+
+&lt;p&gt;At least a third of pregnant women develop marginal biotin deficiency in spite of normal biotin intakes; plasma and breastmilk concentrations of biotin decrease in lactating women, even when their dietary biotin intakes exceed the AI [2, 18, 22]. Additional research is needed to understand the clinical significance of these findings.&lt;/p&gt;
+
+&lt;h2&gt;Biotin and Health&lt;/h2&gt;
+
+&lt;h3&gt;Hair, nail, and skin health&lt;/h3&gt;
+
+&lt;p&gt;Signs of biotin deficiency include skin rashes, hair loss, and brittle nails [10, 13]. Therefore, biotin supplements are often promoted for hair, skin, and nail health [16, 23, 24]. However, these claims are supported, at best, by only a few case reports and small studies.&lt;/p&gt;
+
+&lt;p&gt;The evidence on biotin supplementation to treat brittle nails includes three small studies that did not include a placebo group, and these reports do not indicate the baseline biotin status of study participants. One of these studies assessed the effects of 2.5 mg/day biotin for 6&amp;ndash;15 months in 22 women with brittle, splitting, or soft nails and 10 healthy volunteers [25]. In the eight patients with brittle nails whose nail samples were obtained immediately before and after biotin supplementation, nail thickness increased by 25%. In the 14 patients with brittle nails whose nail specimens were obtained 2&amp;ndash;4 months after starting treatment and 1&amp;ndash;4 months after ending treatment, nail thickness increased by 7%, a difference that was not statistically significant. In the second study, 2.5 mg biotin daily for an average of 5.5 months in 45 patients with thin and brittle fingernails resulted in firmer and harder fingernails in 41 of the patients (91%) [26]. Finally, the third, retrospective study in 35 patients with brittle nails found that 2.5 mg/day biotin for 6&amp;ndash;15 months resulted in clinical improvement in 22 of the 35 patients (63%) [27].&lt;/p&gt;
+
+&lt;p&gt;Only case reports are available to support claims that biotin supplements can promote hair health, and these reports were only in children [28, 29]. These studies found that 3&amp;ndash;5 mg/day biotin in children with uncombable hair syndrome (a rare disorder of the hair shaft) significantly improved hair health after 3&amp;ndash;4 months. The evidence supporting the use of biotin supplements to support skin health is equally limited to a small number of case reports, all in infants, showing that 100 mcg to 10 mg/day resulted in dramatic improvements in rash or dermatitis as well as alopecia [30,31].&lt;/p&gt;
+
+&lt;p&gt;Future studies are needed to determine whether biotin supplements might improve hair, nail, and skin health, especially among healthy individuals.&lt;/p&gt;
+
+&lt;h2&gt;Health Risks from Excessive Biotin&lt;/h2&gt;
+
+&lt;p&gt;The FNB was unable to establish ULs for biotin because there is no evidence in humans that biotin is toxic at high intakes [1]. Several studies have found no adverse effects of 10&amp;ndash;50 mg/day biotin, and up to 200 mg/day oral biotin or 20 mg/day intravenously in patients with biotinidase deficiency do not produce symptoms of toxicity [1, 10].&lt;/p&gt;
+
+&lt;p&gt;High biotin intakes, and potentially even intakes greater than the AI, may pose another type of health risk [32]. Supplementing with biotin beyond recommended intakes can cause clinically significant falsely high or falsely low laboratory test results, depending on the test. These incorrect results may lead to inappropriate patient management or misdiagnosis of a medical condition. The following section has more details on these interactions.&lt;/p&gt;
+
+&lt;h2&gt;Interactions with Laboratory Tests&lt;/h2&gt;
+
+&lt;p&gt;Very high intakes of biotin may interfere with diagnostic assays that use biotin-streptavidin technology and are commonly used to measure levels of hormones (such as thyroid hormone) and other analytes such as 25-hydroxyvitamin D, producing falsely normal or abnormal results [9, 32]. As a result, a few recent case reports have described findings falsely indicating Graves' disease and severe hyperthyroidism in patients taking 10&amp;ndash;300 mg biotin per day, including six children receiving high doses of biotin (2&amp;ndash;15 mg/kg body weight per day) to treat inherited metabolic diseases [33-37].&lt;/p&gt;
+
+&lt;p&gt;Even a single 10 mg dose of biotin has interfered with thyroid function tests administered within 24 hours of taking the supplement [38]. A small study in six healthy adults who took 10 mg/day of supplemental biotin for 1 week found interference in several biotinylated assays, including falsely decreased levels of thyroid stimulating hormone (which could lead to a misdiagnosis of thyrotoxicosis) and N-terminal pro-brain natriuretic peptide (which could result in a failure to identify congestive heart failure) [9]. According to FDA, a patient with a high intake of supplemental biotin died following a troponin test (to help diagnose a heart attack) that gave a falsely low result because the test was subject to biotin interference [32].&lt;/p&gt;
+
+&lt;p&gt;FDA advises health care providers to ask their patients about any supplements they may be taking that contain biotin and to consider biotin interference as a possible source of error if laboratory test results do not match the clinical presentation of the patient [32].&lt;/p&gt;
+
+&lt;h2&gt;Interactions with Medications&lt;/h2&gt;
+
+&lt;p&gt;Biotin can interact with certain medications, and some medications can have an adverse effect on biotin levels. One example is provided below. Individuals taking this and other medications on a regular basis should discuss their biotin status with their health care providers.&lt;/p&gt;
+
+&lt;h3&gt;Anticonvulsants&lt;/h3&gt;
+
+&lt;p&gt;In a study in 264 people with epilepsy, anticonvulsant treatment for at least 1 year was associated with significantly lower serum biotin levels than in control group patients [39]. The anticonvulsants used included carbamazepine (Tegretol, Carbatrol, Epitol, Equetro), primidone (Mysoline), phenytoin (Dilantin, Phenytek), and phenobarbital (Luminal, Solfoton) as well as combinations of these medications. A few other, smaller studies have found similar results [40,41]. The reason could be that anticonvulsant treatment increases biotin catabolism, which leads to reduced biotin status and inhibition of intestinal biotin absorption [40, 42].&lt;/p&gt;
+
+&lt;h2&gt;Biotin and Healthful Diets&lt;/h2&gt;
+
+&lt;p&gt;The federal government's 2020&amp;ndash;2025 &lt;em&gt;Dietary Guidelines for Americans&lt;/em&gt; notes that &amp;quot;Because foods provide an array of nutrients and other components that have benefits for health, nutritional needs should be met primarily through foods. ... In some cases, fortified foods and dietary supplements are useful when it is not possible otherwise to meet needs for one or more nutrients (e.g., during specific life stages such as pregnancy).&amp;quot;&lt;/p&gt;
+
+&lt;p&gt;For more information about building a healthy dietary pattern, refer to the &lt;a href="https://www.dietaryguidelines.gov" target="_blank"&gt;&lt;em&gt;Dietary Guidelines for Americans&lt;/em&gt;&lt;/a&gt;&lt;a href="https://ods.od.nih.gov:443/About/exit_disclaimer.aspx" title="External Website"&gt;&lt;img src="/images/Common/externallink.png"  height="12" width="12"  alt="external link disclaimer" class="externallink" /&gt;&lt;/a&gt; and the USDA's &lt;a href="https://www.myplate.gov" target="_blank"&gt;MyPlate.&lt;/a&gt;&lt;a href="https://ods.od.nih.gov:443/About/exit_disclaimer.aspx" title="External Website"&gt;&lt;img src="/images/Common/externallink.png"  height="12" width="12"  alt="external link disclaimer" class="externallink" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The &lt;em&gt;Dietary Guidelines for Americans&lt;/em&gt; describes a healthy dietary pattern as one that&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Includes a variety of vegetables; fruits; grains (at least half whole grains); fat-free and low-fat milk, yogurt, and cheese; and oils.
+	&lt;ul&gt;
+		&lt;li&gt;Some fruits, vegetables, dairy products, and whole grains contain biotin.&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;Includes a variety of protein foods such as lean meats; poultry; eggs; seafood; beans, peas, and lentils; nuts and seeds; and soy products.
+	&lt;ul&gt;
+		&lt;li&gt;​​​​​​​Eggs and some organ meats are good sources of biotin; many nuts, seeds, seafood, and lean meats contain biotin.&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;Limits foods and beverages higher in added sugars, saturated fat, and sodium.&lt;/li&gt;
+	&lt;li&gt;Limits alcoholic beverages.&lt;/li&gt;
+	&lt;li&gt;Stays within your daily calorie needs.&lt;/li&gt;
+&lt;/ul&gt;
+</Content><References Count="42"><EndNote><RefID>1</RefID><Reference>Institute of Medicine. Food and Nutrition Board. &lt;a href="https://www.ncbi.nlm.nih.gov/books/NBK114310/pdf/Bookshelf_NBK114310.pdf"&gt;Dietary Reference Intakes: Thiamin, Riboflavin, Niacin, Vitamin B6, Folate, Vitamin B12, Pantothenic Acid, Biotin, and Choline&lt;/a&gt;. Washington, DC: National Academy Press; 1998.</Reference><PMID /></EndNote><EndNote><RefID>2</RefID><Reference>Mock DM. Biotin. In: Ross AC, Caballero B, Cousins RJ, Tucker KL, Ziegler TR, eds. Modern Nutrition in Health and Disease. 11th ed. Baltimore, MD: Lippincott Williams &amp;amp; Wilkins; 2014:390-8.</Reference><PMID /></EndNote><EndNote><RefID>3</RefID><Reference>Zempleni J, Wijeratne SSK, Kuroishi T. Biotin. In: Erdman JW, Macdonald IA, Zeisel SH, eds. Present Knowledge in Nutrition. 10th ed. Washington, DC: Wiley-Blackwell; 2012:359-74.</Reference><PMID /></EndNote><EndNote><RefID>4</RefID><Reference>Pacheco-Alvarez D, Sol&amp;oacute;rzano-Vargas RS, Del R&amp;iacute;o AL. Biotin in metabolism and its relationship to human disease. Arch Med Res 2002;33:439-47.</Reference><PMID>12459313</PMID></EndNote><EndNote><RefID>5</RefID><Reference>Staggs CG, Sealey WM, McCabe BJ, Teague AM, Mock DM. Determination of the biotin content of select foods using accurate and sensitive HPLC/avidin binding. Journal of food composition and analysis: an official publication of the United Nations University, International Network of Food Data Systems 2004;17:767-76.</Reference><PMID>16648879</PMID></EndNote><EndNote><RefID>6</RefID><Reference>Said HM. Biotin: biochemical, physiological and clinical aspects. Subcell Biochem 2012;56:1-19.</Reference><PMID>22116691</PMID></EndNote><EndNote><RefID>7</RefID><Reference>Eng WK, Giraud D, Schlegel VL, Wang D, Lee BH, Zempleni J. Identification and assessment of markers of biotin status in healthy adults. Br J Nutr 2013;110:321-9.</Reference><PMID>23302490</PMID></EndNote><EndNote><RefID>8</RefID><Reference>Mock DM, Stratton SL, Horvath TD, Bogusiewicz A, Matthews NI, Henrich CL, et al. Urinary excretion of 3-hydroxyisovaleric acid and 3-hydroxyisovaleryl carnitine increases in response to a leucine challenge in marginally biotin-deficient humans. J Nutr 2011;141:1925-30.</Reference><PMID>21918059</PMID></EndNote><EndNote><RefID>9</RefID><Reference>Li D, Radulescu A, Shrestha RT, Root M, Karger AB, Killeen AA, et al. Association of biotin ingestion with performance of hormone and nonhormone assays in healthy adults. JAMA 2017;318:1150-60.</Reference><PMID>28973622</PMID></EndNote><EndNote><RefID>10</RefID><Reference>Zempleni J, Wijeratne SSK, Hassan YI. Biotin. Biofactors 2009;35:36-46.</Reference><PMID>19319844</PMID></EndNote><EndNote><RefID>11</RefID><Reference>Institute of Medicine. &lt;a href="https://www.nap.edu/catalog/11537/dietary-reference-intakes-the-essential-guide-to-nutrient-requirements"&gt;Dietary reference intakes: the essential guide to nutrient requirements&lt;/a&gt;. Washington, DC: National Academies Press; 2006.</Reference><PMID /></EndNote><EndNote><RefID>12</RefID><Reference>Combs GF, Jr. Biotin. In: Combs GF, Jr., ed. The vitamins: fundamental aspects in nutrition and health. Third ed. Burlington, MA: Elsevier Academic Press; 2008:331-44.</Reference><PMID /></EndNote><EndNote><RefID>13</RefID><Reference>Mock DM. Biotin. In: Coates PM, Betz JM, Blackman MR, et al., eds. Encyclopedia of Dietary Supplements. 2nd ed. London and New York: Informa Healthcare; 2010:43-51.</Reference><PMID /></EndNote><EndNote><RefID>14</RefID><Reference>Said HM. Biotin: the forgotten vitamin. Am J Clin Nutr 2002;75:179-80.</Reference><PMID>11815306</PMID></EndNote><EndNote><RefID>15</RefID><Reference>U.S. Food and Drug Administration. &lt;a href="https://www.federalregister.gov/documents/2016/05/27/2016-11867/food-labeling-revision-of-the-nutrition-and-supplement-facts-labels"&gt;Food Labeling: Revision of the Nutrition and Supplement Facts Labels.&lt;/a&gt; 2016.</Reference><PMID /></EndNote><EndNote><RefID>16</RefID><Reference>National Institutes of Health. &lt;a href="https://dsld.od.nih.gov"&gt;Dietary Supplement Label Database&lt;/a&gt;. 2017.</Reference><PMID /></EndNote><EndNote><RefID>17</RefID><Reference>Zempleni J, Mock DM. Bioavailability of biotin given orally to humans in pharmacologic doses. Am J Clin Nutr 1999;69:504-8.</Reference><PMID>10075337</PMID></EndNote><EndNote><RefID>18</RefID><Reference>Perry CA, West AA, Gayle A, Lucas LK, Yan J, Jiang X, et al. Pregnancy and lactation alter biomarkers of biotin metabolism in women consuming a controlled diet. J Nutr 2014;144:1977-84.</Reference><PMID>25122647</PMID></EndNote><EndNote><RefID>19</RefID><Reference>Wolf B. Biotinidase deficiency and our champagne legacy. Gene 2016;589:142-50.</Reference><PMID>26456103</PMID></EndNote><EndNote><RefID>20</RefID><Reference>Kury S, Ramaekers V, Bezieau S, Wolf B. Clinical utility gene card for: Biotinidase deficiency-update 2015. Eur J Hum Genet 2016;24.</Reference><PMID>26577040</PMID></EndNote><EndNote><RefID>21</RefID><Reference>Srinivasan P, Kapadia R, Biswas A, Said HM. Chronic alcohol exposure inhibits biotin uptake by pancreatic acinar cells: possible involvement of epigenetic mechanisms. Am J Physiol Gastrointest Liver Physiol 2014;307:G941-9.</Reference><PMID>25214397</PMID></EndNote><EndNote><RefID>22</RefID><Reference>Mock DM. Marginal biotin deficiency is common in normal human pregnancy and is highly teratogenic in mice. J Nutr 2009;139:154-7.</Reference><PMID>19056637</PMID></EndNote><EndNote><RefID>23</RefID><Reference>D&amp;#39;Amato P. &lt;a href="http://www.chatelaine.com/health/wellness/biotin-can-boost-your-health/"&gt;Biotin: 5 healthy benefits of this B vitamin&lt;/a&gt;. Chatelaine, 2016.</Reference><PMID /></EndNote><EndNote><RefID>24</RefID><Reference>Ebony. &lt;a href="http://www.ebony.com/style/black-hair-and-biotin-888"&gt;Black hair and biotin: can this vitamin really help your hair grow?&lt;/a&gt; Ebony, 2014.</Reference><PMID /></EndNote><EndNote><RefID>25</RefID><Reference>Colombo VE, Gerber F, Bronhofer M, Floersheim GL. Treatment of brittle fingernails and onychoschizia with biotin: scanning electron microscopy. J Am Acad Dermatol 1990;23:1127-32.</Reference><PMID>2273113</PMID></EndNote><EndNote><RefID>26</RefID><Reference>Floersheim GL. [Treatment of brittle fingernails with biotin]. Z Hautkr 1989;64:41-8.</Reference><PMID>2648686</PMID></EndNote><EndNote><RefID>27</RefID><Reference>Hochman LG, Scher RK, Meyerson MS. Brittle nails: response to daily biotin supplementation. Cutis 1993;51:303-5.</Reference><PMID>8477615</PMID></EndNote><EndNote><RefID>28</RefID><Reference>Boccaletti V, Zendri E, Giordano G, Gnetti L, De Panfilis G. Familial Uncombable Hair Syndrome: Ultrastructural Hair Study and Response to Biotin. Pediatr Dermatol 2007;24:E14-6.</Reference><PMID>17509110</PMID></EndNote><EndNote><RefID>29</RefID><Reference>Shelley WB, Shelley ED. Uncombable hair syndrome: observations on response to biotin and occurrence in siblings with ectodermal dysplasia. J Am Acad Dermatol 1985;13:97-102.</Reference><PMID>4031156</PMID></EndNote><EndNote><RefID>30</RefID><Reference>Mock DM, Baswell DL, Baker H, Holman RT, Sweetman L. Biotin deficiency complicating parenteral alimentation: Diagnosis, metabolic repercussions, and treatment. The Journal of Pediatrics 1985;106:762-9.</Reference><PMID>3923177</PMID></EndNote><EndNote><RefID>31</RefID><Reference>Fujimoto W, Inaoki M, Fukui T, Inoue Y, Kuhara T. Biotin deficiency in an infant fed with amino acid formula. J Dermatol 2005;32:256-61.</Reference><PMID>15863846</PMID></EndNote><EndNote><RefID>32</RefID><Reference>FDA. &lt;a href="https://wayback.archive-it.org/7993/20201220000025/https://www.fda.gov/medical-devices/safety-communications/update-fda-warns-biotin-may-interfere-lab-tests-fda-safety-communication"&gt;The FDA warns that biotin may interfere with lab tests: FDA safety communication.&lt;/a&gt;</Reference><PMID /></EndNote><EndNote><RefID>33</RefID><Reference>Kummer S, Hermsen D, Distelmaier F. Biotin treatment mimicking Graves&amp;#39; disease. N Engl J Med 2016;375:704-6.</Reference><PMID>27532849</PMID></EndNote><EndNote><RefID>34</RefID><Reference>Sharma A, Baumann NA, Shah P. Biotin-induced biochemical Graves disease: a teachable moment. JAMA Intern Med 2017;177:571-2.</Reference><PMID>28192572</PMID></EndNote><EndNote><RefID>35</RefID><Reference>Barbesino G. Misdiagnosis of Graves&amp;#39; disease with apparent severe hyperthyroidism in a patient taking biotin megadoses. Thyroid 2016;26:860-3.</Reference><PMID>27043844</PMID></EndNote><EndNote><RefID>36</RefID><Reference>Elston MS, Sehgal S, Du Toit S, Yarndley T, Conaglen JV. Factitious Graves&amp;#39; disease due to biotin immunoassay interference‒a&amp;nbsp;case and review of the literature. J Clin Endocrinol&amp;nbsp;Metab 2016;101:3251-5.</Reference><PMID>27362288</PMID></EndNote><EndNote><RefID>37</RefID><Reference>Piketty ML, Polak M, Flechtner I, Gonzales-Briceno L, Souberbielle JC. False biochemical diagnosis of hyperthyroidism in streptavidin-biotin-based immunoassays: the problem of&amp;nbsp;biotin intake and related interferences. Clin Chem Lab Med 2017;55:780-8.</Reference><PMID>27732554</PMID></EndNote><EndNote><RefID>38</RefID><Reference>Biscolla RPM, Chiamolera MI, Kanashiro I, Maciel RMB, Vieira JGH. A single 10 mg oral dose of biotin interferes with thyroid function tests. Thyroid 2017;27:1099-1100.</Reference><PMID>28614993</PMID></EndNote><EndNote><RefID>39</RefID><Reference>Krause KH, Berlit P, Bonjour JP. Impaired biotin status in anticonvulsant therapy. Ann Neurol 1982;12:485-6.</Reference><PMID>7181453</PMID></EndNote><EndNote><RefID>40</RefID><Reference>Mock DM, Dyken ME. Biotin catabolism is accelerated in adults receiving long-term therapy with anticonvulsants. Neurology 1997;49:1444-7.</Reference><PMID>9371938</PMID></EndNote><EndNote><RefID>41</RefID><Reference>Mock DM, Mock NI, Nelson RP, Lombard KA. Disturbances in biotin metabolism in children undergoing long-term anticonvulsant therapy. J Pediatr Gastroenterol Nutr 1998;26:245-50.</Reference><PMID>9523856</PMID></EndNote><EndNote><RefID>42</RefID><Reference>Said HM, Redha R, Nylander W. Biotin transport in the human intestine: inhibition by anticonvulsant drugs. Am J Clin Nutr 1989;49:127-31.</Reference><PMID>2911998</PMID></EndNote></References><Disclaimer>This fact sheet by the National Institutes of Health (NIH) Office of Dietary Supplements (ODS) provides information that should not take the place of medical advice. We encourage you to talk to your health care providers (doctor, registered dietitian, pharmacist, etc.) about your interest in, questions about, or use of dietary supplements and what may be best for your overall health. Any mention in this publication of a specific product or service, or recommendation from an organization or professional society, does not represent an endorsement by ODS of that product, service, or expert advice.</Disclaimer><ODSLogo>https://ods.od.nih.gov:443/images/common/NIH-ODSlogo_home.png</ODSLogo></Factsheet>

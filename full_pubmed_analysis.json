@@ -1,0 +1,696 @@
+[
+  {
+    "name": "Женьшень",
+    "search_terms": [
+      "ginseng",
+      "panax ginseng",
+      "panax quinquefolius"
+    ],
+    "general": {
+      "count": 4295,
+      "query": "(ginseng OR panax ginseng OR panax quinquefolius) AND humans[MeSH]"
+    },
+    "interactions": {
+      "count": 293,
+      "query": "(ginseng OR panax ginseng OR panax quinquefolius) AND (drug interactions[MeSH] OR herb-drug interactions[tw]) AND humans[MeSH]"
+    },
+    "adverse_effects": {
+      "count": 205,
+      "query": "(ginseng OR panax ginseng OR panax quinquefolius) AND (adverse effects[MeSH] OR side effects[tw]) AND humans[MeSH]"
+    },
+    "clinical_trials": {
+      "count": 450,
+      "query": "(ginseng OR panax ginseng OR panax quinquefolius) AND (randomized controlled trial[pt] OR clinical trial[pt]) AND humans[MeSH]"
+    },
+    "sample_interactions": [
+      {
+        "pmid": "40255042",
+        "title": "Inconsistent Reporting of Interactions Between Warfarin and Medicinal Plants Across Clinical Decision Support Resources.",
+        "abstract": "BackgroundWarfarin, a commonly used anticoagulant, interacts with medicinal plants, potentially complicating patient management. Clinical Decision Resources (CDRs) provide guidance on these interactions, but inconsistencies across resources may impact clinical decisions. This study aims to evaluate the consistency of interaction reports between warfarin and medicinal plants across four online CDRs.MethodsA cross-sectional study was conducted. Medicinal plants assessed were selected from the World Health Organization's Phytotherapy Manual. Interaction reports were manually reviewed across four CDRs: UpToDate, ClinicalKey, DynaMed, and DrugBank. Interactions were categorized by severity as mild, moderate or severe.ResultsOf 141 medicinal plants reviewed, 28 were documented as interacting with warfarin in at least one of the four assessed CDRs. DynaMed reported interactions for 18 plants, ClinicalKey for 15, UpToDate for 13, and DrugBank for 3. Only one plant (Ginseng - ",
+        "year": "2025"
+      },
+      {
+        "pmid": "39819155",
+        "title": "Synergistic Effect of HAD-B1 and Osimertinib Against Gefitinib Resistant HCC827 Non-Small Cell Lung Cancer Cells.",
+        "abstract": "In this study, we investigated the synergistic effect of co-administration of osimertinib and HAD-B1 using gefitinib-resistant non-small cell lung cancer cells, HCC827-GR. HAD-B1 is composed of 4 natural drugs, Panax Notoginseng Radix, Panax ginseng C. A. Meyer, Cordyceps militaris, and Boswellia carterii Birdwood, and has been reported to have therapeutic effects on patients with advanced non-small cell lung cancer in several studies. Resistance to gefitinib in HCC827 cells was acquired through MET activity. Co-treatment with osimertinib and HAD-B1 reduced the cell viability of HCC827-GR cells. In addition, phosphorylation of MET and ERK were effectively suppressed for HCC827-GR cells. And, compared to when osimertinib and HAD-B1 were administered alone, cell proliferation was significantly inhibited and apoptosis was effectively induced when osimertinib and HAD-B1 were co-administered to HCC827-GR cells. We found that the synergistic effect of osimertinib and HAD-B1 combination therapy resulted in cancer cell death and cell cycle arrest by targeting the ERK and mTOR signaling pathways. In conclusion, this study confirmed that the combination of osimertinib, a third-generation anticancer drug, and HAD-B1, a natural anticancer drug, had a potentially synergistic effect on non-small cell lung cancer resistant to EGFR-targeted anticancer drugs.",
+        "year": "2025"
+      },
+      {
+        "pmid": "38928095",
+        "title": "Cardiovascular Effects of Herbal Products and Their Interaction with Antihypertensive Drugs-Comprehensive Review.",
+        "abstract": "Hypertension is a highly prevalent population-level disease that represents an important risk factor for several cardiovascular complications and occupies a leading position in mortality statistics. Antihypertensive therapy includes a wide variety of drugs. Additionally, the potential antihypertensive and cardioprotective effects of several phytotherapy products have been evaluated, as these could also be a valuable therapeutic option for the prevention, improvement or treatment of hypertension and its complications. The present review includes an evaluation of the cardioprotective and antihypertensive effects of garlic, Aloe vera, green tea, Ginkgo biloba, berberine, ginseng, Nigella sativa, Apium graveolens, thyme, cinnamon and ginger, and their possible interactions with antihypertensive drugs. A literature search was undertaken via the PubMed, Google Scholar, Embase and Cochrane databases. Research articles, systematic reviews and meta-analyses published between 2010 and 2023, in the English, Hungarian, and Romanian languages were selected.",
+        "year": "2024"
+      }
+    ],
+    "interaction_percentage": 6.8,
+    "adverse_percentage": 4.8,
+    "rct_percentage": 10.5
+  },
+  {
+    "name": "Чеснок",
+    "search_terms": [
+      "garlic",
+      "allium sativum"
+    ],
+    "general": {
+      "count": 3384,
+      "query": "(garlic OR allium sativum) AND humans[MeSH]"
+    },
+    "interactions": {
+      "count": 205,
+      "query": "(garlic OR allium sativum) AND (drug interactions[MeSH] OR herb-drug interactions[tw]) AND humans[MeSH]"
+    },
+    "adverse_effects": {
+      "count": 160,
+      "query": "(garlic OR allium sativum) AND (adverse effects[MeSH] OR side effects[tw]) AND humans[MeSH]"
+    },
+    "clinical_trials": {
+      "count": 249,
+      "query": "(garlic OR allium sativum) AND (randomized controlled trial[pt] OR clinical trial[pt]) AND humans[MeSH]"
+    },
+    "sample_interactions": [
+      {
+        "pmid": "40363671",
+        "title": "Antibacterial Activity and Chemical Composition of Popular Plant Essential Oils and Their Positive Interactions in Combination.",
+        "abstract": "Bacterial diseases are a global problem that threatens human health and cause many deaths each year. The alarming rise in bacterial resistance to modern antimicrobials is particularly concerning. In practice, this necessitates increasing the dosage of antimicrobial agents, posing a potential risk of adverse effects on human health. Additionally, the development of antibiotic resistance is one of the main factors contributing to the ever-growing costs of the global healthcare system. For these reasons, natural and safe antimicrobial agents are increasingly sought after. In this study, the antibacterial activity of 31 different essential oils (EOs) was investigated against ",
+        "year": "2025"
+      },
+      {
+        "pmid": "39186133",
+        "title": "Synergistic potential of essential oil combinations against Microsporum, Trichophyton, and Epidermophyton.",
+        "abstract": "Dermatophyte infections globally account for 20 to 25% of fungal infections. Dermatophytes have begun exhibiting antifungal drug resistance, making it challenging to treat this particular infection. Essential oils could be used as alternative solutions as they have been used for a long period to treat different infections. The research has demonstrated the antifungal efficacy of cinnamon, clove, lemongrass, tea tree, thyme, and garlic essential oils, and the impact of their combinations was assayed against Microsporum canis, Trichophyton tonsurans, T. violaceum, T. verrucosum, and Epidermophyton floccosum. Polymerase chain reaction (PCR)-restriction fragment length polymorphism (RFLP) was used to identify the most prevalent M. canis. The accession number of M. canis was obtained as ON007275. All tested essential oils exhibited antidermatophytic action except garlic. A synergistic effect was attained by cinnamon + clove, cinnamon + lemongrass, clove + lemongrass, clove + tea tree, and thyme + tea tree combinations. Concerning antifungal activity, M. canis was the most susceptible dermatophytic species, except in the case of thyme T. violaceum, which was the most susceptible dermatophytic species. The maximum inhibition was recorded in the cases of cinnamon and cinnamon + lemongrass combination against M. canis. The least minimum inhibitory concentrations were attained by cinnamon and clove against M. canis, cinnamon + clove against M. canis and T. violaceum, and cinnamon + lemongrass against M. canis, T. violaceum, T. verrucosum, and E. floccosum. The least minimum fungicidal concentration showed by cinnamon against M. canis, cinnamon + clove against M. canis and T. violaceum, cinnamon + lemongrass against M. canis, T. violaceum, T. verrucosum, and E. floccosum, and clove + lemongrass against M. canis.",
+        "year": "2025"
+      },
+      {
+        "pmid": "38980791",
+        "title": "Analyzing Potential Interactions Between Complementary and Alternative Therapies, Over-the-Counter, and Prescription Medications in the Older Population.",
+        "abstract": "The escalating use of complementary and alternative medicine (CAM) raises concerns, particularly among geriatric patients taking multiple medications. Notably, the doubled chance of major drug interactions between prescription and over-the-counter (OTC) drugs in older adults underscores the need for further research. This study aimed to evaluate clinically significant CAM and prescription medication interactions in a geriatric clinic, emphasizing the growing importance of understanding CAM implications in health care.",
+        "year": "2024"
+      }
+    ],
+    "interaction_percentage": 6.1,
+    "adverse_percentage": 4.7,
+    "rct_percentage": 7.4
+  },
+  {
+    "name": "Гинкго",
+    "search_terms": [
+      "ginkgo",
+      "ginkgo biloba"
+    ],
+    "general": {
+      "count": 2584,
+      "query": "(ginkgo OR ginkgo biloba) AND humans[MeSH]"
+    },
+    "interactions": {
+      "count": 250,
+      "query": "(ginkgo OR ginkgo biloba) AND (drug interactions[MeSH] OR herb-drug interactions[tw]) AND humans[MeSH]"
+    },
+    "adverse_effects": {
+      "count": 167,
+      "query": "(ginkgo OR ginkgo biloba) AND (adverse effects[MeSH] OR side effects[tw]) AND humans[MeSH]"
+    },
+    "clinical_trials": {
+      "count": 442,
+      "query": "(ginkgo OR ginkgo biloba) AND (randomized controlled trial[pt] OR clinical trial[pt]) AND humans[MeSH]"
+    },
+    "sample_interactions": [
+      {
+        "pmid": "40198642",
+        "title": "Impact of Ginkgo biloba drug interactions on bleeding risk and coagulation profiles: A comprehensive analysis.",
+        "abstract": "This retrospective observational study was conducted to investigate the prevalence and clinical implications of drug interactions involving Ginkgo biloba extract on bleeding risk and coagulation profiles. Our analysis utilized data from patients admitted to Hai Phong International Hospital between January 2022 and December 2023. Inclusion criteria consisted of patients aged 18 years and above, those prescribed Ginkgo biloba extract alone or in combination with other medications, and the availability of complete medical records, including medication history, laboratory tests, and clinical outcomes. Out of 2,647 prescriptions meeting the inclusion criteria, 342 exhibited drug interactions with a prevalence rate of 12.94%. Notably, Ginkgo biloba extract frequent interacts with antiplatelets, anticoagulants, and nonsteroidal anti-inflammatory drugs, with Clopidogrel and Aspirin exhibiting the highest prevalence rates of 2.61% each. However, interactions with anticoagulants including direct oral anticoagulants and acenocoumarol, were not statistically significant in our analysis. Omeprazole was a frequently interacting drug (2.34%) of mild severity. Among the 747 patients analyzed for bleeding disorders, 31 (4.15%) exhibited bleeding symptoms. Correlation analysis indicated a strong association between clinical bleeding and abnormal coagulation results (OR, 1.75; p <  0.001). Moreover, significant correlations were found between Ginkgo biloba extract drug interactions and the bleeding risk (OR: 1.08, p <  0.001) and abnormal coagulation (OR: 1.49, p <  0.001). The severity of Ginkgo biloba extract drug interactions did not correlate with bleeding risk (OR: 1.01, p =  0.767) but influenced abnormal coagulation test results (OR: 0.813, p =  0.019). Specific medications, including clopidogrel, aspirin, celecoxib, loxoprofen, nifedipine, and omeprazole, were significantly associated with the risk of bleeding and abnormal coagulation (p <  0.05). Interactions with ticagrelor, etoricoxib, insulin, omeprazole, and domperidone were associated with abnormal coagulation tests without affecting the reported bleeding. These findings underscore the critical need of evaluating potential interactions involving Ginkgo biloba extract drug interactions in clinical pratice, particularly when assessing bleeding risk and managing coagulation.",
+        "year": "2025"
+      },
+      {
+        "pmid": "38980791",
+        "title": "Analyzing Potential Interactions Between Complementary and Alternative Therapies, Over-the-Counter, and Prescription Medications in the Older Population.",
+        "abstract": "The escalating use of complementary and alternative medicine (CAM) raises concerns, particularly among geriatric patients taking multiple medications. Notably, the doubled chance of major drug interactions between prescription and over-the-counter (OTC) drugs in older adults underscores the need for further research. This study aimed to evaluate clinically significant CAM and prescription medication interactions in a geriatric clinic, emphasizing the growing importance of understanding CAM implications in health care.",
+        "year": "2024"
+      },
+      {
+        "pmid": "38928095",
+        "title": "Cardiovascular Effects of Herbal Products and Their Interaction with Antihypertensive Drugs-Comprehensive Review.",
+        "abstract": "Hypertension is a highly prevalent population-level disease that represents an important risk factor for several cardiovascular complications and occupies a leading position in mortality statistics. Antihypertensive therapy includes a wide variety of drugs. Additionally, the potential antihypertensive and cardioprotective effects of several phytotherapy products have been evaluated, as these could also be a valuable therapeutic option for the prevention, improvement or treatment of hypertension and its complications. The present review includes an evaluation of the cardioprotective and antihypertensive effects of garlic, Aloe vera, green tea, Ginkgo biloba, berberine, ginseng, Nigella sativa, Apium graveolens, thyme, cinnamon and ginger, and their possible interactions with antihypertensive drugs. A literature search was undertaken via the PubMed, Google Scholar, Embase and Cochrane databases. Research articles, systematic reviews and meta-analyses published between 2010 and 2023, in the English, Hungarian, and Romanian languages were selected.",
+        "year": "2024"
+      }
+    ],
+    "interaction_percentage": 9.7,
+    "adverse_percentage": 6.5,
+    "rct_percentage": 17.1
+  },
+  {
+    "name": "Зверобой",
+    "search_terms": [
+      "st john's wort",
+      "hypericum perforatum"
+    ],
+    "general": {
+      "count": 2145,
+      "query": "(st john's wort OR hypericum perforatum) AND humans[MeSH]"
+    },
+    "interactions": {
+      "count": 512,
+      "query": "(st john's wort OR hypericum perforatum) AND (drug interactions[MeSH] OR herb-drug interactions[tw]) AND humans[MeSH]"
+    },
+    "adverse_effects": {
+      "count": 170,
+      "query": "(st john's wort OR hypericum perforatum) AND (adverse effects[MeSH] OR side effects[tw]) AND humans[MeSH]"
+    },
+    "clinical_trials": {
+      "count": 240,
+      "query": "(st john's wort OR hypericum perforatum) AND (randomized controlled trial[pt] OR clinical trial[pt]) AND humans[MeSH]"
+    },
+    "sample_interactions": [
+      {
+        "pmid": "40023599",
+        "title": "Use of an extensively humanized mouse model to predict the risk of drug-drug interactions in patients receiving dexamethasone.",
+        "abstract": "The corticosteroid dexamethasone, which is used to treat numerous health conditions, remains the first-line treatment for patients hospitalized with COVID-19 requiring oxygen. Current British National Formulary prescribing advice warns of a \"severe theoretical\" or \"severe anecdotal\" risk of drug-drug interactions between dexamethasone and 138 different medications. In humans, dexamethasone is eliminated via the cytochrome P450 monooxygenase system, particularly CYP3A4. It is also described as a human cytochrome P450-inducing agent. To establish factors that affect concomitant therapy and dexamethasone efficacy in the treatment of COVID-19, we used a unique mouse model humanized for cytochrome P450s and the transcription factors that regulate their expression, the pregnane X receptor, and the constitutive androstane receptor. We found that induction of CYP3A4 with the anticancer drug dabrafenib or the herbal medicine St John's wort profoundly reduced dexamethasone exposure. These data suggest that comedications that induce cytochrome P450 expression can have a marked effect on dexamethasone exposure and, potentially, clinical efficacy. We also observed that rather than increasing CYP3A4 expression, dexamethasone at doses equivalent to or higher than those used in the treatment of COVID-19 reduced CYP3A4 expression and increased exposure to dabrafenib. These data indicate the need for a clinical trial to establish the risk of overexposure to comedications during dexamethasone treatment, including the treatment of COVID-19. SIGNIFICANCE STATEMENT: Current prescribing advice identifies a potential theoretical risk of severe side effects when dexamethasone, one of the most widely used drugs in clinical practice, is coadministered with many other drugs; it is, however, difficult to define the magnitude of this risk for specific drug combinations. We describe the use of cytochrome P450-humanized 8HUM mice to predict drug-drug interactions in patients on polypharmacy, a means of generating data that could better inform clinicians regarding foreseeable drug-drug interactions involving dexamethasone.",
+        "year": "2025"
+      },
+      {
+        "pmid": "39497667",
+        "title": "The perils of St. John's wort in cancer care: Nursing considerations.",
+        "abstract": "Approximately one-third of Americans use healthcare approaches including herbs and botanicals, such as St. John's wort (SJW), to improve overall well-being, gain control over their health, and manage the adverse reactions of conventional therapies. This article examines the use of SJW in cancer care, discussing its pharmacokinetics, toxicity, and potential interactions with cancer treatments while emphasizing the importance of patient education and collaboration between oncology nurses and pharmacists to ensure safe and effective care.",
+        "year": "2024"
+      },
+      {
+        "pmid": "38894516",
+        "title": "Assessment of Undergraduate Nursing Students' Understanding of Herbal Medicines and Herb-Drug Interactions in Riyadh, Saudi Arabia.",
+        "abstract": "BACKGROUND The use of herbal medicines (HMs) is increasing, which raises concerns of herb-drug interactions (HDIs). This questionnaire-based study aimed to evaluate knowledge of HMs and HDIs in 147 undergraduate nursing students in Riyadh, Saudi Arabia, between March 2022 to June 2022. MATERIAL AND METHODS An online cross-sectional study was conducted among 147 nursing undergraduates at King Saud University, Riyadh, Saudi Arabia from March 2022 to June 2022, using a self-administered 24-item questionnaire. The convenience sampling method was used to evaluate the knowledge of HMs and interactions of anticoagulants, anti-inflammatory drugs, antibiotics, and antiplatelet drugs with herbs like ginkgo biloba, St. John's wort, garlic, ginger, green tea, and chamomile tea. RESULTS The findings of this study reported that 74.8% of the undergraduates used HMs. With regard to HDIs, 20.4% of nursing undergraduates identified the interaction between gingko biloba and drugs like ibuprofen and warfarin, while 13.6% identified interactions between drugs like warfarin with green tea, ginger, and chamomile tea. Regarding general knowledge, 59% of the students (n=84) reported good knowledge of HMs. Previous history of HM use significantly affected the mean HM knowledge score (t=4.635; P=0.0001). CONCLUSIONS To summarize, Saudi nursing students showed a lack of understanding and knowledge of HDIs. Ability to identify specific HDIs, like ginkgo biloba interactions with warfarin and ibuprofen, and warfarin interactions with green tea and ginger, was limited. There is a need to introduce HM and HDI courses in the academic curriculum.",
+        "year": "2024"
+      }
+    ],
+    "interaction_percentage": 23.9,
+    "adverse_percentage": 7.9,
+    "rct_percentage": 11.2
+  },
+  {
+    "name": "Эхинацея",
+    "search_terms": [
+      "echinacea",
+      "echinacea purpurea"
+    ],
+    "general": {
+      "count": 783,
+      "query": "(echinacea OR echinacea purpurea) AND humans[MeSH]"
+    },
+    "interactions": {
+      "count": 117,
+      "query": "(echinacea OR echinacea purpurea) AND (drug interactions[MeSH] OR herb-drug interactions[tw]) AND humans[MeSH]"
+    },
+    "adverse_effects": {
+      "count": 53,
+      "query": "(echinacea OR echinacea purpurea) AND (adverse effects[MeSH] OR side effects[tw]) AND humans[MeSH]"
+    },
+    "clinical_trials": {
+      "count": 92,
+      "query": "(echinacea OR echinacea purpurea) AND (randomized controlled trial[pt] OR clinical trial[pt]) AND humans[MeSH]"
+    },
+    "sample_interactions": [
+      {
+        "pmid": "38613937",
+        "title": "Use of herbal medication in the perioperative period: Potential adverse drug interactions.",
+        "abstract": "Use of herbal medications and supplements has experienced immense growth over the last two decades, with retail sales in the USA exceeding $13 billion in 2021. Since the Dietary Supplement Health and Education Act (DSHEA) of 1994 reduced FDA oversight, these products have become less regulated. Data from 2012 shows 18% of U.S. adults used non-vitamin, non-mineral natural products. Prevalence varies regionally, with higher use in Western states. Among preoperative patients, the most commonly used herbal medications included garlic, ginseng, ginkgo, St. John's wort, and echinacea. However, 50-70% of surgical patients fail to disclose their use of herbal medications to their physicians, and most fail to discontinue them preoperatively. Since herbal medications can interact with anesthetic medications administered during surgery, the American Society of Anesthesiologists (ASA) and the American Association of Nurse Anesthetists (AANA) recommend stopping herbal medications 1-2 weeks before elective surgical procedures. Potential adverse drug effects related to preoperative use of herbal medications involve the coagulation system (e.g., increasing the risk of perioperative bleeding), the cardiovascular system (e.g., arrhythmias, hypotension, hypertension), the central nervous system (e.g., sedation, confusion, seizures), pulmonary (e.g., coughing, bronchospasm), renal (e.g., diuresis) and endocrine-metabolic (e.g., hepatic dysfunction, altered metabolism of anesthetic drugs). During the preoperative evaluation, anesthesiologists should inquire about the use of herbal medications to anticipate potential adverse drug interactions during the perioperative period.",
+        "year": "2024"
+      },
+      {
+        "pmid": "35986023",
+        "title": "Herb-anticancer drug interactions in real life based on VigiBase, the WHO global database.",
+        "abstract": "Cancer patients could combine herbal treatments with their chemotherapy. We consulted VigiBase, a WHO database of individual case safety reports (ICSRs) which archives reports of suspected Adverse Drug Reactions (ADRs) when herbal products are used in conjunction with anti-cancer treatment. We focused on the possible interactions between antineoplastic (L01 ATC class) or hormone antagonists (L02B ATC class) with 10 commonly used herbs (pineapple, green tea, cannabis, black cohosh, turmeric, echinacea, St John's wort, milk thistle and ginger) to compare ADRs described in ICSRs with the literature. A total of 1057 ICSRs were extracted from the database but only 134 were complete enough (or did not concern too many therapeutic lines) to keep them for analysis. Finally, 51 rationalizable ICSRs could be explained, which led us to propose a pharmacokinetic or pharmacodynamic interaction mechanism. Reports concerned more frequently women and half of the rationalizable ICSRs involved Viscum album and Silybum marianum. 5% of the ADRs described could have been avoided if clinicians had had access to the published information. It is also important to note that in 8% of the cases, the ADRs observed were life threatening. Phytovigilance should thus be considered more by health care professionals to best treat cancer patients and for better integrative care.",
+        "year": "2022"
+      },
+      {
+        "pmid": "34370637",
+        "title": "Herb-drug Interactions in Neuropsychiatric Pharmacotherapy - A Review of Clinically Relevant Findings.",
+        "abstract": "The management of neuropsychiatric disorders relies heavily on pharmacotherapy. The use of herbal products as complimentary medicine, often concomitantly, is common among patients taking prescription neuropsychiatric drugs. Herb-drug interaction, a clinical consequence of this practice, may jeopardize the success of pharmacotherapy in neuropsychiatry. Besides the wellknown ability of phytochemicals to inhibit and/or induce drug-metabolizing enzymes and transport proteins, several phytoconstituents are capable of exerting pharmacological effects on the central nervous system. This study reviewed the relevant literature and identified 13 commonly used herbal products - celery, echinacea, ginkgo, ginseng, hydroxycut, kava, kratom, moringa, piperine, rhodiola, St. John's wort, terminalia/commiphora ayurvedic mixture and valerian - which have shown clinically relevant interactions with prescription drugs used in the management of neuropsychiatric disorders. The consequent pharmacokinetic and pharmacodynamic interactions with orthodox medications often result in deleterious clinical consequences. This underscores the importance of caution in herb-drug co-medication.",
+        "year": "2022"
+      }
+    ],
+    "interaction_percentage": 14.9,
+    "adverse_percentage": 6.8,
+    "rct_percentage": 11.7
+  },
+  {
+    "name": "Куркума",
+    "search_terms": [
+      "turmeric",
+      "curcuma longa",
+      "curcumin"
+    ],
+    "general": {
+      "count": 13236,
+      "query": "(turmeric OR curcuma longa OR curcumin) AND humans[MeSH]"
+    },
+    "interactions": {
+      "count": 583,
+      "query": "(turmeric OR curcuma longa OR curcumin) AND (drug interactions[MeSH] OR herb-drug interactions[tw]) AND humans[MeSH]"
+    },
+    "adverse_effects": {
+      "count": 814,
+      "query": "(turmeric OR curcuma longa OR curcumin) AND (adverse effects[MeSH] OR side effects[tw]) AND humans[MeSH]"
+    },
+    "clinical_trials": {
+      "count": 672,
+      "query": "(turmeric OR curcuma longa OR curcumin) AND (randomized controlled trial[pt] OR clinical trial[pt]) AND humans[MeSH]"
+    },
+    "sample_interactions": [
+      {
+        "pmid": "40322036",
+        "title": "Drug Interactions of Imperatorin and Curcumin on Macitentan in vitro and in vivo.",
+        "abstract": "The purpose of this study was to establish an in vitro incubation system and an in vivo model to investigate the potential kinetic interactions of macitentan with imperatorin and curcumin, and to validate the potential inhibitory mechanisms using molecular docking.",
+        "year": "2025"
+      },
+      {
+        "pmid": "40156425",
+        "title": "Investigating the Potential Synergistic Effects of Turmeric Extract and Black Rice Bran as Cytotoxic Agents Against HeLa Cells.",
+        "abstract": "This study aimed to evaluate the synergistic effect of extract combinations from turmeric and black rice bran extract as anticancer agents on HeLa cells.",
+        "year": "2025"
+      },
+      {
+        "pmid": "40151125",
+        "title": "Integrating network pharmacology and experimental validation to uncover the synergistic effects of Huangqi ()-Ezhu () with 5-fluorouracil in colorectal cancer models.",
+        "abstract": "To evaluate the effects of Huangqi (",
+        "year": "2025"
+      }
+    ],
+    "interaction_percentage": 4.4,
+    "adverse_percentage": 6.1,
+    "rct_percentage": 5.1
+  },
+  {
+    "name": "Молочный чертополох",
+    "search_terms": [
+      "milk thistle",
+      "silybum marianum",
+      "silymarin"
+    ],
+    "general": {
+      "count": 2172,
+      "query": "(milk thistle OR silybum marianum OR silymarin) AND humans[MeSH]"
+    },
+    "interactions": {
+      "count": 168,
+      "query": "(milk thistle OR silybum marianum OR silymarin) AND (drug interactions[MeSH] OR herb-drug interactions[tw]) AND humans[MeSH]"
+    },
+    "adverse_effects": {
+      "count": 129,
+      "query": "(milk thistle OR silybum marianum OR silymarin) AND (adverse effects[MeSH] OR side effects[tw]) AND humans[MeSH]"
+    },
+    "clinical_trials": {
+      "count": 214,
+      "query": "(milk thistle OR silybum marianum OR silymarin) AND (randomized controlled trial[pt] OR clinical trial[pt]) AND humans[MeSH]"
+    },
+    "sample_interactions": [
+      {
+        "pmid": "40350446",
+        "title": "Synergistic inhibition of gastric cancer cell proliferation by concanavalin A and silibinin via attenuation of the JAK/STAT3 signaling pathway and molecular docking analysis.",
+        "abstract": "In the current period of pharmaceutical discovery, herbal remedies have shown to be an unmatched supply of anticancer medications. Plants and their derivatives, through analogues, play a vital role in cancer treatment.",
+        "year": "2025"
+      },
+      {
+        "pmid": "40152010",
+        "title": "Synergistic Anticancer Effects of Silibinin and Sulforaphane: Targeting Gastric Cancer via PI3K/AKT and ERK1/2 MAPK Pathway Inhibition and Molecular Docking Insights.",
+        "abstract": "In the current period of pharmaceutical discovery, herbal remedies have shown to be an unmatched supply of anticancer medications. By changing the tumor microenvironment and several signaling pathways, plants and their byproducts through analogs have an important part in the therapy for carcinoma. The current investigation assessed the effectiveness of inhibiting the development of gastric cancer cells in HGC-27 cells by attenuating the PI3K/AKT and ERK 1/2 MAPK signaling pathways using the natural medicines silibinin (SIL) and sulforaphane (SFN) complemented by molecular docking analysis. After being exposed to various doses of SIL and SFN (SIL+SFN) for 24 h (0-50 µM), the cells were evaluated for multiple studies. The MTT assay was used to examine the combo that SIL+SFN induced cytotoxicity. ROS was assessed by DCFH-DA staining. Apoptotic changes were investigated, and MMP levels in HGC-27 cells were investigated utilizing the proper fluorescent staining techniques. Flow cytometry and western blot analysis were used to evaluate the protein profiles of cell survival, cell cycle, proliferation, and apoptosis. The molecular docking was conducted with Autodock Vina (v1.5.6). The docking results were analyzed using BIOVIA Discovery Studio Visualizer to identify key interactions. The relative cytotoxicity of SIL and SFN was found to be approximately 24.96 and 28.79 μM, correspondingly, according to the findings. After a 24-h incubation period, the combination of SIL and SFN generates significant cytotoxicity in HGC-27 cells, with an IC",
+        "year": "2025"
+      },
+      {
+        "pmid": "39161996",
+        "title": "Antiparasitic Effects of Niosomal Formulations of Curcumin and Silymarin Against ",
+        "abstract": "",
+        "year": "2025"
+      }
+    ],
+    "interaction_percentage": 7.7,
+    "adverse_percentage": 5.9,
+    "rct_percentage": 9.9
+  },
+  {
+    "name": "Зеленый чай",
+    "search_terms": [
+      "green tea",
+      "camellia sinensis",
+      "EGCG"
+    ],
+    "general": {
+      "count": 21233,
+      "query": "(green tea OR camellia sinensis OR EGCG) AND humans[MeSH]"
+    },
+    "interactions": {
+      "count": 515,
+      "query": "(green tea OR camellia sinensis OR EGCG) AND (drug interactions[MeSH] OR herb-drug interactions[tw]) AND humans[MeSH]"
+    },
+    "adverse_effects": {
+      "count": 516,
+      "query": "(green tea OR camellia sinensis OR EGCG) AND (adverse effects[MeSH] OR side effects[tw]) AND humans[MeSH]"
+    },
+    "clinical_trials": {
+      "count": 1682,
+      "query": "(green tea OR camellia sinensis OR EGCG) AND (randomized controlled trial[pt] OR clinical trial[pt]) AND humans[MeSH]"
+    },
+    "sample_interactions": [
+      {
+        "pmid": "40159330",
+        "title": "Microbial evaluation of Melaleuca alternifolia essential oil for its antifungal activity against Trichophyton violaceum and its synergistic effects with ITZ and KTZ.",
+        "abstract": "This study was designed to evaluate the effects of Melaleuca alternifolia essential oil for its antifungal activity as mono-therapeutic agent, and in combination with current antifungal agents, like itraconazole and ketoconazole. To assess the significance of TTO (Tea Tree Oil), ITZ (Itraconazole) and KTZ (Ketoconazole), for in vitro susceptibility pattern of dermatophyte, which was obtained from the cases of clinically examined dermatophytosis, attending the dermatology outpatient department of Sheikh Zayed Hospital. The tea tree essential oil was extracted through steam distillation method using 500 g of fresh Melaleuca alternifolia leaves from Lawrence Garden and obtained the yield of 3 mL that comes to be 0.6%. Trichophyton violaceum grown on SDA Sabouraud dextrose agar ager plates for 48 h were tested for fungicidal activity using equal quantity of TTO employing well method technique. In a comparative study assessing the minimum fungicidal concentration (MFC) of ITZ and KTZ, the MFC of KTZ was found to be greater than the MFC of ITZ because the solution of same concentration produced lesser inhibition zones in case of ITZ as compared to KTZ. In another study to ascertain the synergistic effects of TTO with ITZ, it was established that TTO significantly potentiated the effect of azoles in combination therapy reducing the MFC of ITZ up to 8 folds from 4 to 0.07 ug/mL. In yet another study to cross check the synergistic effects of TTO with KTZ in combination therapy. It was positively found that TTO potentiated the fungicidal activity of KTZ, reducing the MFC of KTZ up to 8 folds from 0.25 to 0.03 μg/mL. Comparing the synergistic effects of TTO with ITZ and TTO with KTZ in combination therapies the inhibition zones produced by TTO with KTZ are found to be prominently biggest. Hence Synergy of TTO with KTZ is most proficient because it reduces the MFC of azole maximally while potentiating the fungicidal activity of KTZ.",
+        "year": "2025"
+      },
+      {
+        "pmid": "40080195",
+        "title": "Synergistic Antimicrobial Effects of Melaleuca alternifolia Essential Oil and Kojic Acid Combinations.",
+        "abstract": "Melaleuca alternifolia (tea tree) essential oil (TTO) is widely recognized for its anti-inflammatory and antimicrobial properties, attributed primarily to its major constituent, terpinen-4-ol. Kojic acid, a well-established compound used mainly in cosmetic formulations, exhibits potent antioxidant and broad-spectrum antimicrobial activities. In this study, the antimicrobial potential of commercial Pharmacopoeia-grade TTO was evaluated with kojic acid and terpinen-4-ol combinations. The quality of TTO was confirmed through GC-FID and GC/MS analyses, where terpinen-4-ol was the major component (44.4%). In vitro antimicrobial assays were performed against human pathogens including Candida utilis, Candida albicans, Candida krusei, Candida tropicalis, Candida parapsilosis, Escherichia coli, and Salmonella Typhimurium. Notably, all tested samples demonstrated activity against S. Typhimurium. Kojic acid combined with TTO showed a synergistic effect, with a fractional inhibitory concentration index (FICI) of 0.266, while the combination of kojic acid and terpinen-4-ol showed an even stronger synergistic effect (FICI: 0.039). The combination of TTO and terpinen-4-ol produced an additive effect (FICI: 0.508). To the best of our knowledge, this study is the first to demonstrate the combined effectiveness of TTO and kojic acid against S. Typhimurium. The synergistic activity observed with the combination of terpinen-4-ol and kojic acid highlights its potential as an antimicrobial for a therapeutic strategy, after safety evaluations.",
+        "year": "2025"
+      },
+      {
+        "pmid": "39793412",
+        "title": "[Origanum vulgare and hemorrhagic risk, about a case].",
+        "abstract": "The use of medicinal plants in Algeria is an ancestral practice that remains relevant today. The population relies on plants to treat various diseases and everyday ailments, which can be dangerous, especially when taking medication [1,2]. The interaction between plants and medication can lead to a modification of the plasma concentrations of the latter, which can impact its therapeutic effectiveness and be responsible for toxicity or therapeutic failure [1,2]. The interaction can also be pharmacodynamic, resulting in the potentiation of the effect or its antagonism. The risk is even higher when the medication has a narrow therapeutic range or presents high inter- or intra-individual variability, such as with vitamin K antagonist anticoagulants.",
+        "year": "2025"
+      }
+    ],
+    "interaction_percentage": 2.4,
+    "adverse_percentage": 2.4,
+    "rct_percentage": 7.9
+  },
+  {
+    "name": "Пальметто",
+    "search_terms": [
+      "saw palmetto",
+      "serenoa repens"
+    ],
+    "general": {
+      "count": 505,
+      "query": "(saw palmetto OR serenoa repens) AND humans[MeSH]"
+    },
+    "interactions": {
+      "count": 36,
+      "query": "(saw palmetto OR serenoa repens) AND (drug interactions[MeSH] OR herb-drug interactions[tw]) AND humans[MeSH]"
+    },
+    "adverse_effects": {
+      "count": 47,
+      "query": "(saw palmetto OR serenoa repens) AND (adverse effects[MeSH] OR side effects[tw]) AND humans[MeSH]"
+    },
+    "clinical_trials": {
+      "count": 111,
+      "query": "(saw palmetto OR serenoa repens) AND (randomized controlled trial[pt] OR clinical trial[pt]) AND humans[MeSH]"
+    },
+    "sample_interactions": [
+      {
+        "pmid": "39683791",
+        "title": "Synergism of Specific Maca Phenotypes (",
+        "abstract": "Selected phenotypes of dried maca (",
+        "year": "2024"
+      },
+      {
+        "pmid": "32719085",
+        "title": "Application of Cryopreserved Human Intestinal Mucosa and Cryopreserved Human Enterocytes in the Evaluation of Herb-Drug Interactions: Evaluation of CYP3A Inhibitory Potential of Grapefruit Juice and Commercial Formulations of Twenty-Nine Herbal Supplements.",
+        "abstract": "Commercial formulations of 29 commonly used herbal supplements (HSs) and grapefruit juice were evaluated for drug interaction potential via quantification of their CYP3A inhibitory potential in two in vitro experimental models of human small intestine, cryopreserved human intestinal mucosa (CHIM), and cryopreserved human enterocytes (CHEs). Two CYP3A substrates were used-in the studies with CHIM, CYP3A activity was quantified via liquid chromatography tandem mass spectrometry quantification of midazolam 1'-hydroxylation, whereas in CHE, luciferin-IPA metabolism to luciferin was quantified by luminescence. Upon treatment of CHIM with the estimated lumen concentration of the HS upon each oral administration (manufacturers' recommended dosage dissolved in 200 ml of culture medium), >80% CYP3A inhibition was observed for green tea extract, St. John's wort, valerian root, horehound, and grapefruit juice. Less than 50% inhibition was observed for fenugreek, aloe vera, guarana, soy isoflavone, maca, echinacea, spirulina, evening primrose, milk thistle, cranberry, red yeast rice, rhodiola, ginkgo biloba, turmeric, curcumin, white kidney bean, garlic, cinnamon, saw palmetto berries, panax ginseng, black elderberry, wheat grass juice, flaxseed oil, black cohosh, and ginger root. The results were confirmed in a a dose-response study with HSs obtained from three suppliers for the four inhibitory HSs (green tea extract, horehound, St. John's wort, valerian root) and three representative noninhibitory HSs (black cohosh, black elderberry, echinacea). Similar results were obtained with the inhibitory HSs in CHE. The results illustrate that CHIM and CHE represent physiologically relevant in vitro experimental models for the evaluation of drug interaction potential of herbal supplements. Based on the results, green tea extract, horehound, St. John's wort, and valerian root may cause drug interactions with orally administered drugs that are CYP3A substrates, as was observed for grapefruit juice. SIGNIFICANCE STATEMENT: In vitro evaluation of 29 popular herbal supplements in cryopreserved human intestinal mucosa identified green tea extract, horehound, St. John's wort, and valerian root to have CYP3A inhibitory potential similar to that for grapefruit juice, suggesting their potential to have clinically significant pharmacokinetic interaction with orally administered drugs that are CYP3A substrates. The results suggest that cryopreserved human intestinal mucosa can be used for in vitro evaluation of drug interactions involving enteric drug metabolism.",
+        "year": "2020"
+      },
+      {
+        "pmid": "29196903",
+        "title": "Concurrent Use of Prescription Drugs and Herbal Medicinal Products in Older Adults: A Systematic Review.",
+        "abstract": "The use of herbal medicinal products (HMPs) is common among older adults; however, little is known about concurrent use with prescription drugs, as well as potential interactions associated with such combinations.",
+        "year": "2017"
+      }
+    ],
+    "interaction_percentage": 7.1,
+    "adverse_percentage": 9.3,
+    "rct_percentage": 22.0
+  },
+  {
+    "name": "Ашвагандха",
+    "search_terms": [
+      "ashwagandha",
+      "withania somnifera"
+    ],
+    "general": {
+      "count": 659,
+      "query": "(ashwagandha OR withania somnifera) AND humans[MeSH]"
+    },
+    "interactions": {
+      "count": 23,
+      "query": "(ashwagandha OR withania somnifera) AND (drug interactions[MeSH] OR herb-drug interactions[tw]) AND humans[MeSH]"
+    },
+    "adverse_effects": {
+      "count": 50,
+      "query": "(ashwagandha OR withania somnifera) AND (adverse effects[MeSH] OR side effects[tw]) AND humans[MeSH]"
+    },
+    "clinical_trials": {
+      "count": 55,
+      "query": "(ashwagandha OR withania somnifera) AND (randomized controlled trial[pt] OR clinical trial[pt]) AND humans[MeSH]"
+    },
+    "sample_interactions": [
+      {
+        "pmid": "40156391",
+        "title": "The Synergistic and Anticancer Potential of Withania Somnifera (Ashwagandha) Ethanol Extract as an Adjuvant with Doxorubicin in MCF7 Breast Cancer Cell Line.",
+        "abstract": "Recent approaches in breast cancer treatment involve exploring natural extracts either as substitutes for traditional chemotherapeutic agents or as adjuvants to enhance their effectiveness. In this context, ethanolic extracts from Withania Somnifera (WS) and Arctium Lappa (AL) have gained attention for their potential anticancer properties across various cancer types.",
+        "year": "2025"
+      },
+      {
+        "pmid": "40023576",
+        "title": "Evaluation of reversible cytochrome P450 inhibition by Withania somnifera leaf and root extracts.",
+        "abstract": "It is important to understand the potential of botanical-drug interactions to ensure the safe use of botanical dietary supplements (BDS). Cytochrome P450 (P450) is one of the most abundant phase 1 drug-metabolizing enzymes and is accountable for a great deal of pharmacokinetic botanical-drug interactions. This problem is particularly acute for older adults who often consume BDS with multiple prescription medicines. The consequences of botanical-drug interactions can lead to lack of prodrug efficacy or drug toxicity from reduced drug clearance through inhibition of P450 metabolizing enzymes. In this study, a 7-in-1 cocktail P450 inhibition assay with 7 Food and Drug Administration-recommended P450s (CYP1A2, CYP2A6, CYP2C8, CYP2C9, CYP2D6, and CYP3A4/5) including CYP2B6 recombinant enzyme was performed, minimizing substrate interactions with respect to specificity while maximizing assay sensitivity. High-performance liquid chromatography-mass spectrometry was used for quantitative determination of probe substrate metabolism. Withania somnifera L. Dunal (ashwagandha), a popular BDS in the United States with sales of ∼$16 million in 2021, is used to promote sleep and relieve stress and anxiety, especially in older adults. However, comprehensive studies of pharmacokinetic drug interactions with ashwagandha, especially with leaf extracts, have not been reported. Four extracts from ashwagandha root or leaf were evaluated for P450 inhibition, and no reversible inhibition was detected at IC",
+        "year": "2025"
+      },
+      {
+        "pmid": "39304112",
+        "title": "Botanical-induced toxicity: Liver injury and botanical-drug interactions. A report on a society of Toxicology Annual Meeting symposium.",
+        "abstract": "Botanical supplements and herbal products are widely used by consumers for various purported health benefits, and their popularity is increasing. Some of these natural products can have adverse effects on liver function and/or interact with prescription and over-the-counter (OTC) medications. Ensuring the safety of these readily available products is a crucial public health concern; however, not all regulatory authorities require premarket safety review and/or testing. To address and discuss these and other emerging needs related to botanical safety, a symposium was held at the Society of Toxicology Annual Meeting in Salt Lake City (UT) on March 11, 2024. The symposium addressed the latest research on botanical-induced liver toxicity and botanical-drug interactions, including new approach methods to screen for toxicity, challenges in assessing the safety of botanicals, and relating human adverse events to specific products. The presentations and robust panel discussion between the speakers and audience highlighted the need for further research and collaboration to improve the safety of botanical supplements and herbal products, with the ultimate goal of protecting consumer health. Although utility of many of the modern tools presented in the symposium requires further study, the synergistic efforts of diverse experts hold promise for effective prediction and evaluation of botanical-induced hepatotoxicity and botanical-drug interaction potential.",
+        "year": "2024"
+      }
+    ],
+    "interaction_percentage": 3.5,
+    "adverse_percentage": 7.6,
+    "rct_percentage": 8.3
+  },
+  {
+    "name": "Валериана",
+    "search_terms": [
+      "valerian",
+      "valeriana officinalis"
+    ],
+    "general": {
+      "count": 661,
+      "query": "(valerian OR valeriana officinalis) AND humans[MeSH]"
+    },
+    "interactions": {
+      "count": 61,
+      "query": "(valerian OR valeriana officinalis) AND (drug interactions[MeSH] OR herb-drug interactions[tw]) AND humans[MeSH]"
+    },
+    "adverse_effects": {
+      "count": 56,
+      "query": "(valerian OR valeriana officinalis) AND (adverse effects[MeSH] OR side effects[tw]) AND humans[MeSH]"
+    },
+    "clinical_trials": {
+      "count": 83,
+      "query": "(valerian OR valeriana officinalis) AND (randomized controlled trial[pt] OR clinical trial[pt]) AND humans[MeSH]"
+    },
+    "sample_interactions": [
+      {
+        "pmid": "39013429",
+        "title": "Evaluation of the Effects of Extracts Containing Valeriana officinalis and Piper methysticum on the Activities of Cytochrome P450 3A and P-Glycoprotein.",
+        "abstract": "This work investigated interactions ascribed to the administration of phytomedicines containing ",
+        "year": "2024"
+      },
+      {
+        "pmid": "37623137",
+        "title": "Safety Concerns Related to the Simultaneous Use of Prescription or Over-the-Counter Medications and Herbal Medicinal Products: Survey Results among Latvian Citizens.",
+        "abstract": "The use of herbal medicines is increasing worldwide. While the safety profile of many herbal medicines is promising, the data in the literature show important interactions with conventional drugs that can expose individual patients to high risk. The aim of this study was to investigate the experience of the use of herbal medicines and preparations and the risks of interactions between herbal and conventional medicines among Latvian citizens. Data were collected between 2019 and 2021 using a structured questionnaire designed for pharmacy customers in Latvia. Electronic databases such as Drugs.com, Medscape, and European Union herbal monographs were reviewed for the risk of drug interactions and potential side effects when herbal medicines were involved. The survey included 504 respondents. Of all the participants, 77.8% used herbal preparations. Most of the participants interviewed used herbal remedies based on the recommendation of the pharmacist or their own initiative. A total of 38.3% found the use of herbal remedies safe and harmless, while 57.3% of respondents regarded the combination of herbal and regular drugs as unsafe. The identified herbal medicines implicated in the potential risk of serious interactions were grapefruit, St. John's wort, and valerian. As the risks of herb-drug interactions were identified among the respondents, in the future, both pharmacy customers and healthcare specialists should pay more attention to possible herb-drug interactions of over-the-counter and prescription medications.",
+        "year": "2023"
+      },
+      {
+        "pmid": "34370637",
+        "title": "Herb-drug Interactions in Neuropsychiatric Pharmacotherapy - A Review of Clinically Relevant Findings.",
+        "abstract": "The management of neuropsychiatric disorders relies heavily on pharmacotherapy. The use of herbal products as complimentary medicine, often concomitantly, is common among patients taking prescription neuropsychiatric drugs. Herb-drug interaction, a clinical consequence of this practice, may jeopardize the success of pharmacotherapy in neuropsychiatry. Besides the wellknown ability of phytochemicals to inhibit and/or induce drug-metabolizing enzymes and transport proteins, several phytoconstituents are capable of exerting pharmacological effects on the central nervous system. This study reviewed the relevant literature and identified 13 commonly used herbal products - celery, echinacea, ginkgo, ginseng, hydroxycut, kava, kratom, moringa, piperine, rhodiola, St. John's wort, terminalia/commiphora ayurvedic mixture and valerian - which have shown clinically relevant interactions with prescription drugs used in the management of neuropsychiatric disorders. The consequent pharmacokinetic and pharmacodynamic interactions with orthodox medications often result in deleterious clinical consequences. This underscores the importance of caution in herb-drug co-medication.",
+        "year": "2022"
+      }
+    ],
+    "interaction_percentage": 9.2,
+    "adverse_percentage": 8.5,
+    "rct_percentage": 12.6
+  },
+  {
+    "name": "Имбирь",
+    "search_terms": [
+      "ginger",
+      "zingiber officinale"
+    ],
+    "general": {
+      "count": 2431,
+      "query": "(ginger OR zingiber officinale) AND humans[MeSH]"
+    },
+    "interactions": {
+      "count": 105,
+      "query": "(ginger OR zingiber officinale) AND (drug interactions[MeSH] OR herb-drug interactions[tw]) AND humans[MeSH]"
+    },
+    "adverse_effects": {
+      "count": 189,
+      "query": "(ginger OR zingiber officinale) AND (adverse effects[MeSH] OR side effects[tw]) AND humans[MeSH]"
+    },
+    "clinical_trials": {
+      "count": 326,
+      "query": "(ginger OR zingiber officinale) AND (randomized controlled trial[pt] OR clinical trial[pt]) AND humans[MeSH]"
+    },
+    "sample_interactions": [
+      {
+        "pmid": "40278989",
+        "title": "MLN0905, a new inhibitor of Polo-like kinase 1 (PLK1), enhances the efficiency of lenalidomide in promoting the apoptosis of multiple myeloma cell lines.",
+        "abstract": "Multiple myeloma (MM) is a prevalent bone marrow cancer that often presents challenges due to treatment resistance. This study assessed the apoptotic and antiproliferative effects of the Polo-like kinase 1 inhibitor MLN0905, alone and in combination with lenalidomide, in an MM cell line. The AMO1 human MM cell line was treated with various doses of lenalidomide, MLN0905, or their combination. Cell viability was assessed via the MTT assay, and apoptosis was quantified via Annexin V/propidium iodide staining. The effects of treatment on BCL2, p21, and PUMA gene expression were evaluated through quantitative real-time polymerase chain reaction. The IC50 values were 50.61 μM for lenalidomide and 54.27 nM for MLN0905, indicating dose-dependent cytotoxic effects. When 30 μM lenalidomide was combined with 50 nM MLN0905, the percentage of apoptotic cells increased to 51.31%. The SynergyFinder platform identified optimal synergy at 40 μM lenalidomide plus 50 nM MLN0905. MLN0905 significantly reduced p21, PUMA, and BCL2 mRNA levels, whereas lenalidomide increased p21 and PUMA mRNA expression and decreased BCL2 expression. The combination treatment notably increased p21 expression and significantly reduced BCL2 levels, with no marked change in PUMA mRNA. This study revealed that MLN0905 significantly affects AMO1 cell survival, reducing the mRNA expression of genes involved in apoptosis and the cell cycle in a dose-dependent manner. Furthermore, the combination of lenalidomide and MLN0905 synergistically decreases cell survival and induces apoptosis in AMO1 cells. The altered expression of apoptotic genes highlights the potential of this drug combination for future multiple myeloma research.",
+        "year": "2025"
+      },
+      {
+        "pmid": "39861845",
+        "title": "Plant Compounds Inhibit the Growth of W12 Cervical Precancer Cells Containing Episomal or Integrant HPV DNA; Tanshinone IIA Synergizes with Curcumin in Cervical Cancer Cells.",
+        "abstract": "This study explores the effects of plant compounds on human papillomavirus (HPV)-induced W12 cervical precancer cells and bioelectric signaling. The aim is to identify effective phytochemicals, both individually and in combination, that can prevent and treat HPV infection and HPV associated cervical cancer. Phytochemicals were tested using growth inhibition, combination, gene expression, RT PCR, and molecular docking assays. W12 cells, derived from a cervical precancerous lesion, contain either episomal or integrated HPV16 DNA. Several compounds, including digoxin, tanshinone IIA, dihydromethysticin and carrageenan, as well as fractions of turmeric, ginger and pomegranate inhibited the growth of W12 precancer and cervical cancer cells. Curcumin and tanshinone IIA were the most active and relatively nontoxic compounds. RT-PCR analysis showed that tanshinone IIA activated the expression of p53, while repressing the expression of HPV16 E1, E2, E4, E6, and E7 viral transcripts in W12 (type 1 and 2) integrant cells. In addition, curcumin synergized with tanshinone IIA in HeLa cells. Molecular docking studies suggested tanshinone IIA and curcumin bind to the Na",
+        "year": "2024"
+      },
+      {
+        "pmid": "39757635",
+        "title": "Tacrolimus, Cytochrome P450, Interactions with Food Variables in Organ Transplant Recipients; A Current and Comprehensive Review.",
+        "abstract": "The well-established calcineurin inhibitor, tacrolimus, as an immunosuppressive agent, is widely prescribed after organ transplantation. Cytochrome P450 (CYP 450) isoforms are responsible for the metabolism of many features associated with food parameters like phytochemicals, juices, and fruits. This review article summarizes the findings of previous studies to help predict the efficacy or side effects of tacrolimus in the presence of food variables. From the commencement of databases associated with the topic of interest to 26 October 2024, all relevant articles were searched through PubMed, Scopus, and Web of Science. The suggested therapeutic range for tacrolimus trough concentration (C",
+        "year": "2025"
+      }
+    ],
+    "interaction_percentage": 4.3,
+    "adverse_percentage": 7.8,
+    "rct_percentage": 13.4
+  },
+  {
+    "name": "Алоэ",
+    "search_terms": [
+      "aloe vera",
+      "aloe barbadensis"
+    ],
+    "general": {
+      "count": 1924,
+      "query": "(aloe vera OR aloe barbadensis) AND humans[MeSH]"
+    },
+    "interactions": {
+      "count": 38,
+      "query": "(aloe vera OR aloe barbadensis) AND (drug interactions[MeSH] OR herb-drug interactions[tw]) AND humans[MeSH]"
+    },
+    "adverse_effects": {
+      "count": 118,
+      "query": "(aloe vera OR aloe barbadensis) AND (adverse effects[MeSH] OR side effects[tw]) AND humans[MeSH]"
+    },
+    "clinical_trials": {
+      "count": 191,
+      "query": "(aloe vera OR aloe barbadensis) AND (randomized controlled trial[pt] OR clinical trial[pt]) AND humans[MeSH]"
+    },
+    "sample_interactions": [
+      {
+        "pmid": "39963418",
+        "title": "Functionalized Carbon Dots With Intrinsic Wnt/",
+        "abstract": "5-fluorouracil (5-FU) is the most widely used anti-pyrimidine drug that exerts its cytotoxic effect by causing DNA damage. The Wnt/",
+        "year": "2025"
+      },
+      {
+        "pmid": "39346899",
+        "title": "Combination of aloe emodin, emodin, and rhein from Aloe with EDTA sensitizes the resistant ",
+        "abstract": "The continuous emergence and spread of polymyxin-resistant ",
+        "year": "2024"
+      },
+      {
+        "pmid": "38928095",
+        "title": "Cardiovascular Effects of Herbal Products and Their Interaction with Antihypertensive Drugs-Comprehensive Review.",
+        "abstract": "Hypertension is a highly prevalent population-level disease that represents an important risk factor for several cardiovascular complications and occupies a leading position in mortality statistics. Antihypertensive therapy includes a wide variety of drugs. Additionally, the potential antihypertensive and cardioprotective effects of several phytotherapy products have been evaluated, as these could also be a valuable therapeutic option for the prevention, improvement or treatment of hypertension and its complications. The present review includes an evaluation of the cardioprotective and antihypertensive effects of garlic, Aloe vera, green tea, Ginkgo biloba, berberine, ginseng, Nigella sativa, Apium graveolens, thyme, cinnamon and ginger, and their possible interactions with antihypertensive drugs. A literature search was undertaken via the PubMed, Google Scholar, Embase and Cochrane databases. Research articles, systematic reviews and meta-analyses published between 2010 and 2023, in the English, Hungarian, and Romanian languages were selected.",
+        "year": "2024"
+      }
+    ],
+    "interaction_percentage": 2.0,
+    "adverse_percentage": 6.1,
+    "rct_percentage": 9.9
+  },
+  {
+    "name": "Женьшень сибирский",
+    "search_terms": [
+      "eleuthero",
+      "eleutherococcus"
+    ],
+    "general": {
+      "count": 308,
+      "query": "(eleuthero OR eleutherococcus) AND humans[MeSH]"
+    },
+    "interactions": {
+      "count": 12,
+      "query": "(eleuthero OR eleutherococcus) AND (drug interactions[MeSH] OR herb-drug interactions[tw]) AND humans[MeSH]"
+    },
+    "adverse_effects": {
+      "count": 14,
+      "query": "(eleuthero OR eleutherococcus) AND (adverse effects[MeSH] OR side effects[tw]) AND humans[MeSH]"
+    },
+    "clinical_trials": {
+      "count": 40,
+      "query": "(eleuthero OR eleutherococcus) AND (randomized controlled trial[pt] OR clinical trial[pt]) AND humans[MeSH]"
+    },
+    "sample_interactions": [
+      {
+        "pmid": "27400473",
+        "title": "Extrusion process of Acanthopanax senticosus leaves enhances the gastroprotective effect of compound 48/80 on acute gastric mucosal lesion in rats.",
+        "abstract": "To investigate the gastroprotective effects of Acanthopanax senticosus leaves (ASLs) extrusion on acute gastric mucosal lesion in rats induced by compound 48/80 (C48/80).",
+        "year": "2016"
+      },
+      {
+        "pmid": "26626238",
+        "title": "Development of a highly reproducible system to evaluate inhibition of cytochrome P450 3A4 activity by natural medicines.",
+        "abstract": "In recent years, a number of natural medicines have been reported to have inductive or inhibitive effects on the activity of drug metabolizing enzymes, upon co-administration with prescribed medicines. However, information regarding natural medicine-drug interactions that influence drug metabolism is limited owing to the lack of efficient screening method for such interactions. Therefore, to understand whether P450 activity is affected by natural medicine in small intestines, we have established frozen recombinant P450-expressing cells infected with human CYP3A4 expressing adenovirus (Ad-CYP3A4) to evaluate the effect of natural medicines on CYP3A4 activity.",
+        "year": "2015"
+      },
+      {
+        "pmid": "26407940",
+        "title": "Synergy assessment of fixed combinations of Herba Andrographidis and Radix Eleutherococci extracts by transcriptome-wide microarray profiling.",
+        "abstract": "Generally accepted, but insufficiently proved, the concept of synergy is based on an assumption that combining of two biologically active substances is justified because the combination is more active and less harmful than the ingredients.",
+        "year": "2015"
+      }
+    ],
+    "interaction_percentage": 3.9,
+    "adverse_percentage": 4.5,
+    "rct_percentage": 13.0
+  },
+  {
+    "name": "Клюква",
+    "search_terms": [
+      "cranberry",
+      "vaccinium macrocarpon"
+    ],
+    "general": {
+      "count": 1191,
+      "query": "(cranberry OR vaccinium macrocarpon) AND humans[MeSH]"
+    },
+    "interactions": {
+      "count": 78,
+      "query": "(cranberry OR vaccinium macrocarpon) AND (drug interactions[MeSH] OR herb-drug interactions[tw]) AND humans[MeSH]"
+    },
+    "adverse_effects": {
+      "count": 52,
+      "query": "(cranberry OR vaccinium macrocarpon) AND (adverse effects[MeSH] OR side effects[tw]) AND humans[MeSH]"
+    },
+    "clinical_trials": {
+      "count": 191,
+      "query": "(cranberry OR vaccinium macrocarpon) AND (randomized controlled trial[pt] OR clinical trial[pt]) AND humans[MeSH]"
+    },
+    "sample_interactions": [
+      {
+        "pmid": "40333065",
+        "title": "Synergistic Inhibition of ",
+        "abstract": "Vulvovaginal candidiasis (VVC) is a common gynecological condition primarily caused by ",
+        "year": "2025"
+      },
+      {
+        "pmid": "39757635",
+        "title": "Tacrolimus, Cytochrome P450, Interactions with Food Variables in Organ Transplant Recipients; A Current and Comprehensive Review.",
+        "abstract": "The well-established calcineurin inhibitor, tacrolimus, as an immunosuppressive agent, is widely prescribed after organ transplantation. Cytochrome P450 (CYP 450) isoforms are responsible for the metabolism of many features associated with food parameters like phytochemicals, juices, and fruits. This review article summarizes the findings of previous studies to help predict the efficacy or side effects of tacrolimus in the presence of food variables. From the commencement of databases associated with the topic of interest to 26 October 2024, all relevant articles were searched through PubMed, Scopus, and Web of Science. The suggested therapeutic range for tacrolimus trough concentration (C",
+        "year": "2025"
+      },
+      {
+        "pmid": "38334389",
+        "title": "Do dietary interventions exert clinically important effects on the bioavailability of β-lactam antibiotics? A systematic review with meta-analyses.",
+        "abstract": "Managing drug-food interactions may help to achieve the optimal action and safety profile of β-lactam antibiotics.",
+        "year": "2024"
+      }
+    ],
+    "interaction_percentage": 6.5,
+    "adverse_percentage": 4.4,
+    "rct_percentage": 16.0
+  }
+]

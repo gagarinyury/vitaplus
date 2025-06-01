@@ -1,0 +1,115 @@
+[0;34m🚀 Начинаем скачивание факт-листов ODS...[0m
+[0;34m📝 Будем проверять 50 ресурсов[0m
+[0;34m📁 Создание структуры папок...[0m
+[0;32m✅ Структура папок создана в: ods_fact_sheets[0m
+
+[0;34m📦 [1/50] Обрабатываем: VitaminA[0m
+[1;33m⏭️  Уже существует: VitaminA_Consumer_XML.xml[0m
+[1;33m⏭️  Уже существует: VitaminA_Consumer_HTML.html[0m
+[1;33m⏭️  Уже существует: VitaminA_HealthProfessional_XML.xml[0m
+[1;33m⏭️  Уже существует: VitaminA_HealthProfessional_HTML.html[0m
+[0;34m📥 Скачивание: VitaminA (Spanish, HTML)[0m
+[0;31m❌ Ошибка скачивания: VitaminA_Spanish_HTML.html[0m
+[0;34m🚀 Начинаем скачивание факт-листов ODS...[0m
+[0;34m📝 Будем проверять 50 ресурсов[0m
+[0;34m📁 Создание структуры папок...[0m
+[0;32m✅ Структура папок создана в: ods_fact_sheets[0m
+
+[0;34m📦 [1/50] Обрабатываем: VitaminA[0m
+[1;33m⏭️  Уже существует: VitaminA_Consumer_XML.xml[0m
+[1;33m⏭️  Уже существует: VitaminA_Consumer_HTML.html[0m
+[1;33m⏭️  Уже существует: VitaminA_HealthProfessional_XML.xml[0m
+[1;33m⏭️  Уже существует: VitaminA_HealthProfessional_HTML.html[0m
+
+[0;34m📦 [2/50] Обрабатываем: VitaminC[0m
+[0;34m📥 Скачивание: VitaminC (Consumer, XML)[0m
+[0;32m✅ Сохранен: VitaminC_Consumer_XML.xml (18.3KB)[0m
+[0;34m📥 Скачивание: VitaminC (Consumer, HTML)[0m
+[0;32m✅ Сохранен: VitaminC_Consumer_HTML.html (38.5KB)[0m
+[0;34m📥 Скачивание: VitaminC (HealthProfessional, XML)[0m
+[0;32m✅ Сохранен: VitaminC_HealthProfessional_XML.xml (74.4KB)[0m
+[0;34m📥 Скачивание: VitaminC (HealthProfessional, HTML)[0m
+[0;32m✅ Сохранен: VitaminC_HealthProfessional_HTML.html (86.3KB)[0m
+
+[0;34m📦 [3/50] Обрабатываем: VitaminD[0m
+[0;34m📥 Скачивание: VitaminD (Consumer, XML)[0m
+[0;32m✅ Сохранен: VitaminD_Consumer_XML.xml (20.4KB)[0m
+[0;34m📥 Скачивание: VitaminD (Consumer, HTML)[0m
+[0;32m✅ Сохранен: VitaminD_Consumer_HTML.html (38.6KB)[0m
+[0;34m📥 Скачивание: VitaminD (HealthProfessional, XML)[0m
+[0;32m✅ Сохранен: VitaminD_HealthProfessional_XML.xml (136.4KB)[0m
+[0;34m📥 Скачивание: VitaminD (HealthProfessional, HTML)[0m
+[0;32m✅ Сохранен: VitaminD_HealthProfessional_HTML.html (148.8KB)[0m
+
+[0;34m📦 [4/50] Обрабатываем: VitaminE[0m
+[0;34m📥 Скачивание: VitaminE (Consumer, XML)[0m
+[0;32m✅ Сохранен: VitaminE_Consumer_XML.xml (16.4KB)[0m
+[0;34m📥 Скачивание: VitaminE (Consumer, HTML)[0m
+[0;32m✅ Сохранен: VitaminE_Consumer_HTML.html (37.3KB)[0m
+[0;34m📥 Скачивание: VitaminE (HealthProfessional, XML)[0m
+[0;32m✅ Сохранен: VitaminE_HealthProfessional_XML.xml (61.7KB)[0m
+[0;34m📥 Скачивание: VitaminE (HealthProfessional, HTML)[0m
+[0;32m✅ Сохранен: VitaminE_HealthProfessional_HTML.html (65.7KB)[0m
+
+[0;34m📦 [5/50] Обрабатываем: VitaminK[0m
+[0;34m📥 Скачивание: VitaminK (Consumer, XML)[0m
+[0;32m✅ Сохранен: VitaminK_Consumer_XML.xml (13.1KB)[0m
+[0;34m📥 Скачивание: VitaminK (Consumer, HTML)[0m
+[0;32m✅ Сохранен: VitaminK_Consumer_HTML.html (23.5KB)[0m
+[0;34m📥 Скачивание: VitaminK (HealthProfessional, XML)[0m
+[0;32m✅ Сохранен: VitaminK_HealthProfessional_XML.xml (50.5KB)[0m
+[0;34m📥 Скачивание: VitaminK (HealthProfessional, HTML)[0m
+[0;32m✅ Сохранен: VitaminK_HealthProfessional_HTML.html (55.5KB)[0m
+
+[0;34m📦 [6/50] Обрабатываем: VitaminB6[0m
+[0;34m📥 Скачивание: VitaminB6 (Consumer, XML)[0m
+[0;32m✅ Сохранен: VitaminB6_Consumer_XML.xml (15.1KB)[0m
+[0;34m📥 Скачивание: VitaminB6 (Consumer, HTML)[0m
+[0;32m✅ Сохранен: VitaminB6_Consumer_HTML.html (31.4KB)[0m
+[0;34m📥 Скачивание: VitaminB6 (HealthProfessional, XML)[0m
+[0;32m✅ Сохранен: VitaminB6_HealthProfessional_XML.xml (47.8KB)[0m
+[0;34m📥 Скачивание: VitaminB6 (HealthProfessional, HTML)[0m
+[0;32m✅ Сохранен: VitaminB6_HealthProfessional_HTML.html (51.7KB)[0m
+
+[0;34m📦 [7/50] Обрабатываем: VitaminB12[0m
+[0;34m📥 Скачивание: VitaminB12 (Consumer, XML)[0m
+[0;32m✅ Сохранен: VitaminB12_Consumer_XML.xml (17.0KB)[0m
+[0;34m📥 Скачивание: VitaminB12 (Consumer, HTML)[0m
+[0;32m✅ Сохранен: VitaminB12_Consumer_HTML.html (34.4KB)[0m
+[0;34m📥 Скачивание: VitaminB12 (HealthProfessional, XML)[0m
+[0;32m✅ Сохранен: VitaminB12_HealthProfessional_XML.xml (69.0KB)[0m
+[0;34m📥 Скачивание: VitaminB12 (HealthProfessional, HTML)[0m
+[0;32m✅ Сохранен: VitaminB12_HealthProfessional_HTML.html (78.2KB)[0m
+
+[0;34m📦 [8/50] Обрабатываем: Folate[0m
+[0;34m📥 Скачивание: Folate (Consumer, XML)[0m
+[0;32m✅ Сохранен: Folate_Consumer_XML.xml (18.5KB)[0m
+[0;34m📥 Скачивание: Folate (Consumer, HTML)[0m
+[0;32m✅ Сохранен: Folate_Consumer_HTML.html (35.5KB)[0m
+[0;34m📥 Скачивание: Folate (HealthProfessional, XML)[0m
+[0;32m✅ Сохранен: Folate_HealthProfessional_XML.xml (114.3KB)[0m
+[0;34m📥 Скачивание: Folate (HealthProfessional, HTML)[0m
+[0;32m✅ Сохранен: Folate_HealthProfessional_HTML.html (129.2KB)[0m
+
+[0;34m📦 [9/50] Обрабатываем: Niacin[0m
+[0;34m📥 Скачивание: Niacin (Consumer, XML)[0m
+[0;32m✅ Сохранен: Niacin_Consumer_XML.xml (15.4KB)[0m
+[0;34m📥 Скачивание: Niacin (Consumer, HTML)[0m
+[0;32m✅ Сохранен: Niacin_Consumer_HTML.html (30.8KB)[0m
+[0;34m📥 Скачивание: Niacin (HealthProfessional, XML)[0m
+[0;32m✅ Сохранен: Niacin_HealthProfessional_XML.xml (54.0KB)[0m
+[0;34m📥 Скачивание: Niacin (HealthProfessional, HTML)[0m
+[0;32m✅ Сохранен: Niacin_HealthProfessional_HTML.html (57.3KB)[0m
+
+[0;34m📦 [10/50] Обрабатываем: Riboflavin[0m
+[0;34m📥 Скачивание: Riboflavin (Consumer, XML)[0m
+[0;32m✅ Сохранен: Riboflavin_Consumer_XML.xml (10.7KB)[0m
+[0;34m📥 Скачивание: Riboflavin (Consumer, HTML)[0m
+[0;32m✅ Сохранен: Riboflavin_Consumer_HTML.html (20.0KB)[0m
+[0;34m📥 Скачивание: Riboflavin (HealthProfessional, XML)[0m
+[0;32m✅ Сохранен: Riboflavin_HealthProfessional_XML.xml (43.9KB)[0m
+[0;34m📥 Скачивание: Riboflavin (HealthProfessional, HTML)[0m
+[0;32m✅ Сохранен: Riboflavin_HealthProfessional_HTML.html (47.9KB)[0m
+
+[0;34m📦 [11/50] Обрабатываем: Thiamin[0m
+[0;34m📥 Скачивание: Thiamin (Consumer, XML)[0m

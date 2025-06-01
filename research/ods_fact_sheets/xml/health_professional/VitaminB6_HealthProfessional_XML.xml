@@ -1,0 +1,433 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Factsheet xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/factsheet.xsd"><FSID>52</FSID><LanguageCode>en</LanguageCode><Reviewed>2023-06-16</Reviewed><URL>https://ods.od.nih.gov:443/factsheets/VitaminB6-HealthProfessional/</URL><Title>Vitamin B6</Title><ShortTitle /><Content>&lt;!-- docid = 52 --&gt;
+&lt;h2&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;Vitamin B6 is a water-soluble vitamin that is naturally present in many foods, added to others, and available as a dietary supplement. It is the generic name for six compounds (vitamers) with vitamin B6 activity: pyridoxine, an alcohol; pyridoxal, an aldehyde; and pyridoxamine, which contains an amino group; and their respective 5'-phosphate esters. Pyridoxal 5' phosphate (PLP) and pyridoxamine 5' phosphate (PMP) are the active coenzyme forms of vitamin B6 [1, 2]. Substantial proportions of the naturally occurring pyridoxine in fruits, vegetables, and grains exist in glycosylated forms that exhibit reduced bioavailability [3].&lt;/p&gt;
+
+&lt;p&gt;Vitamin B6 in coenzyme forms performs a wide variety of functions in the body and is extremely versatile, with involvement in more than 100 enzyme reactions, mostly concerned with protein metabolism [1]. Both PLP and PMP are involved in amino acid metabolism, and PLP is also involved in the metabolism of one-carbon units, carbohydrates, and lipids [3]. Vitamin B6 also plays a role in cognitive development through the biosynthesis of neurotransmitters and in maintaining normal levels of homocysteine, an amino acid in the blood [3]. Vitamin B6 is involved in gluconeogenesis and glycogenolysis, immune function (for example, it promotes lymphocyte and interleukin-2 production), and hemoglobin formation [3].&lt;/p&gt;
+
+&lt;p&gt;The human body absorbs vitamin B6 in the jejunum. Phosphorylated forms of the vitamin are dephosphorylated, and the pool of free vitamin B6 is absorbed by passive diffusion [2].&lt;/p&gt;
+
+&lt;p&gt;Vitamin B6 concentrations can be measured directly by assessing concentrations of PLP; other vitamers; or total vitamin B6 in plasma, erythrocytes, or urine [1]. Vitamin B6 concentrations can also be measured indirectly by assessing either erythrocyte aminotransferase saturation by PLP or tryptophan metabolites. Plasma PLP is the most common measure of vitamin B6 status.&lt;/p&gt;
+
+&lt;p&gt;PLP concentrations of more than 30 nmol/L have been traditional indicators of adequate vitamin B6 status in adults [3]. However, the Food and Nutrition Board (FNB) at the Institute of Medicine of the National Academies (formerly National Academy of Sciences) used a plasma PLP level of 20 nmol/L as the major indicator of adequacy to calculate the Recommended Dietary Allowances (RDAs) for adults [1, 3].&lt;/p&gt;
+
+&lt;h2&gt;Recommended Intakes&lt;/h2&gt;
+
+&lt;p&gt;Intake recommendations for vitamin B6 and other nutrients are provided in the Dietary Reference Intakes (DRIs) developed by the FNB [1]. DRI is the general term for a set of reference values used for planning and assessing nutrient intakes of healthy people. These values, which vary by age and gender, include the following:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Recommended Dietary Allowance (RDA): Average daily level of intake sufficient to meet the nutrient requirements of nearly all (97%&amp;ndash;98%) healthy individuals; often used to plan nutritionally adequate diets for individuals&lt;/li&gt;
+	&lt;li&gt;Adequate Intake (AI): Intake at this level is assumed to ensure nutritional adequacy; established when evidence is insufficient to develop an RDA&lt;/li&gt;
+	&lt;li&gt;Estimated Average Requirement (EAR): Average daily level of intake estimated to meet the requirements of 50% of healthy individuals; usually used to assess the nutrient intakes of groups of people and to plan nutritionally adequate diets for them; can also be used to assess the nutrient intakes of individuals&lt;/li&gt;
+	&lt;li&gt;Tolerable Upper Intake Level (UL): Maximum daily intake unlikely to cause adverse health effects.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Table 1 lists the current RDAs for vitamin B6 [1]. For infants from birth to 12 months, the FNB established an AI for vitamin B6 that is equivalent to the mean intake of vitamin B6 in healthy, breastfed infants.&lt;/p&gt;
+
+&lt;table border="1"&gt;
+	&lt;caption&gt;Table 1: Recommended Dietary Allowances (RDAs) for Vitamin B6 [1]&lt;/caption&gt;
+	&lt;thead&gt;
+		&lt;tr&gt;
+			&lt;th scope="col"&gt;Age&lt;/th&gt;
+			&lt;th scope="col"&gt;Male&lt;/th&gt;
+			&lt;th scope="col"&gt;Female&lt;/th&gt;
+			&lt;th scope="col"&gt;Pregnancy&lt;/th&gt;
+			&lt;th scope="col"&gt;Lactation&lt;/th&gt;
+		&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Birth to 6 months&lt;/td&gt;
+			&lt;td align="right"&gt;0.1 mg*&lt;/td&gt;
+			&lt;td align="right"&gt;0.1 mg*&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;7&amp;ndash;12 months&lt;/td&gt;
+			&lt;td align="right"&gt;0.3 mg*&lt;/td&gt;
+			&lt;td align="right"&gt;0.3 mg*&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;1&amp;ndash;3 years&lt;/td&gt;
+			&lt;td align="right"&gt;0.5 mg&lt;/td&gt;
+			&lt;td align="right"&gt;0.5 mg&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;4&amp;ndash;8 years&lt;/td&gt;
+			&lt;td align="right"&gt;0.6 mg&lt;/td&gt;
+			&lt;td align="right"&gt;0.6 mg&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;9&amp;ndash;13 years&lt;/td&gt;
+			&lt;td align="right"&gt;1.0 mg&lt;/td&gt;
+			&lt;td align="right"&gt;1.0 mg&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;14&amp;ndash;18 years&lt;/td&gt;
+			&lt;td align="right"&gt;1.3 mg&lt;/td&gt;
+			&lt;td align="right"&gt;1.2 mg&lt;/td&gt;
+			&lt;td align="right"&gt;1.9 mg&lt;/td&gt;
+			&lt;td align="right"&gt;2.0 mg&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;19&amp;ndash;50 years&lt;/td&gt;
+			&lt;td align="right"&gt;1.3 mg&lt;/td&gt;
+			&lt;td align="right"&gt;1.3 mg&lt;/td&gt;
+			&lt;td align="right"&gt;1.9 mg&lt;/td&gt;
+			&lt;td align="right"&gt;2.0 mg&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;51+ years&lt;/td&gt;
+			&lt;td align="right"&gt;1.7 mg&lt;/td&gt;
+			&lt;td align="right"&gt;1.5 mg&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p style="padding-top: 0px;"&gt;* Adequate Intake (AI)&lt;/p&gt;
+
+&lt;h2&gt;Sources of Vitamin B6&lt;/h2&gt;
+
+&lt;h3&gt;Food&lt;/h3&gt;
+
+&lt;p&gt;Vitamin B6 is found in a wide variety of foods [1, 3, 4]. The richest sources of vitamin B6 include fish, beef liver and other organ meats, potatoes and other starchy vegetables, and fruit (other than citrus). In the United States, adults obtain most of their dietary vitamin B6 from fortified cereals, beef, poultry, starchy vegetables, and some noncitrus fruits [1, 3, 5]. About 75% of vitamin B6 from a mixed diet is bioavailable [1].&lt;/p&gt;
+
+&lt;p&gt;The table of selected food sources of vitamin B6 suggests many dietary sources of vitamin B6.&lt;/p&gt;
+
+&lt;table border="1"&gt;
+	&lt;caption&gt;Table 2: Vitamin B6 Content of Selected Foods [4]&lt;/caption&gt;
+	&lt;thead&gt;
+		&lt;tr&gt;
+			&lt;th scope="col"&gt;Food&lt;/th&gt;
+			&lt;th scope="col"&gt;Milligrams (mg) per serving&lt;/th&gt;
+			&lt;th scope="col"&gt;Percent DV*&lt;/th&gt;
+		&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Chickpeas, canned, 1 cup&lt;/td&gt;
+			&lt;td align="right"&gt;1.1&lt;/td&gt;
+			&lt;td align="right"&gt;65&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Beef liver, pan fried, 3 ounces&lt;/td&gt;
+			&lt;td align="right"&gt;0.9&lt;/td&gt;
+			&lt;td align="right"&gt;53&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Tuna, yellowfin, fresh, cooked, 3 ounces&lt;/td&gt;
+			&lt;td align="right"&gt;0.9&lt;/td&gt;
+			&lt;td align="right"&gt;53&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Salmon, sockeye, cooked, 3 ounces&lt;/td&gt;
+			&lt;td align="right"&gt;0.6&lt;/td&gt;
+			&lt;td align="right"&gt;35&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Chicken breast, roasted, 3 ounces&lt;/td&gt;
+			&lt;td align="right"&gt;0.5&lt;/td&gt;
+			&lt;td align="right"&gt;29&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Breakfast cereals, fortified with 25% of the DV for vitamin B6&lt;/td&gt;
+			&lt;td align="right"&gt;0.4&lt;/td&gt;
+			&lt;td align="right"&gt;25&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Potatoes, boiled, 1 cup&lt;/td&gt;
+			&lt;td align="right"&gt;0.4&lt;/td&gt;
+			&lt;td align="right"&gt;25&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Turkey, meat only, roasted, 3 ounces&lt;/td&gt;
+			&lt;td align="right"&gt;0.4&lt;/td&gt;
+			&lt;td align="right"&gt;25&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Banana, 1 medium&lt;/td&gt;
+			&lt;td align="right"&gt;0.4&lt;/td&gt;
+			&lt;td align="right"&gt;25&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Marinara (spaghetti) sauce, ready to serve, 1 cup&lt;/td&gt;
+			&lt;td align="right"&gt;0.4&lt;/td&gt;
+			&lt;td align="right"&gt;25&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Ground beef, patty, 85% lean, broiled, 3 ounces&lt;/td&gt;
+			&lt;td align="right"&gt;0.3&lt;/td&gt;
+			&lt;td align="right"&gt;18&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Waffles, plain, ready to heat, toasted, 1&lt;/td&gt;
+			&lt;td align="right"&gt;0.3&lt;/td&gt;
+			&lt;td align="right"&gt;18&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Bulgur, cooked, 1 cup&lt;/td&gt;
+			&lt;td align="right"&gt;0.2&lt;/td&gt;
+			&lt;td align="right"&gt;12&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Cottage cheese, 1% low fat, 1 cup&lt;/td&gt;
+			&lt;td align="right"&gt;0.2&lt;/td&gt;
+			&lt;td align="right"&gt;12&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Squash, winter, baked, &amp;frac12; cup&lt;/td&gt;
+			&lt;td align="right"&gt;0.2&lt;/td&gt;
+			&lt;td align="right"&gt;12&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Rice, white, long grain, enriched, cooked, 1 cup&lt;/td&gt;
+			&lt;td align="right"&gt;0.1&lt;/td&gt;
+			&lt;td align="right"&gt;6&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Nuts, mixed, dry roasted, 1 ounce&lt;/td&gt;
+			&lt;td align="right"&gt;0.1&lt;/td&gt;
+			&lt;td align="right"&gt;6&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Raisins, seedless, &amp;frac12; cup&lt;/td&gt;
+			&lt;td align="right"&gt;0.1&lt;/td&gt;
+			&lt;td align="right"&gt;6&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Onions, chopped, &amp;frac12; cup&lt;/td&gt;
+			&lt;td align="right"&gt;0.1&lt;/td&gt;
+			&lt;td align="right"&gt;6&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Spinach, frozen, chopped, boiled, &amp;frac12; cup&lt;/td&gt;
+			&lt;td align="right"&gt;0.1&lt;/td&gt;
+			&lt;td align="right"&gt;6&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Tofu, raw, firm, prepared with calcium sulfate, &amp;frac12; cup&lt;/td&gt;
+			&lt;td align="right"&gt;0.1&lt;/td&gt;
+			&lt;td align="right"&gt;6&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Watermelon, raw, 1 cup&lt;/td&gt;
+			&lt;td align="right"&gt;0.1&lt;/td&gt;
+			&lt;td align="right"&gt;6&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p style="padding-top: 0px;"&gt;*DV = Daily Value. The U.S. Food and Drug Administration (FDA) developed DVs to help consumers compare the nutrient contents of foods and dietary supplements within the context of a total diet. The DV for vitamin B6 is 1.7 mg for adults and children age 4 years and older [6]. FDA does not require food labels to list vitamin B6 content unless vitamin B6 has been added to the food. Foods providing 20% or more of the DV are considered to be high sources of a nutrient, but foods providing lower percentages of the DV also contribute to a healthful diet.&lt;/p&gt;
+
+&lt;p&gt;The U.S. Department of Agriculture's (USDA's) &lt;a href="https://fdc.nal.usda.gov/" target="external"&gt;FoodData Central&lt;/a&gt;&lt;a href="https://ods.od.nih.gov:443/About/exit_disclaimer.aspx" title="External Website"&gt;&lt;img src="/images/Common/externallink.png"  height="12" width="12"  alt="external link disclaimer" class="externallink" /&gt;&lt;/a&gt; lists the nutrient content of many foods and provides a comprehensive list of foods containing vitamin B6 arranged by &lt;a href="https://ods.od.nih.gov:443/pubs/usdandb/VitaminB6-Content.pdf"&gt;nutrient content&lt;/a&gt; and by &lt;a href="https://ods.od.nih.gov:443/pubs/usdandb/VitaminB6-Food.pdf"&gt;food name&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;Dietary supplements&lt;/h3&gt;
+
+&lt;p&gt;Vitamin B6 is available in multivitamins, in supplements containing other B complex vitamins, and as a stand-alone supplement [7]. The most common vitamin B6 vitamer in supplements is pyridoxine (in the form of pyridoxine hydrochloride [HCl]), although some supplements contain PLP. Vitamin B6 supplements are available in oral capsules or tablets (including sublingual and chewable tablets) and liquids. Absorption of vitamin B6 from supplements is similar to that from food sources and does not differ substantially among the various forms of supplements [1]. Although the body absorbs large pharmacological doses of vitamin B6 well, it quickly eliminates most of the vitamin in the urine [8].&lt;/p&gt;
+
+&lt;p&gt;About 28%&amp;ndash;36% of the general population uses supplements containing vitamin B6 [9,10]. Adults age 51 years or older and children younger than 9 are more likely than members of other age groups to take supplements containing vitamin B6.&lt;/p&gt;
+
+&lt;h2&gt;Vitamin B6 Intakes and Status&lt;/h2&gt;
+
+&lt;p&gt;Most children, adolescents, and adults in the United States consume the recommended amounts of vitamin B6, according to an analysis of data from the 2003&amp;ndash;2004 National Health and Nutrition Examination Survey (NHANES) [10]. The average vitamin B6 intake is about 1.5 mg/day in women and 2 mg/day in men [1].&lt;/p&gt;
+
+&lt;p&gt;However, 11% of vitamin B6 supplement users and 24% of people in the United States who do not take supplements containing vitamin B6 have low plasma PLP concentrations (less than 20 nmol/L) [10]. In the 2003&amp;ndash;2004 NHANES analysis, plasma PLP concentrations were low even in some groups that took 2.0&amp;ndash;2.9 mg/day, which is higher than the current RDA. Among supplement users and nonusers, plasma PLP levels were much lower in women than men, non-Hispanic blacks than non-Hispanic whites, current smokers than never smokers, and people who were underweight than those of normal weight. Teenagers had the lowest vitamin B6 concentrations, followed by adults age 21&amp;ndash;44 years. However, plasma PLP levels in the elderly were not particularly low, even in those who did not use supplements. Based on these data, the authors of this analysis concluded that the current RDAs might not guarantee adequate vitamin B6 status in many population groups [10].&lt;/p&gt;
+
+&lt;p&gt;PLP concentrations tend to be low in people with alcohol dependence; those with obesity; and pregnant women, especially those with preeclampsia or eclampsia [1]. They are also low in people with malabsorption syndromes such as celiac disease, Crohn's disease, and ulcerative colitis [3].&lt;/p&gt;
+
+&lt;h2&gt;Vitamin B6 Deficiency&lt;/h2&gt;
+
+&lt;p&gt;Isolated vitamin B6 deficiency is uncommon; inadequate vitamin B6 status is usually associated with low concentrations of other B-complex vitamins, such as vitamin B12 and folic acid [2]. Vitamin B6 deficiency causes biochemical changes that become more obvious as the deficiency progresses [2].&lt;/p&gt;
+
+&lt;p&gt;Vitamin B6 deficiency is associated with microcytic anemia, electroencephalographic abnormalities, dermatitis with cheilosis (scaling on the lips and cracks at the corners of the mouth) and glossitis (swollen tongue), depression and confusion, and weakened immune function [1, 2]. Individuals with borderline vitamin B6 concentrations or mild deficiency might have no deficiency signs or symptoms for months or even years. In infants, vitamin B6 deficiency causes irritability, abnormally acute hearing, and convulsive seizures [2].&lt;/p&gt;
+
+&lt;p&gt;End-stage renal diseases, chronic renal insufficiency, and other kidney diseases can cause vitamin B6 deficiency [3]. In addition, vitamin B6 deficiency can result from malabsorption syndromes, such as celiac disease, Crohn's disease, and ulcerative colitis. Certain genetic diseases, such as homocystinuria, can also cause vitamin B6 deficiency [2]. Some medications, such as antiepileptic drugs, can lead to deficiency over time.&lt;/p&gt;
+
+&lt;h2&gt;Groups at Risk of Vitamin B6 Inadequacy&lt;/h2&gt;
+
+&lt;p&gt;Frank vitamin B6 deficiencies are relatively rare in the United States but some individuals might have marginal vitamin B6 status [2]. The following groups are among those most likely to have inadequate intakes of vitamin B6.&lt;/p&gt;
+
+&lt;h3&gt;Individuals with impaired renal function&lt;/h3&gt;
+
+&lt;p&gt;People with poor renal function, including those with end-stage renal disease and chronic renal insufficiency, often have low vitamin B6 concentrations [3]. Plasma PLP concentrations are also low in patients receiving maintenance kidney dialysis or intermittent peritoneal dialysis, as well as those who have undergone a kidney transplant, perhaps due to increased metabolic clearance of PLP [11]. Patients with kidney disease often show clinical symptoms similar to those of people with vitamin B6 deficiency [11].&lt;/p&gt;
+
+&lt;h3&gt;Individuals with autoimmune disorders&lt;/h3&gt;
+
+&lt;p&gt;People with rheumatoid arthritis often have low vitamin B6 concentrations, and vitamin B6 concentrations tend to decrease with increased disease severity [3]. These low vitamin B6 levels are due to the inflammation caused by the disease and, in turn, increase the inflammation associated with the disease. Although vitamin B6 supplements can normalize vitamin B6 concentrations in patients with rheumatoid arthritis, they do not suppress the production of inflammatory cytokines or decrease levels of inflammatory markers [3, 12].&lt;/p&gt;
+
+&lt;p&gt;Patients with celiac disease, Crohn's disease, ulcerative colitis, inflammatory bowel disease, and other malabsorptive autoimmune disorders tend to have low plasma PLP concentrations [3]. The mechanisms for this effect are not known. However, celiac disease is associated with lower pyridoxine absorption, and low PLP concentrations in inflammatory bowel disease could be due to the inflammatory response [3].&lt;/p&gt;
+
+&lt;h3&gt;People with alcohol dependence&lt;/h3&gt;
+
+&lt;p&gt;Plasma PLP concentrations tend to be very low in people with alcohol dependence [1]. Alcohol produces acetaldehyde, which decreases net PLP formation by cells and competes with PLP in protein binding [1, 3]. As a result, the PLP in cells might be more susceptible to hydrolysis by membrane-bound phosphatase. People with alcohol dependence might benefit from pyridoxine supplementation [3].&lt;/p&gt;
+
+&lt;h2&gt;Vitamin B6 and Health&lt;/h2&gt;
+
+&lt;h3&gt;Cardiovascular disease&lt;/h3&gt;
+
+&lt;p&gt;Scientists have hypothesized that certain B vitamins (folic acid, vitamin B12, and vitamin B6) might reduce cardiovascular disease risk by lowering homocysteine levels [1, 13]. Therefore, several clinical trials have assessed the safety and efficacy of supplemental doses of B vitamins to reduce heart disease risk. Evaluating the impact of vitamin B6 from many of these trials is challenging because these studies also included folic acid and vitamin B12 supplementation. For example, the Heart Outcomes Prevention Evaluation 2 (HOPE 2) trial, which included more than 5,500 adults with known cardiovascular disease, found that supplementation for 5 years with vitamin B6 (50 mg/day), vitamin B12 (1 mg/day), and folic acid (2.5 mg/day) reduced homocysteine levels and decreased stroke risk by about 25%, but the study did not include a separate vitamin B6 group [14].&lt;/p&gt;
+
+&lt;p&gt;Moreover, most other large clinical trials have failed to demonstrate that supplemental B vitamins actually reduce the risk of cardiovascular events, even though they lower homocysteine levels. For example, a randomized clinical trial in 5,442 women age 42 or older found no effect of vitamin B6 supplementation (50 mg/day) in combination with 2.5 mg folic acid and 1 mg vitamin B12 on cardiovascular disease risk [15]. Two large randomized controlled trials, the Norwegian Vitamin Trial and the Western Norway B Vitamin Intervention Trial, did include a group that received only vitamin B6 supplements (40 mg/day). The combined analysis of data from these two trials showed no benefit of vitamin B6 supplementation, with or without folic acid (0.8 mg/day) plus vitamin B12 (0.4 mg/day), on major cardiovascular events in 6,837 patients with ischemic heart disease [13]. In a trial of adults who had suffered a nondisabling stroke, supplementation with high or low doses of a combination of vitamins B6 and B12 and folic acid for 2 years had no effect on subsequent stroke incidence, cardiovascular events, or risk of death [16].&lt;/p&gt;
+
+&lt;p&gt;The research to date provides little evidence that supplemental amounts of vitamin B6, alone or with folic acid and vitamin B12, can help reduce the risk or severity of cardiovascular disease and stroke.&lt;/p&gt;
+
+&lt;h3&gt;Cancer&lt;/h3&gt;
+
+&lt;p&gt;Some research has associated low plasma vitamin B6 concentrations with an increased risk of certain kinds of cancer [3]. For example, a meta-analysis of prospective studies found that people with a vitamin B6 intake in the highest quintile had a 20% lower risk of colorectal cancer than those with an intake in the lowest quintile [17].&lt;/p&gt;
+
+&lt;p&gt;However, the small number of clinical trials completed to date has not shown that vitamin B6 supplementation can help prevent cancer or reduce its impact on mortality. For example, an analysis of data from two large randomized, double-blind, placebo-controlled trials in Norway found no association between vitamin B6 supplementation and cancer incidence, mortality, or all-cause mortality [18].&lt;/p&gt;
+
+&lt;h3&gt;Cognitive function&lt;/h3&gt;
+
+&lt;p&gt;Poor vitamin B6 status has been hypothesized to play a role in the cognitive decline that some older adults experience [19]. Several studies have demonstrated an association between vitamin B6 and brain function in the elderly. For example, an analysis of data from the Boston Normative Aging Study found associations between higher serum vitamin B6 concentrations and better memory test scores in 70 men age 54&amp;ndash;81 years [20].&lt;/p&gt;
+
+&lt;p&gt;However, a systematic review of 14 randomized controlled trials found insufficient evidence of an effect of vitamin B6 supplementation alone or in combination with vitamin B12 and/or folic acid on cognitive function in people with normal cognitive function, dementia, or ischemic vascular disease [19]. According to this review, most of the studies were of low quality and limited applicability. A Cochrane Review found no evidence that short-term vitamin B6 supplementation (for 5&amp;ndash;12 weeks) improves cognitive function or mood in the two studies that the authors evaluated [21]. The review did find some evidence that daily vitamin B6 supplements (20 mg) can affect biochemical indices of vitamin B6 status in healthy older men, but these changes had no overall impact on cognition.&lt;/p&gt;
+
+&lt;p&gt;More evidence is needed to determine whether vitamin B6 supplements might help prevent or treat cognitive decline in elderly people.&lt;/p&gt;
+
+&lt;h3&gt;Premenstrual syndrome&lt;/h3&gt;
+
+&lt;p&gt;Some evidence suggests that vitamin B6 supplements could reduce the symptoms of premenstrual syndrome (PMS), but conclusions are limited due to the poor quality of most studies [22]. A meta-analysis of nine published trials involving almost 1,000 women with PMS found that vitamin B6 is more effective in reducing PMS symptoms than placebo, but most of the studies analyzed were small and several had methodological weaknesses [22]. A more recent double-blind, randomized controlled trial in 94 women found that 80 mg pyridoxine taken daily over the course of three cycles was associated with statistically significant reductions in a broad range of PMS symptoms, including moodiness; irritability; forgetfulness; bloating; and, especially, anxiety [23]. The potential effectiveness of vitamin B6 in alleviating the mood-related symptoms of PMS could be due to its role as a cofactor in neurotransmitter biosynthesis [24]. Although vitamin B6 shows promise for alleviating PMS symptoms, more research is needed before drawing firm conclusions.&lt;/p&gt;
+
+&lt;h3&gt;Nausea and vomiting in pregnancy&lt;/h3&gt;
+
+&lt;p&gt;About half of all women experience nausea and vomiting in the first few months of pregnancy, and about 50%&amp;ndash;80% experience nausea only [25, 26]. Although this condition is generally known as morning sickness, it often lasts throughout the day. The condition is not life threatening and typically goes away after 12&amp;ndash;20 weeks, but its symptoms can disrupt a person's social and physical functioning.&lt;/p&gt;
+
+&lt;p&gt;Prospective studies on vitamin B6 supplements to treat morning sickness have had mixed results. In two randomized, placebo-controlled trials, 30&amp;ndash;75 mg of oral pyridoxine per day significantly decreased nausea in pregnant women who were experiencing nausea [27, 28]. The authors of a recent Cochrane Review of studies on interventions for nausea and vomiting in pregnancy could not draw firm conclusions on the value of vitamin B6 to control the symptoms of morning sickness [26].&lt;/p&gt;
+
+&lt;p&gt;Randomized trials have shown that a combination of vitamin B6 and doxylamine (an antihistamine) is associated with a 70% reduction in nausea and vomiting in pregnant women and lower hospitalization rates for this problem [25, 29].&lt;/p&gt;
+
+&lt;p&gt;The American College of Obstetrics and Gynecology (ACOG) recommends monotherapy with 10&amp;ndash;25 mg of vitamin B6 three or four times a day to treat nausea and vomiting in pregnancy [29]. If the patient's condition does not improve, ACOG recommends adding doxylamine. Before taking a vitamin B6 supplement, pregnant women should consult a physician because doses could approach the UL.&lt;/p&gt;
+
+
+&lt;h2&gt;Health Risks from Excessive Vitamin B6&lt;/h2&gt;
+
+&lt;p&gt;High intakes of vitamin B6 from food sources have not been reported to cause adverse effects [1]. However, chronic administration of 1&amp;ndash;6 g oral pyridoxine per day for 12&amp;ndash;40 months can cause severe and progressive sensory neuropathy characterized by ataxia (loss of control of bodily movements) [10, 30-33]. Symptom severity appears to be dose dependent, and the symptoms usually stop if the patient discontinues the pyridoxine supplements as soon as the neurologic symptoms appear. Other effects of excessive vitamin B6 intakes include painful, disfiguring dermatological lesions; photosensitivity; and gastrointestinal symptoms, such as nausea and heartburn [1, 2, 30].&lt;/p&gt;
+
+&lt;p&gt;The scientific literature includes isolated case reports of congenital defects in the infants of women who took pyridoxine supplements during the first half of pregnancy [7]. However, a more recent observational study found no association between pyridoxine supplementation (mean dose 132.3 &amp;plusmn; 74 mg/day) in pregnant women starting at 7 weeks gestation and continuing for 9 &amp;plusmn; 4.2 weeks and teratogenic effects in their infants [34].&lt;/p&gt;
+
+&lt;p&gt;The FNB has established ULs for vitamin B6 that apply to both food and supplement intakes (Table 3) [1]. The FNB noted that although several reports show sensory neuropathy occurring at doses lower than 500 mg/day, studies in patients treated with vitamin B6 (average dose of 200 mg/day) for up to 5 years found no evidence of this effect. Based on limitations in the data on potential harms from long-term use, the FNB halved the dose used in these studies to establish a UL of 100 mg/day for adults. ULs are lower for children and adolescents based on body size. The ULs do not apply to individuals receiving vitamin B6 for medical treatment, but such individuals should be under the care of a physician.&lt;/p&gt;
+
+&lt;table border="1"&gt;
+	&lt;caption&gt;Table 3: Tolerable Upper Intake Levels (ULs) for Vitamin B6 [1]&lt;/caption&gt;
+	&lt;thead&gt;
+		&lt;tr&gt;
+			&lt;th scope="col"&gt;Age&lt;/th&gt;
+			&lt;th scope="col"&gt;Male&lt;/th&gt;
+			&lt;th scope="col"&gt;Female&lt;/th&gt;
+			&lt;th scope="col"&gt;Pregnancy&lt;/th&gt;
+			&lt;th scope="col"&gt;Lactation&lt;/th&gt;
+		&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;Birth to 6 months&lt;/td&gt;
+			&lt;td align="left"&gt;Not possible to establish*&lt;/td&gt;
+			&lt;td align="left"&gt;Not possible to establish*&lt;/td&gt;
+			&lt;td align="left"&gt;&lt;/td&gt;
+			&lt;td align="left"&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;7&amp;ndash;12 months&lt;/td&gt;
+			&lt;td align="left"&gt;Not possible to establish*&lt;/td&gt;
+			&lt;td align="left"&gt;Not possible to establish*&lt;/td&gt;
+			&lt;td align="left"&gt;&lt;/td&gt;
+			&lt;td align="left"&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;1&amp;ndash;3 years&lt;/td&gt;
+			&lt;td align="right"&gt;30 mg&lt;/td&gt;
+			&lt;td align="right"&gt;30 mg&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;4&amp;ndash;8 years&lt;/td&gt;
+			&lt;td align="right"&gt;40 mg&lt;/td&gt;
+			&lt;td align="right"&gt;40 mg&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;9&amp;ndash;13 years&lt;/td&gt;
+			&lt;td align="right"&gt;60 mg&lt;/td&gt;
+			&lt;td align="right"&gt;60 mg&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+			&lt;td align="right"&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;14&amp;ndash;18 years&lt;/td&gt;
+			&lt;td align="right"&gt;80 mg&lt;/td&gt;
+			&lt;td align="right"&gt;80 mg&lt;/td&gt;
+			&lt;td align="right"&gt;80 mg&lt;/td&gt;
+			&lt;td align="right"&gt;80 mg&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td scope="row"&gt;19+ years&lt;/td&gt;
+			&lt;td align="right"&gt;100 mg&lt;/td&gt;
+			&lt;td align="right"&gt;100 mg&lt;/td&gt;
+			&lt;td align="right"&gt;100 mg&lt;/td&gt;
+			&lt;td align="right"&gt;100 mg&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p style="padding-top: 0px;"&gt;*Breast milk, formula, and food should be the only sources of vitamin B6 for infants.&lt;/p&gt;
+
+&lt;p&gt;In 2023, the Panel on Nutrition, Novel Foods and Food Allergens of the European Food Safety Authority (EFSA) released a scientific opinion on the tolerable upper intake levels for vitamin B6 [35]. Based on systematic reviews that examined associations between vitamin B6 and peripheral neuropathy, the panel set an upper limit for vitamin B6 of 12 mg/day for all adults, including women who are pregnant or lactating, with lower amounts ranging from 2.2 to 10.7 mg/day for infants and children, depending on age.&lt;/p&gt;
+
+&lt;h2&gt;Interactions with Medications&lt;/h2&gt;
+
+&lt;p&gt;Vitamin B6 can interact with certain medications, and several types of medications might adversely affect vitamin B6 levels. A few examples are provided below. Individuals taking these and other medications on a regular basis should discuss their vitamin B6 status with their health care providers.&lt;/p&gt;
+
+&lt;h3&gt;Cycloserine&lt;/h3&gt;
+
+&lt;p&gt;Cycloserine (Seromycin) is a broad-spectrum antibiotic used to treat tuberculosis. In combination with pyridoxal phosphate, cycloserine increases urinary excretion of pyridoxine [9]. The urinary loss of pyridoxine might exacerbate the seizures and neurotoxicity associated with cycloserine. Pyridoxine supplements can help prevent these adverse effects.&lt;/p&gt;
+
+&lt;h3&gt;Antiepileptic medications&lt;/h3&gt;
+
+&lt;p&gt;Some antiepileptic drugs, including valproic acid (Depakene, Stavzor), carbamazepine (Carbatrol, Epitol, Tegretol, and others), and phenytoin (Dilantin) increase the catabolism rate of vitamin B6 vitamers, resulting in low plasma PLP concentrations and hyperhomocysteinemia [36, 37]. High homocysteine levels in antiepileptic drug users might increase the risk of epileptic seizures and systemic vascular events, including stroke, and reduce the ability to control seizures in patients with epilepsy. Furthermore, patients typically use antiepileptic drugs for years, increasing their risk of chronic vascular toxicity.&lt;/p&gt;
+
+&lt;p&gt;Some research also indicates that pyridoxine supplementation (200 mg/day for 12&amp;ndash;120 days) can reduce serum concentrations of phenytoin and phenobarbital, possibly by increasing the drugs' metabolism [33, 38]. Whether lower pyridoxine doses have any effect is not known [9].&lt;/p&gt;
+
+&lt;p&gt;Levetiracetam (Keppra) is an antiepileptic medication with behavioral side effects that include irritability, agitation, and depression [39-41]. Preliminary evidence suggests that vitamin B6 supplementation&amp;mdash;at such doses as 50&amp;ndash;350 mg/day in children [40-42] and 50&amp;ndash;100 mg/day in adults [39]&amp;mdash;might reduce these side effects.&lt;/p&gt;
+
+&lt;h3&gt;Theophylline&lt;/h3&gt;
+
+&lt;p&gt;Theophylline (Aquaphyllin, Elixophyllin, Theolair, Truxophyllin, and many others) can prevent or treat shortness of breath, wheezing, and other breathing problems caused by asthma, chronic bronchitis, emphysema, and other lung diseases. Patients treated with theophylline often have low plasma PLP concentrations, which could contribute to the neurological and central nervous system side effects associated with theophylline, including seizures [9, 33].&lt;/p&gt;
+
+&lt;h2&gt;Vitamin B6 and Healthful Diets&lt;/h2&gt;
+
+&lt;p&gt;The federal government's 2020&amp;ndash;2025 &lt;em&gt;Dietary Guidelines for Americans&lt;/em&gt; notes that &amp;quot;Because foods provide an array of nutrients and other components that have benefits for health, nutritional needs should be met primarily through foods. ... In some cases, fortified foods and dietary supplements are useful when it is not possible otherwise to meet needs for one or more nutrients (e.g., during specific life stages such as pregnancy).&amp;quot;&lt;/p&gt;
+
+&lt;p&gt;For more information about building a healthy dietary pattern, refer to the &lt;a href="https://www.dietaryguidelines.gov" target="_blank"&gt;&lt;em&gt;Dietary Guidelines for Americans&lt;/em&gt;&lt;/a&gt;&lt;a href="https://ods.od.nih.gov:443/About/exit_disclaimer.aspx" title="External Website"&gt;&lt;img src="/images/Common/externallink.png"  height="12" width="12"  alt="external link disclaimer" class="externallink" /&gt;&lt;/a&gt; and the USDA's &lt;a href="https://www.myplate.gov" target="_blank"&gt;MyPlate.&lt;/a&gt;&lt;a href="https://ods.od.nih.gov:443/About/exit_disclaimer.aspx" title="External Website"&gt;&lt;img src="/images/Common/externallink.png"  height="12" width="12"  alt="external link disclaimer" class="externallink" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The &lt;em&gt;Dietary Guidelines for Americans&lt;/em&gt; describes a healthy dietary pattern as one that&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Includes a variety of vegetables; fruits; grains (at least half whole grains); fat-free and low-fat milk, yogurt, and cheese; and oils.
+	&lt;ul&gt;
+		&lt;li&gt;Many fruits, vegetables, and whole grains are good sources of vitamin B6. Some ready-to-eat breakfast cereals are fortified with vitamin B6.&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;Includes a variety of protein foods such as lean meats; poultry; eggs; seafood; beans, peas, and lentils; nuts and seeds; and soy products.
+	&lt;ul&gt;
+		&lt;li&gt;Fish, beef, and turkey contain high amounts of vitamin B6. Beans and nuts are also sources of vitamin B6.&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;Limits foods and beverages higher in added sugars, saturated fat, and sodium.&lt;/li&gt;
+	&lt;li&gt;Limits alcoholic beverages.&lt;/li&gt;
+	&lt;li&gt;Stays within your daily calorie needs.&lt;/li&gt;
+&lt;/ul&gt;
+</Content><References Count="42"><EndNote><RefID>1</RefID><Reference>Institute of Medicine. Food and Nutrition Board. &lt;a href="http://www.nap.edu/catalog.php?record_id=6015" target="external"&gt;Dietary Reference Intakes: Thiamin, Riboflavin, Niacin, Vitamin B6, Folate, Vitamin B12, Pantothenic Acid, Biotin, and Choline&lt;/a&gt;. Washington, DC: National Academy Press; 1998.</Reference><PMID /></EndNote><EndNote><RefID>2</RefID><Reference>McCormick D. Vitamin B6. In: Bowman B, Russell R, eds. Present Knowledge in Nutrition. 9th ed. Washington, DC: International Life Sciences Institute; 2006.</Reference><PMID /></EndNote><EndNote><RefID>3</RefID><Reference>Mackey A, Davis S, Gregory J. Vitamin B6. In: Shils M, Shike M, Ross A, Caballero B, Cousins R, eds. Modern Nutrition in Health and Disease. 10th ed. Baltimore, MD: Lippincott Williams &amp; Wilkins; 2005.</Reference><PMID /></EndNote><EndNote><RefID>4</RefID><Reference>U.S. Department of Agriculture, Agricultural Research Service. &lt;a href="https://fdc.nal.usda.gov/"&gt;FoodData Central&lt;/a&gt;, 2019.</Reference><PMID /></EndNote><EndNote><RefID>5</RefID><Reference>Subar AF, Krebs-Smith SM, Cook A, Kahle LL. Dietary sources of nutrients among US adults, 1989 to 1991. J Am Diet Assoc 1998;98:537-47.</Reference><PMID>9597026</PMID></EndNote><EndNote><RefID>6</RefID><Reference>U.S. Food and Drug Administration. &lt;a href="https://www.federalregister.gov/documents/2016/05/27/2016-11867/food-labeling-revision-of-the-nutrition-and-supplement-facts-labels"&gt;Food Labeling: Revision of the Nutrition and Supplement Facts Labels.&lt;/a&gt; 2016.</Reference><PMID /></EndNote><EndNote><RefID>7</RefID><Reference>&lt;a href="http://www.NaturalDatabase.com" target="external"&gt;Natural Medicines Comprehensive Database&lt;/a&gt;. Vitamin B6. 2011.</Reference><PMID /></EndNote><EndNote><RefID>8</RefID><Reference>Simpson JL, Bailey LB, Pietrzik K, Shane B, Holzgreve W. Micronutrients and women of reproductive potential: required dietary intake and consequences of dietary deficiency or excess. Part I--Folate, Vitamin B12, Vitamin B6. J Matern Fetal Neonatal Med 2010;23:1323-43.</Reference><PMID>20373888</PMID></EndNote><EndNote><RefID>9</RefID><Reference>Bailey RL, Gahche JJ, Lentino CV, Dwyer JT, Engel JS, Thomas PR, et al. Dietary supplement use in the United States, 2003-2006. J Nutr 2011;141:261-6.</Reference><PMID>21178089</PMID></EndNote><EndNote><RefID>10</RefID><Reference>Morris MS, Picciano MF, Jacques PF, Selhub J. Plasma pyridoxal 5'-phosphate in the US population: the National Health and Nutrition Examination Survey, 2003-2004. Am J Clin Nutr 2008;87:1446-54.</Reference><PMID>18469270</PMID></EndNote><EndNote><RefID>11</RefID><Reference>Merrill AH, Jr., Henderson JM. Diseases associated with defects in vitamin B6 metabolism or utilization. Annu Rev Nutr 1987;7:137-56.</Reference><PMID>3300730</PMID></EndNote><EndNote><RefID>12</RefID><Reference>Chiang EP, Selhub J, Bagley PJ, Dallal G, Roubenoff R. Pyridoxine supplementation corrects vitamin B6 deficiency but does not improve inflammation in patients with rheumatoid arthritis. Arthritis Res Ther 2005;7:R1404-11.</Reference><PMID>16277693</PMID></EndNote><EndNote><RefID>13</RefID><Reference>Ebbing M, Bonaa KH, Arnesen E, Ueland PM, Nordrehaug JE, Rasmussen K, et al. Combined analyses and extended follow-up of two randomized controlled homocysteine-lowering B-vitamin trials. J Intern Med 2010;268:367-82.</Reference><PMID>20698927</PMID></EndNote><EndNote><RefID>14</RefID><Reference>Saposnik G, Ray JG, Sheridan P, McQueen M, Lonn E. Homocysteine-lowering therapy and stroke risk, severity, and disability: additional findings from the HOPE 2 trial. Stroke 2009;40:1365-72.</Reference><PMID>19228852</PMID></EndNote><EndNote><RefID>15</RefID><Reference>Albert CM, Cook NR, Gaziano JM, Zaharris E, MacFadyen J, Danielson E, et al. Effect of folic acid and B vitamins on risk of cardiovascular events and total mortality among women at high risk for cardiovascular disease: a randomized trial. JAMA 2008;299:2027-36.</Reference><PMID>18460663</PMID></EndNote><EndNote><RefID>16</RefID><Reference>Toole JF, Malinow MR, Chambless LE, Spence JD, Pettigrew LC, Howard VJ, et al. Lowering homocysteine in patients with ischemic stroke to prevent recurrent stroke, myocardial infarction, and death: the Vitamin Intervention for Stroke Prevention (VISP) randomized controlled trial. JAMA 2004;291:565-75.</Reference><PMID>14762035</PMID></EndNote><EndNote><RefID>17</RefID><Reference>Larsson SC, Orsini N, Wolk A. Vitamin B6 and risk of colorectal cancer: a meta-analysis of prospective studies. JAMA 2010;303:1077-83.</Reference><PMID>20233826</PMID></EndNote><EndNote><RefID>18</RefID><Reference>Ebbing M, Bonaa KH, Nygard O, Arnesen E, Ueland PM, Nordrehaug JE, et al. Cancer incidence and mortality after treatment with folic acid and vitamin B12. JAMA 2009;302:2119-26.</Reference><PMID>19920236</PMID></EndNote><EndNote><RefID>19</RefID><Reference>Balk EM, Raman G, Tatsioni A, Chung M, Lau J, Rosenberg IH. Vitamin B6, B12, and folic acid supplementation and cognitive function: a systematic review of randomized trials. Arch Intern Med 2007;167:21-30.</Reference><PMID>17210874</PMID></EndNote><EndNote><RefID>20</RefID><Reference>Riggs KM, Spiro A, 3rd, Tucker K, Rush D. Relations of vitamin B-12, vitamin B-6, folate, and homocysteine to cognitive performance in the Normative Aging Study. Am J Clin Nutr 1996;63:306-14.</Reference><PMID>8602585</PMID></EndNote><EndNote><RefID>21</RefID><Reference>Malouf R, Grimley Evans J. The effect of vitamin B6 on cognition. Cochrane Database Syst Rev 2003:CD004393.</Reference><PMID>14584010</PMID></EndNote><EndNote><RefID>22</RefID><Reference>Wyatt KM, Dimmock PW, Jones PW, Shaughn O'Brien PM. Efficacy of vitamin B-6 in the treatment of premenstrual syndrome: systematic review. BMJ 1999;318:1375-81.</Reference><PMID>10334745</PMID></EndNote><EndNote><RefID>23</RefID><Reference>Kashanian M, Mazinani R, Jalalmanesh S. Pyridoxine (vitamin B6) therapy for premenstrual syndrome. Int J Gynaecol Obstet 2007;96:43-4.</Reference><PMID>17187801</PMID></EndNote><EndNote><RefID>24</RefID><Reference>Bendich A. The potential for dietary supplements to reduce premenstrual syndrome (PMS) symptoms. J Am Coll Nutr 2000;19:3-12.</Reference><PMID>10682869</PMID></EndNote><EndNote><RefID>25</RefID><Reference>Niebyl JR. Clinical practice. Nausea and vomiting in pregnancy. N Engl J Med 2010;363:1544-50.</Reference><PMID>20942670</PMID></EndNote><EndNote><RefID>26</RefID><Reference>Matthews A, Dowswell T, Haas DM, Doyle M, O'Mathuna DP. Interventions for nausea and vomiting in early pregnancy. Cochrane Database Syst Rev 2010:CD007575.</Reference><PMID>20824863</PMID></EndNote><EndNote><RefID>27</RefID><Reference>Vutyavanich T, Wongtra-ngan S, Ruangsri R. Pyridoxine for nausea and vomiting of pregnancy: a randomized, double-blind, placebo-controlled trial. Am J Obstet Gynecol 1995;173:881-4.</Reference><PMID>7573262</PMID></EndNote><EndNote><RefID>28</RefID><Reference>Sahakian V, Rouse D, Sipes S, Rose N, Niebyl J. Vitamin B6 is effective therapy for nausea and vomiting of pregnancy: a randomized, double-blind placebo-controlled study. Obstet Gynecol 1991;78:33-6.</Reference><PMID>2047064</PMID></EndNote><EndNote><RefID>29</RefID><Reference>ACOG (American College of Obstetrics and Gynecology) Practice Bulletin: nausea and vomiting of pregnancy. Obstet Gynecol 2004;103:803-14.</Reference><PMID>15051578</PMID></EndNote><EndNote><RefID>30</RefID><Reference>Bendich A, Cohen M. Vitamin B6 safety issues. Ann N Y Acad Sci 1990;585:321-30.</Reference><PMID>2192616</PMID></EndNote><EndNote><RefID>31</RefID><Reference>Gdynia HJ, Muller T, Sperfeld AD, Kuhnlein P, Otto M, Kassubek J, et al. Severe sensorimotor neuropathy after intake of highest dosages of vitamin B6. Neuromuscul Disord 2008;18:156-8.</Reference><PMID>18060778</PMID></EndNote><EndNote><RefID>32</RefID><Reference>Perry TA, Weerasuriya A, Mouton PR, Holloway HW, Greig NH. Pyridoxine-induced toxicity in rats: a stereological quantification of the sensory neuropathy. Exp Neurol 2004;190:133-44.</Reference><PMID>15473987</PMID></EndNote><EndNote><RefID>33</RefID><Reference>Bender DA. Non-nutritional uses of vitamin B6. Br J Nutr 1999;81:7-20.</Reference><PMID>10341670</PMID></EndNote><EndNote><RefID>34</RefID><Reference>Shrim A, Boskovic R, Maltepe C, Navios Y, Garcia-Bournissen F, Koren G. Pregnancy outcome following use of large doses of vitamin B6 in the first trimester. J Obstet Gynaecol 2006;26:749-51.</Reference><PMID>17130022</PMID></EndNote><EndNote><RefID>35</RefID><Reference>EFSA NDA Panel (EFSA Panel on Nutrition, Novel Foods and Food Allergens), Turck, D, Bohn, T, Castenmiller, J, de Henauw, et al. Scientific opinion on the tolerable upper intake level for vitamin B6. EFSA Journal 2023; 21(5):8006, 110 pp.</Reference><PMID /></EndNote><EndNote><RefID>36</RefID><Reference>Clayton PT. B6-responsive disorders: a model of vitamin dependency. J Inherit Metab Dis 2006;29:317-26.</Reference><PMID>16763894</PMID></EndNote><EndNote><RefID>37</RefID><Reference>Apeland T, Froyland ES, Kristensen O, Strandjord RE, Mansoor MA. Drug-induced pertubation of the aminothiol redox-status in patients with epilepsy: improvement by B-vitamins. Epilepsy Res 2008;82:1-6.</Reference><PMID>18644700</PMID></EndNote><EndNote><RefID>38</RefID><Reference>Hansson O, Sillanpaa M. Letter: Pyridoxine and serum concentration of phenytoin and phenobarbitone. Lancet 1976;1:256.</Reference><PMID>55569</PMID></EndNote><EndNote><RefID>39</RefID><Reference>Alsaadi T, El Hammasi K, Shahrour TM. Does pyridoxine control behavioral symptoms in adult patients treated with levetiracetam? Case series from UAE. Epilepsy Behav Case Rep 2015;4:94-5.</Reference><PMID>26543816</PMID></EndNote><EndNote><RefID>40</RefID><Reference>Davis GP, McCarthy JT, Magill DB, Coffey B. Behavioral effects of levetiracetam mitigated by pyridoxine. J Child Adolesc Psychopharmacol 2009;19:209-11.</Reference><PMID>19364300</PMID></EndNote><EndNote><RefID>41</RefID><Reference>Marino S, Vitaliti G, Marino SD, et al. Pyridoxine add-on treatment for the control of behavioral adverse effects induced by levetiracetam in children: a case-control prospective study. Ann Pharmacother 2018;52:645-9.</Reference><PMID>29442544</PMID></EndNote><EndNote><RefID>42</RefID><Reference>Major P, Greenberg E, Khan A, Thiele EA. Pyridoxine supplementation for the treatment of levetiracetam-induced behavior side effects in children: preliminary results. Epilepsy Behav. 2008 Oct;13(3):557-9.</Reference><PMID>18647662</PMID></EndNote></References><Disclaimer>This fact sheet by the National Institutes of Health (NIH) Office of Dietary Supplements (ODS) provides information that should not take the place of medical advice. We encourage you to talk to your health care providers (doctor, registered dietitian, pharmacist, etc.) about your interest in, questions about, or use of dietary supplements and what may be best for your overall health. Any mention in this publication of a specific product or service, or recommendation from an organization or professional society, does not represent an endorsement by ODS of that product, service, or expert advice.</Disclaimer><ODSLogo>https://ods.od.nih.gov:443/images/common/NIH-ODSlogo_home.png</ODSLogo></Factsheet>
