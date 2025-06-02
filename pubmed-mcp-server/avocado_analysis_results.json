@@ -1,0 +1,12 @@
+[
+  {
+    "pmid": "29018060",
+    "section": "meta_analysis",
+    "title": "Dietary supplements for treating osteoarthritis: a systematic review and meta-analysis.",
+    "models": {
+      "PubMedBERT": {
+        "entities_count": 1,
+        "entities": [
+          {
+            "entity_group": "LABEL_0",
+            "score": 

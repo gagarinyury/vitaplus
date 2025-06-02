@@ -67,8 +67,9 @@ class PubMedMCPServer {
     const getArticleDetails = new GetArticleDetailsTool(this.pubmedClient);
     const searchInteractions = new SearchInteractionsTool(this.pubmedClient);
     const searchSafety = new SearchSafetyTool(this.pubmedClient);
-    const analyzeSupplementSafety = new AnalyzeSupplementSafetyTool();
-    const predictCypInhibition = new PredictCypInhibitionTool();
+    // Commented out - functionality merged into analyze_supplements_complete
+    // const analyzeSupplementSafety = new AnalyzeSupplementSafetyTool();
+    // const predictCypInhibition = new PredictCypInhibitionTool();
     const analyzeSupplementsComplete = new AnalyzeSupplementsCompleteTool(this.pubmedClient);
 
     // Register tools
@@ -76,8 +77,9 @@ class PubMedMCPServer {
     this.tools.set('get_article_details', getArticleDetails);
     this.tools.set('search_interactions', searchInteractions);
     this.tools.set('search_safety', searchSafety);
-    this.tools.set('analyze_supplement_safety', analyzeSupplementSafety);
-    this.tools.set('predict_cyp_inhibition', predictCypInhibition);
+    // Commented out - functionality merged into analyze_supplements_complete
+    // this.tools.set('analyze_supplement_safety', analyzeSupplementSafety);
+    // this.tools.set('predict_cyp_inhibition', predictCypInhibition);
     this.tools.set('analyze_supplements_complete', analyzeSupplementsComplete);
 
     console.error(`[PubMedMCPServer] Registered ${this.tools.size} tools`);
