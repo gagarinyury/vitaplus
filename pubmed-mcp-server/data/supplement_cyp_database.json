@@ -1,0 +1,250 @@
+{
+  "supplements_cyp_data": {
+    "ashwagandha": {
+      "aliases": ["withania_somnifera", "indian_ginseng", "winter_cherry"],
+      "cyp_effects": {
+        "CYP1A2": {"action": "none", "confidence": 0.89},
+        "CYP2C9": {"action": "none", "confidence": 0.92},
+        "CYP2C19": {"action": "none", "confidence": 0.88},
+        "CYP2D6": {"action": "none", "confidence": 0.95},
+        "CYP2B6": {"action": "inhibitor", "strength": "moderate", "ic50": 79.16},
+        "CYP3A4": {"action": "inducer", "strength": "moderate", "confidence": 0.76}
+      },
+      "safety_notes": "Осторожно с HIV препаратами и иммунодепрессантами",
+      "references": ["PMID:33395575", "PMID:28219059"]
+    },
+    "rhodiola": {
+      "aliases": ["rhodiola_rosea", "golden_root", "arctic_root"],
+      "cyp_effects": {
+        "CYP1A2": {"action": "none", "confidence": 0.91},
+        "CYP2C9": {"action": "none", "confidence": 0.88},
+        "CYP2C19": {"action": "none", "confidence": 0.90},
+        "CYP2D6": {"action": "weak_inhibitor", "confidence": 0.75},
+        "CYP3A4": {"action": "weak_inhibitor", "confidence": 0.82}
+      },
+      "safety_notes": "Редкие взаимодействия с психотропными препаратами",
+      "references": ["PMID:30659561", "PMID:32719085"]
+    },
+    "st_johns_wort": {
+      "aliases": ["hypericum_perforatum", "saint_johns_wort"],
+      "cyp_effects": {
+        "CYP1A2": {"action": "inducer", "strength": "strong", "confidence": 0.95},
+        "CYP2C9": {"action": "inducer", "strength": "moderate", "confidence": 0.88},
+        "CYP2C19": {"action": "inducer", "strength": "strong", "confidence": 0.92},
+        "CYP2D6": {"action": "none", "confidence": 0.85},
+        "CYP3A4": {"action": "inducer", "strength": "strong", "confidence": 0.98}
+      },
+      "safety_notes": "MAJOR: Сильное взаимодействие с антидепрессантами, противозачаточными",
+      "references": ["PMID:32035031", "PMID:31545442"]
+    },
+    "turmeric": {
+      "aliases": ["curcuma_longa", "curcumin"],
+      "cyp_effects": {
+        "CYP1A2": {"action": "weak_inhibitor", "confidence": 0.78},
+        "CYP2C9": {"action": "inhibitor", "strength": "moderate", "confidence": 0.85},
+        "CYP2C19": {"action": "weak_inhibitor", "confidence": 0.72},
+        "CYP2D6": {"action": "none", "confidence": 0.90},
+        "CYP3A4": {"action": "weak_inhibitor", "confidence": 0.81}
+      },
+      "safety_notes": "Осторожно с антикоагулянтами (варфарин)",
+      "references": ["PMID:31661681", "PMID:28219059"]
+    },
+    "ginkgo": {
+      "aliases": ["ginkgo_biloba"],
+      "cyp_effects": {
+        "CYP1A2": {"action": "weak_inhibitor", "confidence": 0.82},
+        "CYP2C9": {"action": "inducer", "strength": "weak", "confidence": 0.75},
+        "CYP2C19": {"action": "inducer", "strength": "weak", "confidence": 0.78},
+        "CYP2D6": {"action": "weak_inhibitor", "confidence": 0.85},
+        "CYP3A4": {"action": "weak_inhibitor", "confidence": 0.88}
+      },
+      "safety_notes": "Риск кровотечений с антикоагулянтами",
+      "references": ["PMID:28843489", "PMID:25990003"]
+    },
+    "ginseng": {
+      "aliases": ["panax_ginseng", "korean_ginseng", "asian_ginseng"],
+      "cyp_effects": {
+        "CYP1A2": {"action": "none", "confidence": 0.88},
+        "CYP2C9": {"action": "weak_inhibitor", "confidence": 0.75},
+        "CYP2C19": {"action": "none", "confidence": 0.82},
+        "CYP2D6": {"action": "none", "confidence": 0.91},
+        "CYP3A4": {"action": "weak_inhibitor", "confidence": 0.79}
+      },
+      "safety_notes": "Может влиять на глюкозу крови",
+      "references": ["PMID:29168434", "PMID:26785065"]
+    },
+    "garlic": {
+      "aliases": ["allium_sativum", "aged_garlic"],
+      "cyp_effects": {
+        "CYP1A2": {"action": "weak_inhibitor", "confidence": 0.75},
+        "CYP2C9": {"action": "weak_inhibitor", "confidence": 0.78},
+        "CYP2C19": {"action": "weak_inhibitor", "confidence": 0.72},
+        "CYP2D6": {"action": "none", "confidence": 0.95},
+        "CYP3A4": {"action": "weak_inhibitor", "confidence": 0.82}
+      },
+      "safety_notes": "Риск кровотечений с антикоагулянтами",
+      "references": ["PMID:30875138", "PMID:28843489"]
+    },
+    "milk_thistle": {
+      "aliases": ["silybum_marianum", "silymarin"],
+      "cyp_effects": {
+        "CYP1A2": {"action": "none", "confidence": 0.92},
+        "CYP2C9": {"action": "weak_inhibitor", "confidence": 0.78},
+        "CYP2C19": {"action": "none", "confidence": 0.88},
+        "CYP2D6": {"action": "none", "confidence": 0.95},
+        "CYP3A4": {"action": "weak_inhibitor", "confidence": 0.85}
+      },
+      "safety_notes": "Может влиять на печеночные ферменты",
+      "references": ["PMID:30875138", "PMID:25990003"]
+    },
+    "saw_palmetto": {
+      "aliases": ["serenoa_repens"],
+      "cyp_effects": {
+        "CYP1A2": {"action": "none", "confidence": 0.85},
+        "CYP2C9": {"action": "none", "confidence": 0.88},
+        "CYP2C19": {"action": "none", "confidence": 0.82},
+        "CYP2D6": {"action": "none", "confidence": 0.91},
+        "CYP3A4": {"action": "none", "confidence": 0.89}
+      },
+      "safety_notes": "Минимальные известные взаимодействия",
+      "references": ["PMID:26785065", "PMID:25990003"]
+    },
+    "green_tea": {
+      "aliases": ["camellia_sinensis", "egcg", "green_tea_extract"],
+      "cyp_effects": {
+        "CYP1A2": {"action": "inhibitor", "strength": "moderate", "confidence": 0.92},
+        "CYP2C9": {"action": "weak_inhibitor", "confidence": 0.75},
+        "CYP2C19": {"action": "weak_inhibitor", "confidence": 0.78},
+        "CYP2D6": {"action": "weak_inhibitor", "confidence": 0.82},
+        "CYP3A4": {"action": "weak_inhibitor", "confidence": 0.85}
+      },
+      "safety_notes": "Осторожно с кофеином и стимуляторами",
+      "references": ["PMID:31661681", "PMID:28843489"]
+    },
+    "echinacea": {
+      "aliases": ["echinacea_purpurea", "purple_coneflower"],
+      "cyp_effects": {
+        "CYP1A2": {"action": "inducer", "strength": "weak", "confidence": 0.78},
+        "CYP2C9": {"action": "none", "confidence": 0.85},
+        "CYP2C19": {"action": "none", "confidence": 0.82},
+        "CYP2D6": {"action": "none", "confidence": 0.91},
+        "CYP3A4": {"action": "inducer", "strength": "weak", "confidence": 0.75}
+      },
+      "safety_notes": "Может снижать эффективность иммунодепрессантов",
+      "references": ["PMID:25990003", "PMID:26785065"]
+    },
+    "ginger": {
+      "aliases": ["zingiber_officinale"],
+      "cyp_effects": {
+        "CYP1A2": {"action": "none", "confidence": 0.88},
+        "CYP2C9": {"action": "weak_inhibitor", "confidence": 0.75},
+        "CYP2C19": {"action": "none", "confidence": 0.82},
+        "CYP2D6": {"action": "none", "confidence": 0.95},
+        "CYP3A4": {"action": "none", "confidence": 0.89}
+      },
+      "safety_notes": "Осторожно с антикоагулянтами",
+      "references": ["PMID:30875138", "PMID:28843489"]
+    },
+    "valerian": {
+      "aliases": ["valeriana_officinalis"],
+      "cyp_effects": {
+        "CYP1A2": {"action": "none", "confidence": 0.85},
+        "CYP2C9": {"action": "none", "confidence": 0.88},
+        "CYP2C19": {"action": "none", "confidence": 0.82},
+        "CYP2D6": {"action": "none", "confidence": 0.91},
+        "CYP3A4": {"action": "weak_inhibitor", "confidence": 0.72}
+      },
+      "safety_notes": "Может усиливать седативный эффект",
+      "references": ["PMID:26785065", "PMID:25990003"]
+    },
+    "kava": {
+      "aliases": ["piper_methysticum", "kava_kava"],
+      "cyp_effects": {
+        "CYP1A2": {"action": "inhibitor", "strength": "moderate", "confidence": 0.88},
+        "CYP2C9": {"action": "inhibitor", "strength": "moderate", "confidence": 0.85},
+        "CYP2C19": {"action": "inhibitor", "strength": "moderate", "confidence": 0.82},
+        "CYP2D6": {"action": "inhibitor", "strength": "weak", "confidence": 0.78},
+        "CYP3A4": {"action": "inhibitor", "strength": "strong", "confidence": 0.92}
+      },
+      "safety_notes": "MAJOR: Гепатотоксичность, взаимодействие с седативными",
+      "references": ["PMID:31545442", "PMID:28843489"]
+    },
+    "evening_primrose": {
+      "aliases": ["oenothera_biennis", "evening_primrose_oil"],
+      "cyp_effects": {
+        "CYP1A2": {"action": "none", "confidence": 0.92},
+        "CYP2C9": {"action": "none", "confidence": 0.88},
+        "CYP2C19": {"action": "none", "confidence": 0.85},
+        "CYP2D6": {"action": "none", "confidence": 0.95},
+        "CYP3A4": {"action": "none", "confidence": 0.91}
+      },
+      "safety_notes": "Минимальные известные взаимодействия",
+      "references": ["PMID:25990003"]
+    },
+    "black_cohosh": {
+      "aliases": ["actaea_racemosa", "cimicifuga_racemosa"],
+      "cyp_effects": {
+        "CYP1A2": {"action": "none", "confidence": 0.85},
+        "CYP2C9": {"action": "none", "confidence": 0.88},
+        "CYP2C19": {"action": "none", "confidence": 0.82},
+        "CYP2D6": {"action": "inhibitor", "strength": "moderate", "confidence": 0.85},
+        "CYP3A4": {"action": "none", "confidence": 0.89}
+      },
+      "safety_notes": "Редкие случаи гепатотоксичности",
+      "references": ["PMID:26785065", "PMID:25990003"]
+    }
+  },
+  
+  "drug_substrates": {
+    "CYP3A4": [
+      "simvastatin", "atorvastatin", "lovastatin", "cyclosporine", "tacrolimus", 
+      "midazolam", "triazolam", "alprazolam", "nifedipine", "amlodipine",
+      "felodipine", "sildenafil", "tadalafil", "vardenafil", "testosterone",
+      "cortisol", "progesterone", "ethinyl_estradiol", "tamoxifen", "exemestane"
+    ],
+    "CYP2C9": [
+      "warfarin", "acenocoumarol", "phenytoin", "tolbutamide", "glipizide",
+      "glyburide", "ibuprofen", "naproxen", "diclofenac", "celecoxib",
+      "losartan", "irbesartan", "candesartan", "fluoxetine", "amitriptyline"
+    ],
+    "CYP2D6": [
+      "fluoxetine", "paroxetine", "sertraline", "venlafaxine", "amitriptyline",
+      "nortriptyline", "desipramine", "metoprolol", "propranolol", "timolol",
+      "codeine", "oxycodone", "hydrocodone", "tramadol", "tamoxifen", 
+      "aripiprazole", "haloperidol", "risperidone"
+    ],
+    "CYP2C19": [
+      "omeprazole", "esomeprazole", "lansoprazole", "pantoprazole", 
+      "clopidogrel", "diazepam", "lorazepam", "phenytoin", "mephenytoin",
+      "propranolol", "imipramine", "clomipramine", "moclobemide"
+    ],
+    "CYP1A2": [
+      "caffeine", "theophylline", "aminophylline", "clozapine", "olanzapine",
+      "duloxetine", "fluvoxamine", "mexiletine", "propranolol", "verapamil",
+      "acetaminophen", "phenacetin", "tacrine", "tizanidine"
+    ],
+    "CYP2B6": [
+      "efavirenz", "bupropion", "cyclophosphamide", "ifosfamide", "tamoxifen",
+      "selegiline", "methadone", "ketamine", "propofol", "artemisinin"
+    ]
+  },
+  
+  "interaction_severity": {
+    "major": {
+      "description": "Клинически значимое взаимодействие, требует корректировки дозы или избегания комбинации",
+      "color": "red"
+    },
+    "moderate": {
+      "description": "Умеренное взаимодействие, требует мониторинга",
+      "color": "orange"
+    },
+    "minor": {
+      "description": "Минимальное клиническое значение",
+      "color": "yellow"
+    },
+    "theoretical": {
+      "description": "Теоретическое взаимодействие на основе механизма",
+      "color": "blue"
+    }
+  }
+}

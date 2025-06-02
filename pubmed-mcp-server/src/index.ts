@@ -17,6 +17,9 @@ import { SearchPubMedTool } from './tools/search-pubmed.js';
 import { GetArticleDetailsTool } from './tools/get-article-details.js';
 import { SearchInteractionsTool } from './tools/search-interactions.js';
 import { SearchSafetyTool } from './tools/search-safety.js';
+import { AnalyzeSupplementSafetyTool } from './tools/analyze-supplement-safety.js';
+import { PredictCypInhibitionTool } from './tools/predict-cyp-inhibition.js';
+import { AnalyzeSupplementsCompleteTool } from './tools/analyze-supplements-complete.js';
 
 class PubMedMCPServer {
   private server: Server;
@@ -64,12 +67,18 @@ class PubMedMCPServer {
     const getArticleDetails = new GetArticleDetailsTool(this.pubmedClient);
     const searchInteractions = new SearchInteractionsTool(this.pubmedClient);
     const searchSafety = new SearchSafetyTool(this.pubmedClient);
+    const analyzeSupplementSafety = new AnalyzeSupplementSafetyTool();
+    const predictCypInhibition = new PredictCypInhibitionTool();
+    const analyzeSupplementsComplete = new AnalyzeSupplementsCompleteTool(this.pubmedClient);
 
     // Register tools
     this.tools.set('search_pubmed', searchPubMed);
     this.tools.set('get_article_details', getArticleDetails);
     this.tools.set('search_interactions', searchInteractions);
     this.tools.set('search_safety', searchSafety);
+    this.tools.set('analyze_supplement_safety', analyzeSupplementSafety);
+    this.tools.set('predict_cyp_inhibition', predictCypInhibition);
+    this.tools.set('analyze_supplements_complete', analyzeSupplementsComplete);
 
     console.error(`[PubMedMCPServer] Registered ${this.tools.size} tools`);
   }

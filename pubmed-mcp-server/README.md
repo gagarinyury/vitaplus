@@ -1,15 +1,18 @@
-# PubMed MCP Server
+# VitaPlus PubMed MCP Server
 
-A Model Context Protocol (MCP) server that provides tools for searching and analyzing medical literature from PubMed. This server enables AI assistants like Claude to access scientific research data for drug interactions, safety information, and medical research.
+Мощный MCP (Model Context Protocol) сервер для интеграции с PubMed API и анализа безопасности добавок. Предоставляет Claude Desktop доступ к медицинской литературе и анализу взаимодействий добавок.
 
-## Features
+## 🚀 Возможности
 
-### Available Tools
+### 7 Инструментов для анализа добавок и медицинских исследований:
 
-1. **search_pubmed** - Search PubMed for medical and scientific articles
-2. **get_article_details** - Get detailed information for specific articles by PMID
-3. **search_interactions** - Find drug-drug, drug-supplement, or supplement-supplement interactions
-4. **search_safety** - Search for safety information, adverse effects, and contraindications
+1. **search_pubmed** - Поиск медицинских статей в PubMed
+2. **get_article_details** - Получение детальной информации о статьях
+3. **search_safety** - Поиск информации о безопасности веществ
+4. **search_interactions** - Поиск лекарственных взаимодействий
+5. **analyze_supplement_safety** - Быстрый анализ безопасности добавок (база данных CYP450)
+6. **predict_cyp_inhibition** - ML-предсказания CYP450 взаимодействий
+7. **analyze_supplements_complete** - 🌟 **Комплексный анализ** (все функции в одном инструменте)
 
 ### Key Capabilities
 
